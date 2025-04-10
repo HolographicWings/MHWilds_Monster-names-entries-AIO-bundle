@@ -20,7 +20,7 @@ Useful for modded quests__**.
 ### Method 1: Loose Files (requires REFramework - clean method)
 ﻿- Open "**re2_fw_config.txt**" with any text editor and search for the the following line:
   `LooseFileLoader_Enabled=`
-﻿  Then change it's value "**true**". (**__LooseFileLoader_Enabled=true__**)
+﻿  Then change it's value to "**true**". (**__LooseFileLoader_Enabled=true__**)
 ﻿  *Note: The config file is generated after the game is ran at least once with REFramework, if you just installed this last or if the config file is missing, please start the game ﻿then close it once you reached the main menu.*
 - Extract the loose version in the game's directory (drop the "natives" folder from the zip into your game folder (where "**MonsterHunterWilds.exe**" is located))
   You can check there is a "**EnemyText.msg.23**" file at this path:
