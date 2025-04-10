@@ -23,6 +23,7 @@ This includes:
 - Simplified Chinese
 - Arabic
 - Latin American Spanish
+Please write me if i made any semantic error.
 
 ---  
 
