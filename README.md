@@ -23,7 +23,7 @@ This includes:
 - Simplified Chinese
 - Arabic
 - Latin American Spanish
-Please write me if i made any semantic error.
+The translations are prefix/suffix based from the Rey Dau strings, so please write me if i made any semantic error.
 
 ---  
 
