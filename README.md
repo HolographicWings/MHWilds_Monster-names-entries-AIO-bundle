@@ -6,6 +6,26 @@ Useful for modded quests__**.
 
 ---  
 
+## Supported Languages:
+✅All **vanilla languages** inclued in Monster Hunter Wilds are supported by this mod.
+This includes:
+- Japanese
+- English
+- French
+- Italian
+- German
+- Spanish
+- Russian
+- Polish
+- Portuguese (Brazil)
+- Korean
+- Traditional Chinese
+- Simplified Chinese
+- Arabic
+- Latin American Spanish
+
+---  
+
 ## Installation requirements:  
 
 - [**REFramework**](https://github.com/praydog/REFramework-nightly/releases). (Required for first installation method)  
