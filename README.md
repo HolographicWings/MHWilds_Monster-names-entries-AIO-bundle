@@ -1,8 +1,8 @@
 # Monster names AIO bundle - Installation Guide
 
 ## Description  
-Adds **Tempered**, **Arch-Tempered**, and **Frenzied** variants to all **large monsters**, **small monsters**, **endemic life**, and **fishes** in Monster Hunter Wilds' localization file.
-Useful for modded quests.
+Adds **Tempered**, **Arch-Tempered**, and **Frenzied** variants to all **large monsters**, **small monsters**, **endemic life**, and **fishes** **__in Monster Hunter Wilds' localization file.
+Useful for modded quests__**.
 
 ---  
 
