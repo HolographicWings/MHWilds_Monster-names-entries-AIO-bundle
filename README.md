@@ -51,7 +51,7 @@ This includes:
 *Note: REFramework is still required for the quest loaders so....*
 - Drop the "**re_chunk_000.pak.sub_000.pak.patch_00x.pak**" from the zip to the game's directory (where "**MonsterHunterWilds.exe**" is located).
 - Rename the file by replacing the "**x**" at it's end with the next available number:
-﻿  For example, if the highest existing file is
+﻿  For example, if the last existing file is
 ﻿  "**re_chunk_000.pak.sub_000.pak.__patch_002.pak__**",
 ﻿  rename the mod file to:
 ﻿  "**re_chunk_000.pak.sub_000.pak.__patch_003.pak__**"
