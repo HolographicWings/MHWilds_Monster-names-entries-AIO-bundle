@@ -71,7 +71,7 @@ The translations are prefix/suffix based from the Rey Dau strings, so please wri
 
 ### Method 2: Pak File
 - Remove the file "**re_chunk_000.pak.sub_000.pak.patch_00x.pak**" you installed and *renamed* in the installation guide.
-﻿﻿  **__!!! WARNING !!! If the game is updated, a new "patch_00x.pak" from a mod might be overwritten by the update's one, if you remove this file instead of the mod's one, you will break the game, a file ﻿﻿﻿integrity check will be needed.__**
+﻿﻿  **__!!! WARNING !!! If the game is updated, a "patch_00x.pak" from a mod might be overwritten by the update's one, if you remove this file instead of the mod's one, you will break the game, a file ﻿﻿﻿integrity check will be needed.__**
 
 ---  
 
