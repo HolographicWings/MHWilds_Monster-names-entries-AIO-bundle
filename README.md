@@ -4,6 +4,8 @@
 Adds **__name entries__** for **Tempered**, **Arch-Tempered**, and **Frenzied** variants to all **large monsters**, **small monsters**, **endemic life**, and **fishes** **__in Monster Hunter Wilds' localization file__**.
 **__Useful for modded quests, avoid the blank mission objectives (like "Hunt the")__**.
 
+### BEWARE: This mod is made for the TU2, it's not recommended to install it with any previous or future update before it gets updated for it.
+
 ---  
 
 ## Supported Languages:
@@ -53,9 +55,9 @@ The translations are prefix/suffix based from the Rey Dau strings, so please wri
 - Drop the "**re_chunk_000.pak.sub_000.pak.patch_00x.pak**" from the zip to the game's directory (where "**MonsterHunterWilds.exe**" is located).
 - Rename the file by replacing the "**x**" at it's end with the next available number:
 ﻿  For example, if the last existing file is
-﻿  "**re_chunk_000.pak.sub_000.pak.__patch_002.pak__**",
+﻿  "**re_chunk_000.pak.sub_000.pak.__patch_006.pak__**",
 ﻿  rename the mod file to:
-﻿  "**re_chunk_000.pak.sub_000.pak.__patch_003.pak__**"
+﻿  "**re_chunk_000.pak.sub_000.pak.__patch_007.pak__**"
 ﻿  *Note: Make sure it does not overwrite any other mod.*
 ﻿  **__!!! WARNING !!! If the game is updated, a new "patch_00x.pak" might be created, overwriting the mod, it's why this method is not adviced, you risk to loose the ﻿﻿﻿track.__**
 
