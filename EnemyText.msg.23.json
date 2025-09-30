@@ -761,14 +761,14 @@
         "リオレイア（歴戦王）",
         "Arch-tempered Rathian",
         "Rathian alpha suprême",
-        "Rathian arcitemprato",
+        "Rathian arcitemprata",
         "Kampfgehärteter Rathian",
-        "Rathian hipercurtido",
-        "Архизакалённый Ратиана",
-        "Arcyzahartowany Rathiana",
+        "Rathian hipercurtida",
+        "Архизакалённая Ратиана",
+        "Arcyzahartowana Rathiana",
         "",
         "",
-        "Rathian Arquiaguerrido",
+        "Rathian Arquiaguerrida",
         "리오레이아(역전왕)",
         "雌火龍（歷戰王）",
         "雌火龙（历战王）",
@@ -790,7 +790,7 @@
         "",
         "",
         "",
-        "Rathian curtido"
+        "Rathian hiper-curtida"
       ]
     },
     {
@@ -929,14 +929,14 @@
         "狂竜化リオレイア",
         "Frenzied Rathian",
         "Rathian en furie",
-        "Rathian frenetico",
+        "Rathian frenetica",
         "Rasender Rathian",
-        "Rathian colérico",
-        "Бешеный Ратиана",
-        "Oszalały Rathiana",
+        "Rathian colérica",
+        "Бешеная Ратиана",
+        "Oszalała Rathiana",
         "",
         "",
-        "Rathian Colérico",
+        "Rathian Colérica",
         "광룡화 리오레이아",
         "狂龍化雌火龍",
         "狂龙化雌火龙",
@@ -958,7 +958,7 @@
         "",
         "",
         "",
-        "Rathian colérico"
+        "Rathian colérica"
       ]
     },
     {
@@ -1336,7 +1336,7 @@
         "",
         "",
         "",
-        "Rathalos curtido"
+        "Rathalos hiper-curtido"
       ]
     },
     {
@@ -1882,7 +1882,7 @@
         "",
         "",
         "",
-        "Rathalos Guardián curtido"
+        "Rathalos Guardián hiper-curtido"
       ]
     },
     {
@@ -2428,7 +2428,7 @@
         "",
         "",
         "",
-        "Gravios curtido"
+        "Gravios hiper-curtido"
       ]
     },
     {
@@ -2974,7 +2974,7 @@
         "",
         "",
         "",
-        "Yian Kut-Ku curtido"
+        "Yian Kut-Ku hiper-curtido"
       ]
     },
     {
@@ -3520,7 +3520,7 @@
         "",
         "",
         "",
-        "Gypceros curtido"
+        "Gypceros hiper-curtido"
       ]
     },
     {
@@ -4066,7 +4066,7 @@
         "",
         "",
         "",
-        "Congalala curtido"
+        "Congalala hiper-curtido"
       ]
     },
     {
@@ -4612,7 +4612,7 @@
         "",
         "",
         "",
-        "Blangonga curtido"
+        "Blangonga hiper-curtido"
       ]
     },
     {
@@ -5158,7 +5158,7 @@
         "",
         "",
         "",
-        "Lagiacrus curtido"
+        "Lagiacrus hiper-curtido"
       ]
     },
     {
@@ -5414,6 +5414,48 @@
       ]
     },
     {
+      "name": "EnemyText_EXTRA_NAME_EM0070_00_0",
+      "guid": "af06d9ee-bf95-413a-a46e-89edaf8efdf2",
+      "crc?": 4133837915,
+      "hash": 2841550235,
+      "attributes": [],
+      "content": [
+        "ネルスキュラ・クローン",
+        "Nerscylla Clone",
+        "Nerscylla (clone)",
+        "Clone di Nerscylla",
+        "Nerscylla-Klon",
+        "Clon de Nerscylla",
+        "Клон нерскиллы",
+        "Klon Nerscylli",
+        "",
+        "",
+        "Nerscylla Clone",
+        "네르스큐라 클론",
+        "影蜘蛛複製體",
+        "影蜘蛛克隆体",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "استنساخ نيرسكيلا",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Clon de Nerscylla"
+      ]
+    },
+    {
       "name": "EnemyText_JP_NAME_EM0046_00_0",
       "guid": "24b006a7-d9a5-4438-b94a-b70a6f04c9f2",
       "crc?": 2944669483,
@@ -5636,11 +5678,11 @@
         "Nerscylla arcitemprato",
         "Kampfgehärteter Nerscylla",
         "Nerscylla hipercurtido",
-        "Архизакалённый Нерскилла",
+        "Архизакалённая Нерскилла",
         "Arcyzahartowany Nerscylla",
         "",
         "",
-        "Nerscylla Arquiaguerrido",
+        "Nerscylla Arquiaguerrida",
         "네르스큐라(역전왕)",
         "影蜘蛛（歷戰王）",
         "影蜘蛛（历战王）",
@@ -5662,7 +5704,7 @@
         "",
         "",
         "",
-        "Nerscylla curtido"
+        "Nerscylla hiper-curtido"
       ]
     },
     {
@@ -6182,7 +6224,7 @@
         "Gore Magala arcitemprato",
         "Kampfgehärteter Gore Magala",
         "Gore Magala hipercurtido",
-        "Архизакалённый Кровавая магала",
+        "Архизакалённая Кровавая магала",
         "Arcyzahartowany Gore Magala",
         "",
         "",
@@ -6208,7 +6250,7 @@
         "",
         "",
         "",
-        "Gore Magala curtido"
+        "Gore Magala hiper-curtido"
       ]
     },
     {
@@ -6350,7 +6392,7 @@
         "Gore Magala frenetico",
         "Rasender Gore Magala",
         "Gore Magala colérico",
-        "Бешеный Кровавая магала",
+        "Бешеная Кровавая магала",
         "Oszalały Gore Magala",
         "",
         "",
@@ -6796,7 +6838,7 @@
         "",
         "",
         "",
-        "Mizutsune curtido"
+        "Mizutsune hiper-curtido"
       ]
     },
     {
@@ -7300,7 +7342,7 @@
         "",
         "",
         "",
-        "Seregios curtido"
+        "Seregios hiper-curtido"
       ]
     },
     {
@@ -7479,7 +7521,7 @@
       "attributes": [],
       "content": [
         "まずは優れた飛行能力を活かした回り込みや、\r\n強靭な後脚による攻撃に注意したい。\r\nさらに、その全身から放たれる刃鱗は裂傷状態を\r\n引き起こすだけではなく、放った直後には追撃を\r\n行う場合もあり、一層の警戒が必要となる。\r\nただし、頭部や尻尾の部位破壊によって放たれる\r\n刃鱗の数が減少するという報告もある。よって、\r\n積極的な部位破壊が推奨されるだろう。\r\nなお、裂傷状態の解消にはこんがり肉を食べるか\r\n一定時間の静止が有効となる。",
-        "Beware of flanking attacks and their fierce\r\nhind leg strikes. Viciously aggressive,\r\nthey'll launch their blade-like scales,\r\nwhich can inflict bleeding, and then\r\nimmediately follow-up with additional\r\nattacks. Breaking their heads and tail can\r\nreduce the number of scales they're able to\r\ndeploy, so focus on breaking parts while\r\nhealing your bleeding status as necessary\r\nwith Well-done Steaks or by resting briefly.",
+        "Beware of flanking attacks and their fierce\r\nhind leg strikes. Viciously aggressive,\r\nthey'll launch their blade-like scales,\r\nwhich can inflict bleeding, and then\r\nimmediately follow up with additional\r\nattacks. Breaking their heads and tail can\r\nreduce the number of scales they're able to\r\ndeploy, so focus on breaking parts while\r\nhealing your bleeding status as necessary\r\nwith well-done steaks or by resting briefly.",
         "Attention à leurs attaques de contournement\r\net aux coups féroces de leurs pattes arrière.\r\nTrès agressifs, les Seregios peuvent lancer leurs\r\nécailles tranchantes comme des lames pour\r\ninfliger des hémorragies avant d'attaquer de\r\nplus belle. Briser leur tête ou leur queue permet\r\nde réduire le nombre d'écailles envoyées, alors\r\nfocalisez-vous sur les parties brisables tout en\r\nsoignant vos hémorragies si nécessaire avec des\r\nsteaks à point ou en vous reposant.",
         "Fai attenzione agli attacchi dal fianco\r\ne alle feroci scalciate con le zampe\r\nposteriori. Violenti e aggressivi, lanciano\r\nle loro scaglie simili a lame, che possono\r\ninfliggere sanguinamento. Proseguiranno\r\nsubito l'assalto con altri attacchi.\r\nRompere testa e coda riduce il numero\r\ndi scaglie che lanciano: cerca di rompere\r\nqueste parti e cura il sanguinamento con\r\nbistecche ben cotte o evitando movimenti.",
         "Die agilen Seregios sind für ihre hinterhältigen\r\nTaktiken und heftigen Hinterbeinattacken\r\nberüchtigt. Sie schleudern Opfern zudem ihre\r\nklingenartigen Schuppen entgegen, die\r\nBlutungen verursachen, nur um dann direkt\r\ndarauf weiter anzugreifen. Durch Brechen von\r\nKopf und Schwanz kann die Zahl der Schuppen,\r\ndie sie verschießen können, reduziert werden.\r\nGegen Blutungen hilft ein Gebratenes Steak\r\nsowie kurzzeitiges Ausruhen.",
@@ -7846,7 +7888,7 @@
         "",
         "",
         "",
-        "Anjanath Fulgúreo Guardián curtido"
+        "Anjanath Fulgúreo Guardián hiper-curtido"
       ]
     },
     {
@@ -8392,7 +8434,7 @@
         "",
         "",
         "",
-        "Odogaron Ébano Guardián curtido"
+        "Odogaron Ébano Guardián hiper-curtido"
       ]
     },
     {
@@ -8580,7 +8622,7 @@
         "Hebanowy Odogaron Strażnik znany ze swoich\r\nrozwiniętych, wywołujących krwawienie\r\npazurów i zręcznych ogonów. Oba są nasycone\r\nstrażniczą energią, która może powodować\r\neksplozje. Gdy jego ataki smoczego żywiołu\r\npołączą się z wylkryształami, następuje\r\neksplozja tego samego żywiołu. Ponieważ\r\njednak kryształy tworzą się w wyniku\r\noddziaływania żywiołów, amunicja do procy\r\nmoże być równie skuteczna.",
         "",
         "",
-        "O Odogaron Negro Guardião é conhecido por\r\nsuas enormes garras sangrantes e caudas\r\nhábeis, ambas influenciadas pela energia de\r\nGuardião, que desencadeia explosões. O\r\ncontato entre ataques elementais de dragão\r\ncom Cristais de Serpileite causará uma\r\nexplosão do mesmo elemento. Contudo, como os\r\ncristais são ativados por interferência\r\nelemental, munição de Atiradeira também pode\r\nser usada de forma eficaz.",
+        "O Odogaron Negro Guardião é conhecido por\r\nsuas enormes garras sangrantes e caudas\r\nhábeis, ambas influenciadas pela energia de\r\nGuardião, que desencadeia explosões. O\r\ncontato entre ataques elementais de dragão\r\ncom Cristais de Serpil causará uma explosão\r\ndo mesmo elemento. Contudo, como os\r\ncristais são ativados por interferência\r\nelemental, munição de Atiradeira também\r\npode ser usada de forma eficaz.",
         "발달한 발톱과 꼬리를 이용한 교묘한\r\n공격이 특징. 발톱 공격을 받으면\r\n'열상 상태'가 된다. 또 발톱과 꼬리에\r\n수호룡의 에너지를 두른 경우가 있어\r\n폭발을 동반한 공격도 가능하므로\r\n주의가 필요하다. 용속성을 띤 공격이\r\n용유 결정에 닿으면 같은 속성 폭발이\r\n발생하므로 주의해야 한다. 공격에\r\n따라 형성된 결정은 속성 공격에 반응해\r\n폭발하므로 속성 슬링어탄 등이 효과적이다.",
         "護兇爪龍的特徵是以發達的爪和尾巴施展的巧妙攻\r\n擊。受到牠的利爪攻擊就會陷入裂傷狀態。此外，\r\n有時候牠的爪和尾巴分別帶有護龍能量，會引發爆\r\n炸，需要多加小心。另外，帶有龍屬性的攻擊如果\r\n擊中龍乳結晶，也會引發同屬性爆炸，要多留意。\r\n牠的攻擊形成的結晶會對屬性攻擊起反應並爆炸，\r\n因此屬性投射器彈等攻擊手段也很有效。",
         "护凶爪龙的特点是通过发达的爪子和尾巴进行巧\r\n妙的攻击。若被其利爪击中，猎人将陷入裂伤状\r\n态。此外，它的爪子和尾巴可能携带护龙能量，\r\n导致爆炸，必须小心应对。它的龙属性攻击命中\r\n龙乳结晶后，也会引发同属性的爆炸，尤需注意。\r\n由于攻击形成的结晶会对属性攻击起反应并爆炸，\r\n属性投射器弹药等攻击手段在这种情况下也会非\r\n常有效。",
@@ -8938,7 +8980,7 @@
         "",
         "",
         "",
-        "Doshaguma curtido"
+        "Doshaguma hiper-curtido"
       ]
     },
     {
@@ -9484,7 +9526,7 @@
         "",
         "",
         "",
-        "Doshaguma Guardián curtido"
+        "Doshaguma Guardián hiper-curtido"
       ]
     },
     {
@@ -10030,7 +10072,7 @@
         "",
         "",
         "",
-        "Balahara curtido"
+        "Balahara hiper-curtido"
       ]
     },
     {
@@ -10576,7 +10618,7 @@
         "",
         "",
         "",
-        "Chatacabra curtido"
+        "Chatacabra hiper-curtido"
       ]
     },
     {
@@ -11122,7 +11164,7 @@
         "",
         "",
         "",
-        "Quematrice curtido"
+        "Quematrice hiper-curtido"
       ]
     },
     {
@@ -11641,12 +11683,12 @@
         "Lala Barina alpha suprême",
         "Lala Barina arcitemprato",
         "Kampfgehärteter Lala Barina",
-        "Lala Barina hipercurtido",
-        "Архизакалённый Лала барина",
+        "Lala Barina hipercurtida",
+        "Архизакалённая Лала барина",
         "Arcyzahartowany Lala Barina",
         "",
         "",
-        "Lala Barina Arquiaguerrido",
+        "Lala Barina Arquiaguerrida",
         "라바라 바리나(역전왕)",
         "刺花蜘蛛（歷戰王）",
         "刺花蜘蛛（历战王）",
@@ -11668,7 +11710,7 @@
         "",
         "",
         "",
-        "Lala Barina curtido"
+        "Lala Barina hiper-curtida"
       ]
     },
     {
@@ -11809,12 +11851,12 @@
         "Lala Barina en furie",
         "Lala Barina frenetico",
         "Rasender Lala Barina",
-        "Lala Barina colérico",
-        "Бешеный Лала барина",
+        "Lala Barina colérica",
+        "Бешеная Лала барина",
         "Oszalały Lala Barina",
         "",
         "",
-        "Lala Barina Colérico",
+        "Lala Barina Colérica",
         "광룡화 라바라 바리나",
         "狂龍化刺花蜘蛛",
         "狂龙化刺花蜘蛛",
@@ -11836,7 +11878,7 @@
         "",
         "",
         "",
-        "Lala Barina colérico"
+        "Lala Barina colérica"
       ]
     },
     {
@@ -12214,7 +12256,7 @@
         "",
         "",
         "",
-        "Rompopolo curtido"
+        "Rompopolo hiper-curtido"
       ]
     },
     {
@@ -13306,7 +13348,7 @@
         "",
         "",
         "",
-        "Uth Duna curtido"
+        "Uth Duna hipercurtido"
       ]
     },
     {
@@ -13826,7 +13868,7 @@
         "Nu Udra arcitemprato",
         "Kampfgehärteter Nu Udra",
         "Nu Udra hipercurtido",
-        "Архизакалённый Ну удра",
+        "Архизакалённый ну удра",
         "Arcyzahartowany Nu Udra",
         "",
         "",
@@ -13841,7 +13883,7 @@
         "",
         "",
         "",
-        "المخضرم نو أودرا",
+        "نو أودرا شديد الغضب",
         "",
         "",
         "",
@@ -13852,7 +13894,7 @@
         "",
         "",
         "",
-        "Nu Udra curtido"
+        "Nu Udra hipercurtido"
       ]
     },
     {
@@ -14398,7 +14440,7 @@
         "",
         "",
         "",
-        "Ajarakan curtido"
+        "Ajarakan hiper-curtido"
       ]
     },
     {
@@ -14986,7 +15028,7 @@
         "",
         "",
         "",
-        "Arkveld curtido"
+        "Arkveld hiper-curtido"
       ]
     },
     {
@@ -15419,14 +15461,14 @@
         "護竜アルシュベルド（歴戦の個体）",
         "Tempered Guardian Arkveld",
         "Arkveld Gardien alpha",
-        "Arkveld guardiano temprata",
+        "Arkveld guardiano temprato",
         "Gehärtete Wächter-Arkveld",
-        "Arkveld Guardián curtida",
-        "Закалённая Арквельд-страж",
-        "Zahartowana Arkveld Strażnik",
+        "Arkveld Guardián curtido",
+        "Закалённый Арквельд-страж",
+        "Zahartowany Arkveld Strażnik",
         "",
         "",
-        "Arkveld Guardião Aguerrida",
+        "Arkveld Guardião Aguerrido",
         "수호룡 알슈베르도(역전의 개체)",
         "護鎖刃龍（歷戰個體）",
         "护锁刃龙（历战个体）",
@@ -15448,7 +15490,7 @@
         "",
         "",
         "",
-        "Arkveld Guardián curtida"
+        "Arkveld Guardián curtido"
       ]
     },
     {
@@ -15490,7 +15532,7 @@
         "",
         "",
         "",
-        "Arkveld Guardián curtido"
+        "Arkveld Guardián hiper-curtido"
       ]
     },
     {
@@ -16036,7 +16078,7 @@
         "",
         "",
         "",
-        "Hirabami curtido"
+        "Hirabami hiper-curtido"
       ]
     },
     {
@@ -16624,7 +16666,7 @@
         "",
         "",
         "",
-        "Jin Dahaad curtido"
+        "Jin Dahaad hiper-curtido"
       ]
     },
     {
@@ -17170,7 +17212,7 @@
         "",
         "",
         "",
-        "Xu Wu curtido"
+        "Xu Wu hiper-curtido"
       ]
     },
     {
@@ -17603,14 +17645,14 @@
         "ゾ・シア（歴戦の個体）",
         "Tempered Zoh Shia",
         "Zoh Shia alpha",
-        "Zoh Shia temprata",
+        "Zoh Shia temprato",
         "Gehärtete Zoh Shia",
-        "Zoh Shia curtida",
-        "Закалённая Зо Шиа",
-        "Zahartowana Zoh Shia",
+        "Zoh Shia curtido",
+        "Закалённый Зо Шиа",
+        "Zahartowany Zoh Shia",
         "",
         "",
-        "Zoh Shia Aguerrida",
+        "Zoh Shia Aguerrido",
         "조 시아(역전의 개체)",
         "白熾龍（歷戰個體）",
         "白炽龙（历战个体）",
@@ -17632,7 +17674,7 @@
         "",
         "",
         "",
-        "Zoh Shia curtida"
+        "Zoh Shia curtido"
       ]
     },
     {
@@ -17674,7 +17716,7 @@
         "",
         "",
         "",
-        "Zoh Shia curtido"
+        "Zoh Shia hiper-curtido"
       ]
     },
     {
@@ -18275,14 +18317,14 @@
         "ネコ式訓練タルパンチャー（歴戦の個体）",
         "Tempered High Purrformance Barrel Puncher",
         "Barilator miaousse costaud alpha",
-        "Allenabotte perrrformante temprata",
+        "Allenabotte perrrformante temprato",
         "Gehärtete Miau-Drauf",
-        "Garromato de entrenamiento curtida",
-        "Закалённая Замурчательный бочкобой",
-        "Zahartowana Zaaw. miaunekin treningowy",
+        "Garromato de entrenamiento curtido",
+        "Закалённый Замурчательный бочкобой",
+        "Zahartowany Zaaw. miaunekin treningowy",
         "",
         "",
-        "Barril Brigão de Alta Performiauce Aguerrida",
+        "Barril Brigão de Alta Performiauce Aguerrido",
         "고양이 훈련 통 펀처(역전의 개체)",
         "貓式訓練用拳擊木桶靶（歷戰個體）",
         "猫式训练用拳击木桶靶（历战个体）",
@@ -18304,7 +18346,7 @@
         "",
         "",
         "",
-        "Miauniquí de alto rendimiento curtida"
+        "Miauniquí de alto rendimiento curtido"
       ]
     },
     {
@@ -18346,7 +18388,7 @@
         "",
         "",
         "",
-        "Miauniquí de alto rendimiento curtido"
+        "Miauniquí de alto rendimiento hiper-curtido"
       ]
     },
     {
@@ -18602,6 +18644,552 @@
       ]
     },
     {
+      "name": "EnemyText_JP_NAME_EM0166_00_0",
+      "guid": "1f1e669d-4fd9-4fc8-aad8-2988f1104ae6",
+      "crc?": 1896944080,
+      "hash": 987639942,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_NAME_EM0166_00_0",
+      "guid": "1efb84d8-18d7-474c-b652-200a261279bc",
+      "crc?": 37024535,
+      "hash": 3722543425,
+      "attributes": [],
+      "content": [
+        "オメガ・プラネテス",
+        "Omega Planetes",
+        "Oméga Planetikos",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Омега-Планетес",
+        "Omega Planetes",
+        "",
+        "",
+        "Omega Planetes",
+        "오메가 플라네테스",
+        "遊星歐米茄",
+        "游星欧米茄",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوميغا بلانيتيس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Planetes"
+      ]
+    },
+    {
+      "name": "EnemyText_EXP_EM0166_00_0",
+      "guid": "8e71ded3-67da-4c63-889a-d9ac23b4c325",
+      "crc?": 1149118226,
+      "hash": 430247381,
+      "attributes": [],
+      "content": [
+        "侵攻すべき星と、より強い生命を求め\r\n次元の狭間を通して禁足地へと降り立った\r\nオメガフレームの１機。",
+        "An Omega frame that crossed the interdimensional\r\nrift. It descended on the Forbidden Lands to\r\nfind stronger lifeforms and planets to invade.",
+        "Un châssis expérimental Oméga qui a traversé la fissure\r\ninterdimensionnelle et est arrivé dans les Terres interdites pour\r\ntrouver des formes de vie puissantes et des planètes à envahir.",
+        "Una struttura Omega che ha attraversato la\r\nfessura interdimensionale, arriva nelle Terre proibite\r\nin cerca di forme di vita e pianeti da invadere.",
+        "Ein Omega-Chassis, das auf der Suche nach\r\nmächtigeren Wesen und Planeten durch den\r\nInterdimensionalen Riss ins Verbotene Land kam.",
+        "Armazón Omega que cruzó la grieta interdimensional\r\ny ha acudido a las Tierras Prohibidas en busca de\r\nformas de vida más fuertes y planetas que invadir.",
+        "Форма «Омега», которая отправилась на поиски\r\nпланет и могучих существ для покорения. Попала в\r\nЗапретную землю через пространственный разлом.",
+        "Forma Omega, która przekroczyła międzywymiarową\r\nszczelinę. Zstąpiła na Zakazane Ziemie, aby\r\nznaleźć silne formy życia i planety do podboju.",
+        "",
+        "",
+        "Modelo Omega que cruzou a fenda interdimensional\r\ne chegou às Terras Proibidas em busca de formas\r\nde vida e planetas mais poderosos para invadir.",
+        "침공할 별과 더 강한 생명체를 찾아\r\n차원의 틈을 통해 금지된 땅에 내려온\r\n오메가 프레임 1대.",
+        "為了尋找要侵略的星球與更強的生命，而透過時空\r\n狹縫來到封禁之地的其中一台歐米茄框架。",
+        "为了寻求值得侵略的星球与更强大的生命，通过\r\n时空狭缝来到封禁之地的一台欧米茄框架。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هيكل (أوميغا) اجتاز الصدع البُعدي\r\nوهبط في الأراضي المحظورة بحثًا\r\nعن كائنات أقوى وكواكب لغزوها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Un armazón Omega que cruzó la grieta interdimensional\r\ny descendió a las Tierras Prohibidas en busca de formas\r\nde vida más poderosas y planetas para invadir."
+      ]
+    },
+    {
+      "name": "EnemyText_EXTRA_NAME_EM0166_00_0",
+      "guid": "f8413212-da35-49c8-b546-83f1298073df",
+      "crc?": 1925899550,
+      "hash": 1987273514,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_BOSS_EXP_EM0166_00_0",
+      "guid": "a8be9a08-3f4a-4cb9-82e3-e012af834cbb",
+      "crc?": 500170509,
+      "hash": 1958930934,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_FRENZY_NAME_EM0166_00_0",
+      "guid": "054aecf3-2b58-46cc-9123-f3dacda65c60",
+      "crc?": 1670188482,
+      "hash": 1286531365,
+      "attributes": [],
+      "content": [
+        "オメガ・プラネテス",
+        "Omega Planetes",
+        "Oméga Planetikos",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Омега-Планетес",
+        "Omega Planetes",
+        "",
+        "",
+        "Omega Planetes",
+        "오메가 플라네테스",
+        "遊星歐米茄",
+        "游星欧米茄",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوميغا بلانيتيس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Planetes"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_NAME_EM0166_00_0",
+      "guid": "2a2bf6d8-8e80-4be0-84ad-f6d6fb5b3440",
+      "crc?": 3805350950,
+      "hash": 694247785,
+      "attributes": [],
+      "content": [
+        "オメガ・プラネテス",
+        "Omega Planetes",
+        "Oméga Planetikos",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Омега-Планетес",
+        "Omega Planetes",
+        "",
+        "",
+        "Omega Planetes",
+        "오메가 플라네테스",
+        "遊星歐米茄",
+        "游星欧米茄",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوميغا بلانيتيس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Planetes"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_KING_NAME_EM0166_00_0",
+      "guid": "698a2ca0-3ec0-486c-abe0-7b57f1eb322e",
+      "crc?": 1054483474,
+      "hash": 1697733486,
+      "attributes": [],
+      "content": [
+        "オメガ・プラネテス",
+        "Omega Planetes",
+        "Oméga Planetikos",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Omega Planetes",
+        "Омега-Планетес",
+        "Omega Planetes",
+        "",
+        "",
+        "Omega Planetes",
+        "오메가 플라네테스",
+        "遊星歐米茄",
+        "游星欧米茄",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوميغا بلانيتيس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Planetes"
+      ]
+    },
+    {
+      "name": "EnemyText_FEATURES_EM0166_00_0",
+      "guid": "c1f87334-5970-4a69-8d1c-cbb1ffd98bf7",
+      "crc?": 1502985476,
+      "hash": 2733038671,
+      "attributes": [],
+      "content": [
+        "侵攻すべき星と、より強い生命を求め\r\n次元の狭間を通して禁足地へと降り立った\r\nオメガフレームの１機。\r\n他のオメガフレームと差別化するため、\r\n≪オメガ・プラネテス≫と呼ばれる。\r\n禁足地のモンスターなど現生生命体の能力を\r\n学習して自己進化を図ろうとしているようだ。",
+        "An Omega frame that has crossed the inter-\r\ndimensional rift and descended on the\r\nForbidden Lands in its search for more\r\npowerful lifeforms and planets to invade.\r\nNamed Omega Planetes to distinguish it from\r\nother Omega frames, it plans to study this\r\nworld's lifeforms, primarily the monsters\r\nof the Forbidden Lands, in order to evolve\r\nand subjugate everything in its path.",
+        "Un châssis expérimental Oméga qui a traversé la\r\nfissure interdimensionnelle et est arrivé dans les\r\nTerres interdites pour trouver des formes de vie\r\npuissantes et des planètes à envahir. Oméga\r\nPlanetikos a été nommée ainsi pour la différencier\r\ndes autres châssis Oméga. Elle veut étudier les\r\nformes de vie de ce monde, en particulier les\r\nmonstres des Terres interdites, afin d'évoluer et\r\nde tout asservir sur son passage.",
+        "Una struttura Omega che ha attraversato la\r\nfessura interdimensionale, arriva nelle Terre\r\nproibite in cerca di forme di vita e pianeti\r\nda invadere. Denominata Omega Planetes per\r\ndistinguerla dalle altre struttura Omega,\r\nintende studiare le forme di vita di questo\r\nmondo, principalmente i mostri delle Terre\r\nproibite, per evolvere e sottomettere ogni\r\ncosa sul suo cammino.",
+        "Ein Omega-Chassis, das auf der Suche nach\r\nmächtigen Wesen und zur Eroberung geeig-\r\nneten Planeten den Interdimensionalen Riss\r\ndurchquert hat und ins Verbotene Land\r\ngekommen ist. Sein Name Omega Planetes\r\nsoll es von anderen Omega-Chassis abheben,\r\nund es plant, die Wesen dieser Welt zu\r\nerforschen, vor allem die Monster des\r\nVerbotenen Landes, um sich zu entwickeln.",
+        "Un armazón Omega que ha cruzado la grieta\r\ninterdimensional hasta las Tierras Prohibidas\r\nen busca de formas de vida y planetas que invadir.\r\nConocido como Omega Planetes para distinguirse\r\nde otros armazones Omega, pretende estudiar\r\nlos monstruos de las Tierras Prohibidas para\r\nevolucionar y subyugar todo a su paso.",
+        "Форма «Омега», которая отправилась\r\nна поиски планет и могучих существ для\r\nпокорения. Попала в Запретную землю через\r\nпространственный разлом. Чтобы отличить\r\nэтого представителя от прочих форм «Омега»,\r\nему дали уникальное имя: Омега-Планетес.\r\nЕго цель — изучить существ этого мира,\r\nв первую очередь монстров Запретной земли,\r\nчтобы затем эволюционировать и завоевать\r\nвсё, что окажется у него на пути.",
+        "Forma Omega, która przekroczyła międzywymiarową\r\nszczelinę i znalazła się na Zakazanych Ziemiach\r\nw poszukiwaniu potężniejszych form życia i planet\r\ndo najechania. Przyjęła nazwę Omega Planetes,\r\nby odróżnić się od innych form Omega. Planuje badać\r\nformy życia tego świata, przede wszystkim potwory\r\nz Zakazanych Ziem, by ewoluować i podbić wszystko,\r\nco stanie jej na drodze.",
+        "",
+        "",
+        "Um modelo Omega que cruzou a fenda\r\ninterdimensional e chegou às Terras Proibidas\r\nem busca de formas de vida e planetas mais\r\npoderosos para invadir. Chamada de Omega\r\nPlanetes para distingui-la de outros modelos\r\nOmega, planeja estudar as formas de vida\r\ndeste mundo, principalmente os monstros\r\ndas Terras Proibidas, a fim de evoluir\r\ne subjugar tudo em seu caminho.",
+        "침공할 별과 더 강한 생명체를 찾아\r\n차원의 틈을 통해 금지된 땅에 내려온\r\n오메가 프레임 1대.\r\n여타 오메가 프레임과 차별성을 두기 위해\r\n《오메가 플라네테스》라고 부른다.\r\n금지된 땅 몬스터 등 현생 생명체의\r\n능력을 학습해 스스로 진화하려는 듯하다.",
+        "為了尋找要侵略的星球與更強的生命，而透過時空\r\n狹縫來到封禁之地的一台歐米茄框架。為了與其他\r\n歐米茄框架區分清楚而被稱為「遊星歐米茄」。它\r\n似乎在學習封禁之地的魔物以及其他現存生命體的\r\n能力，讓自己繼續進化。",
+        "为了寻求值得侵略的星球与更强大的生命，通过\r\n时空狭缝来到封禁之地的一台欧米茄框架。为与\r\n其他欧米茄框架加以区分，它被称为“游星欧米\r\n茄”。它似乎意图通过学习封禁之地中猎人等生\r\n命体的能力，以实现自我进化。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هيكل (أوميغا) اجتاز الصدع البُعدي\r\nوهبط في الأراضي المحظورة باحثًا عن أشكال حياتية أكثر\r\nقوة وكواكب لغزوها.\r\nسُمي (أوميغا بلانيتيس) لتمييزه عن هياكل (أوميغا) الأخرى،\r\nويخطط لدراسة الأشكال الحياتية لهذا العالم،\r\nوبالأخص وحوش الأراضي المحظورة،\r\nمن أجل التطور والسيطرة على كل ما يعترض طريقه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Un armazón Omega que cruzó la grieta\r\ninterdimensional y descendió a las Tierras\r\nProhibidas en busca de formas de vida más\r\npoderosas y planetas para invadir.\r\nConocido como Omega Planetes para\r\ndistinguirlo de otros marcos Omega, planea\r\nestudiar las formas de vida de este mundo,\r\nen particular los monstruos de las Tierras\r\nProhibidas, con el fin de evolucionar y\r\nsubyugar todo a su paso."
+      ]
+    },
+    {
+      "name": "EnemyText_TIPS_EM0166_00_0",
+      "guid": "f520f625-2aa7-4eb9-bb27-00de92a4e9cf",
+      "crc?": 4120539911,
+      "hash": 33671865,
+      "attributes": [],
+      "content": [
+        "パントクラトル・モードと呼ばれる状態は\r\n手が付けられないほど攻撃的で、非常に危険。\r\nしかし、一人のハンターが頭部に攻撃を重ねる\r\n事で敵視の集中を引き受け、その危険な攻撃を\r\n自身へと誘導できる。\r\nまた、攻撃を誘導中のハンターがピンチの場合は\r\n別のハンターが頭部に攻撃を加え、敵視の集中を\r\n受け取る事も可能。そうした味方同士の協力、\r\nサポートを意識した立ち回りが重要だ。\r\nまた、脚部への集中攻撃もチャンスに繋がるため\r\n積極的に狙っていこう。",
+        "Becomes incredibly dangerous and aggressive\r\nwhen activating Pantokrator mode. Repeatedly\r\nattacking its head will get it to focus on a single\r\nhunter who can direct its attacks. If the targeted\r\nhunter is in danger, another hunter can draw its \r\nattention by attacking the head again. You can\r\nalso attack its legs to create opportunities for\r\nfurther attacks, so work together with other\r\nhunters to bring it down.",
+        "Devient dangereuse et agressive lorsque le\r\nmode Pantokrator est activé. Un chasseur\r\npeut attaquer sa tête à plusieurs reprises\r\npour qu'elle concentre ses attaques sur lui.\r\nSi le chasseur ciblé est en danger, il est possible\r\nd'attaquer sa tête avec un autre chasseur pour\r\nattirer son attention sur l'autre chasseur. Toucher\r\nses pattes permet de nouvelles possibilités\r\nd'attaques, alors coopérez avec d'autres\r\nchasseurs pour l'abattre.",
+        "Una volta attivata la modalità Pantocratore,\r\nla sua pericolosità e aggressività aumentano.\r\nIl cacciatore che attacca ripetutamente la\r\ntesta sarà preso di mira, e potrà dirigerne gli\r\nattacchi. Se il cacciatore preso di mira è\r\nin pericolo, un altro cacciatore può attaccare\r\nla testa di Omega per attirarne l'ostilità.\r\nÈ possibile attaccare le gambe per creare\r\nnuove occasioni d'attacco, perciò collabora\r\ncon gli altri cacciatori per abbatterla.",
+        "Wird extrem gefährlich und aggressiv,\r\nwenn der Pantokratormodus aktiviert wird.\r\nDurch mehrfache Angriffe auf den Kopf kann\r\nein Jäger seinen Fokus und damit seine\r\nAngriffe auf sich lenken. Ist der angegriffene\r\nJäger in Gefahr, kann ein anderer die Aufmerk-\r\nsamkeit auf sich ziehen, indem er den Kopf\r\nangreift. Angriffe auf die Beine schaffen\r\nweitere Angriffsmöglichkeiten, also arbeitet\r\nzusammen, um zu siegen.",
+        "Se vuelve muy agresivo al activar el modo\r\nPantocrátor. Los ataques continuos a la cabeza\r\nharán que se centre en un único cazador,\r\nque será blanco de sus ataques. Si el cazador\r\nobjetivo está en peligro, otro cazador puede\r\natacar a la cabeza y convertirse en su nuevo\r\nobjetivo. Las patas también son vulnerables\r\ny permiten encadenar otros ataques, así que\r\ncolabora con otros cazadores para abatirla.",
+        "В режиме «Пантократор» становится опаснее\r\nи агрессивнее. Наносите удары по голове,\r\nчтобы заставить его сосредоточить внимание\r\nна конкретном охотнике. В случае опасности\r\nдругой охотник может снова атаковать голову\r\nОмеги-Планетеса, чтобы вынудить его\r\nсменить цель. Кроме того, можно бить его\r\nпо ногам, чтобы создать удачные условия\r\nдля дальнейших атак. Работайте сообща\r\nс другими охотниками, чтобы одолеть врага.",
+        "Po aktywacji trybu pantokratora staje się niezwykle\r\nniebezpieczny i agresywny. Wielokrotne atakowanie\r\njego głowy spowoduje, że skupi się on na jednym\r\nłowcy, który będzie mógł kierować jego atakami.\r\nJeśli namierzony łowca jest w niebezpieczeństwie,\r\ninny łowca może skupić na sobie jego uwagę, ponownie atakując głowę. Możesz też atakować\r\nnogi, by stworzyć okazję do kolejnych ataków,\r\nwięc współpracuj z innymi łowcami, by go pokonać.",
+        "",
+        "",
+        "Torna-se incrivelmente perigosa e agressiva\r\nao ativar o modo Pantokrator. Atacar sua\r\ncabeça repetidamente atrairá sua atenção a\r\num único caçador, tornando possível direcionar\r\nseus ataques. Se o caçador-alvo estiver em\r\nperigo, atacar novamente a cabeça fará com\r\nque seu alvo em foco mude. Você também\r\npode atacar suas pernas para criar aberturas\r\npara novos ataques. Trabalhe em união\r\ncom outros caçadores para derrotá-la.",
+        "전지전능 모드라 불리는 상태는\r\n속수무책으로 공격적이고 위험천만하다.\r\n하지만 한 헌터가 머리에 공격을 가해\r\n적개심을 집중시키면 위험한 공격을\r\n자신에게 유도할 수 있다. 또한 공격을\r\n유도 중인 헌터가 위험해지면 다른\r\n헌터가 머리에 공격을 가해 적개심을\r\n끌어낼 수도 있다. 이렇게 서로\r\n협력하고 서포트하는 행동이 중요하다.\r\n다리에 가하는 집중 공격도 기회로\r\n이어지므로 적극적으로 노리자.",
+        "名為「全能之主模式」的狀態非常危險，攻擊強到\r\n令人難以對付。不過只要一個獵人不斷攻擊頭部，\r\n吸引其仇恨，就能將危險的攻擊誘導到自己身上。\r\n另外，正在誘導其攻擊的獵人如果陷入危機，只要\r\n其他獵人攻擊頭部，也能轉移其仇恨到自己身上。\r\n因此夥伴間的合作和互相支援的意識相當重要。此\r\n外，集中攻擊其腿部也能製造進攻的良機，因此應\r\n該積極集中攻擊。",
+        "名为“全能之主模式”的状态具备极强的攻击性，\r\n难以应付，十分危险。不过，只要有一名猎人集\r\n中攻击其头部，吸引仇恨，便能将这种危险攻击\r\n引导至自身。当诱导攻击的猎人陷入危机时，其\r\n他猎人则可通过攻击头部来转移仇恨。因此，队\r\n友之间的配合显得尤为重要。此外，集中攻击腿\r\n部也能创造出机会，建议积极运用这一战术。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يصبح خطيرًا وعدوانيًا للغاية عند تفعيل\r\nوضع البانتوكراتور.\r\nيمكن أن يجعله الهجوم المتكرر على رأسه\r\nيركّز على صياد واحد وتوجيه هجماته إليه.\r\nوإذا كان الصياد المستهدَف في خطر،\r\nيمكن لصياد آخر جذب انتباهه من جديد\r\nبمهاجمة الرأس مرة أخرى. <LSNR \"يمكنكَ\" \"يمكنكِ\"> أيضًا\r\nمهاجمة ساقيه لإتاحة فرص لهجمات أكثر،\r\nلذا <LSNR \"تعاون\" \"تعاوني\"> مع الصيادين الآخرين لإسقاطه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Se vuelve muy peligroso y agresivo cuando se\r\nactiva el modo Pantocrátor. Si atacas su\r\ncabeza repetidas veces, este se centrará en\r\nun único cazador y así podrás dirigir sus\r\nataques. Si el cazador objetivo está en\r\npeligro, puedes cambiar su enfoque a otro\r\ncazador atacando la cabeza de nuevo. También\r\npuedes atacar las piernas para crear más\r\noportunidades de ataque, así que colabora\r\ncon otros cazadores para acabar con él."
+      ]
+    },
+    {
+      "name": "EnemyText_FIRST_CAPTURE_EM0166_00_0",
+      "guid": "7588d857-26a4-4d96-899e-2d17e4aa0ec7",
+      "crc?": 68428035,
+      "hash": 3288892040,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_MEMO_EM0166_00_0",
+      "guid": "cc14b2e1-e6fc-4e46-858a-e298351083e2",
+      "crc?": 357662715,
+      "hash": 929699737,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_GRAMMAR_EM0166_00_0",
+      "guid": "58a045c1-b65f-4043-afd4-1b96610a7fad",
+      "crc?": 3935782693,
+      "hash": 2203513014,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
       "name": "EnemyText_EXTRA_NAME_EM0165_00_0",
       "guid": "68621378-cba2-4cfa-bbec-74ab9574d163",
       "crc?": 1985608421,
@@ -18695,14 +19283,14 @@
         "ランゴスタ（歴戦の個体）",
         "Tempered Vespoid",
         "Vespoid alpha",
-        "Vespoid temprata",
+        "Vespoid temprato",
         "Gehärtete Vespoid",
-        "Vespoid curtida",
-        "Закалённая Осоид",
-        "Zahartowana Vespoid",
+        "Vespoid curtido",
+        "Закалённый Осоид",
+        "Zahartowany Vespoid",
         "",
         "",
-        "Vespoidea Aguerrida",
+        "Vespoidea Aguerrido",
         "랑고스타(역전의 개체)",
         "巨蜂（歷戰個體）",
         "巨蜂（历战个体）",
@@ -18724,7 +19312,7 @@
         "",
         "",
         "",
-        "Vespoid curtida"
+        "Vespoid curtido"
       ]
     },
     {
@@ -18766,7 +19354,7 @@
         "",
         "",
         "",
-        "Vespoid curtido"
+        "Vespoid hiper-curtido"
       ]
     },
     {
@@ -19241,14 +19829,14 @@
         "コンガ（歴戦の個体）",
         "Tempered Conga",
         "Conga alpha",
-        "Conga temprata",
+        "Conga temprato",
         "Gehärtete Conga",
-        "Conga curtida",
-        "Закалённая Конга",
-        "Zahartowana Konga",
+        "Conga curtido",
+        "Закалённый Конга",
+        "Zahartowany Konga",
         "",
         "",
-        "Conga Aguerrida",
+        "Conga Aguerrido",
         "콩가(역전의 개체)",
         "桃毛獸（歷戰個體）",
         "桃毛兽（历战个体）",
@@ -19270,7 +19858,7 @@
         "",
         "",
         "",
-        "Conga curtida"
+        "Conga curtido"
       ]
     },
     {
@@ -19312,7 +19900,7 @@
         "",
         "",
         "",
-        "Conga curtido"
+        "Conga hiper-curtido"
       ]
     },
     {
@@ -19787,14 +20375,14 @@
         "ブランゴ（歴戦の個体）",
         "Tempered Blango",
         "Blango alpha",
-        "Blango temprata",
+        "Blango temprato",
         "Gehärtete Blango",
-        "Blango curtida",
-        "Закалённая Бланго",
-        "Zahartowana Blango",
+        "Blango curtido",
+        "Закалённый Бланго",
+        "Zahartowany Blango",
         "",
         "",
-        "Blango Aguerrida",
+        "Blango Aguerrido",
         "블랑고(역전의 개체)",
         "雪獅子（歷戰個體）",
         "雪狮子（历战个体）",
@@ -19816,7 +20404,7 @@
         "",
         "",
         "",
-        "Blango curtida"
+        "Blango curtido"
       ]
     },
     {
@@ -19858,7 +20446,7 @@
         "",
         "",
         "",
-        "Blango curtido"
+        "Blango hiper-curtido"
       ]
     },
     {
@@ -20333,14 +20921,14 @@
         "ケラトノス♂（歴戦の個体）",
         "Tempered Ceratonoth (Male)",
         "Ceratonoth (m) alpha",
-        "Ceratonoth [M] temprata",
+        "Ceratonoth [M] temprato",
         "Gehärtete Ceratonoth-Männchen",
-        "Ceratonoth (macho) curtida",
-        "Закалённая Цератонот (самец)",
-        "Zahartowana Ceratonoth (samiec)",
+        "Ceratonoth (macho) curtido",
+        "Закалённый Цератонот (самец)",
+        "Zahartowany Ceratonoth (samiec)",
         "",
         "",
-        "Ceratonoth (Macho) Aguerrida",
+        "Ceratonoth (Macho) Aguerrido",
         "케라토노스♂(역전의 개체)",
         "雷甲龍♂（歷戰個體）",
         "雷甲龙♂（历战个体）",
@@ -20362,7 +20950,7 @@
         "",
         "",
         "",
-        "Ceratonoth (macho) curtida"
+        "Ceratonoth (macho) curtido"
       ]
     },
     {
@@ -20404,7 +20992,7 @@
         "",
         "",
         "",
-        "Ceratonoth (macho) curtido"
+        "Ceratonoth (macho) hiper-curtido"
       ]
     },
     {
@@ -20879,14 +21467,14 @@
         "ケラトノス♀（歴戦の個体）",
         "Tempered Ceratonoth (Female)",
         "Ceratonoth (f) alpha",
-        "Ceratonoth [F] temprata",
+        "Ceratonoth [F] temprato",
         "Gehärtete Ceratonoth-Weibchen",
-        "Ceratonoth (hembra) curtida",
-        "Закалённая Цератонот (самка)",
-        "Zahartowana Ceratonoth (samica)",
+        "Ceratonoth (hembra) curtido",
+        "Закалённый Цератонот (самка)",
+        "Zahartowany Ceratonoth (samica)",
         "",
         "",
-        "Ceratonoth (Fêmea) Aguerrida",
+        "Ceratonoth (Fêmea) Aguerrido",
         "케라토노스♀(역전의 개체)",
         "雷甲龍♀（歷戰個體）",
         "雷甲龙♀（历战个体）",
@@ -20908,7 +21496,7 @@
         "",
         "",
         "",
-        "Ceratonoth (hembra) curtida"
+        "Ceratonoth (hembra) curtido"
       ]
     },
     {
@@ -20950,7 +21538,7 @@
         "",
         "",
         "",
-        "Ceratonoth (hembra) curtido"
+        "Ceratonoth (hembra) hiper-curtido"
       ]
     },
     {
@@ -21425,14 +22013,14 @@
         "ダルトドン（歴戦の個体）",
         "Tempered Dalthydon",
         "Dalthydon alpha",
-        "Dalthydon temprata",
+        "Dalthydon temprato",
         "Gehärtete Dalthydon",
-        "Dalthydon curtida",
-        "Закалённая Дальтидон",
-        "Zahartowana Dalthydon",
+        "Dalthydon curtido",
+        "Закалённый Дальтидон",
+        "Zahartowany Dalthydon",
         "",
         "",
-        "Dalthydon Aguerrida",
+        "Dalthydon Aguerrido",
         "달루토돈(역전의 개체)",
         "盾突龍（歷戰個體）",
         "盾突龙（历战个体）",
@@ -21454,7 +22042,7 @@
         "",
         "",
         "",
-        "Dalthydon curtida"
+        "Dalthydon curtido"
       ]
     },
     {
@@ -21496,7 +22084,7 @@
         "",
         "",
         "",
-        "Dalthydon curtido"
+        "Dalthydon hiper-curtido"
       ]
     },
     {
@@ -21971,14 +22559,14 @@
         "ダルトドン（家畜種）（歴戦の個体）",
         "Tempered Dalthydon (Livestock)",
         "Dalthydon (domestique) alpha",
-        "Dalthydon (bestiame) temprata",
+        "Dalthydon (bestiame) temprato",
         "Gehärtete Dalthydon (Nutztier)",
-        "Dalthydon (ganado) curtida",
-        "Закалённая Дальтидон (скот)",
-        "Zahartowana Dalthydon (hodowlany)",
+        "Dalthydon (ganado) curtido",
+        "Закалённый Дальтидон (скот)",
+        "Zahartowany Dalthydon (hodowlany)",
         "",
         "",
-        "Dalthydon (Rebanho) Aguerrida",
+        "Dalthydon (Rebanho) Aguerrido",
         "달루토돈(가축종)(역전의 개체)",
         "盾突龍（家畜種）（歷戰個體）",
         "盾突龙（家畜种）（历战个体）",
@@ -22000,7 +22588,7 @@
         "",
         "",
         "",
-        "Dalthydon (doméstico) curtida"
+        "Dalthydon (doméstico) curtido"
       ]
     },
     {
@@ -22042,7 +22630,7 @@
         "",
         "",
         "",
-        "Dalthydon (doméstico) curtido"
+        "Dalthydon (doméstico) hiper-curtido"
       ]
     },
     {
@@ -22517,14 +23105,14 @@
         "ブブラチカ（歴戦の個体）",
         "Tempered Bulaqchi",
         "Bulaqchi alpha",
-        "Bulaqchi temprata",
+        "Bulaqchi temprato",
         "Gehärtete Bulaqchi",
-        "Bulaqchi curtida",
-        "Закалённая Булакчи",
-        "Zahartowana Bulaqchi",
+        "Bulaqchi curtido",
+        "Закалённый Булакчи",
+        "Zahartowany Bulaqchi",
         "",
         "",
-        "Bulaqchi Aguerrida",
+        "Bulaqchi Aguerrido",
         "브브라치카(역전의 개체)",
         "血刺蟲（歷戰個體）",
         "血盗虫（历战个体）",
@@ -22546,7 +23134,7 @@
         "",
         "",
         "",
-        "Bulaqchi curtida"
+        "Bulaqchi curtido"
       ]
     },
     {
@@ -22588,7 +23176,7 @@
         "",
         "",
         "",
-        "Bulaqchi curtido"
+        "Bulaqchi hiper-curtido"
       ]
     },
     {
@@ -23063,14 +23651,14 @@
         "タリオス（歴戦の個体）",
         "Tempered Talioth",
         "Talioth alpha",
-        "Talioth temprata",
+        "Talioth temprato",
         "Gehärtete Talioth",
-        "Talioth curtida",
-        "Закалённая Талиот",
-        "Zahartowana Talioth",
+        "Talioth curtido",
+        "Закалённый Талиот",
+        "Zahartowany Talioth",
         "",
         "",
-        "Talioth Aguerrida",
+        "Talioth Aguerrido",
         "탈리오스(역전의 개체)",
         "銳猛龍（歷戰個體）",
         "钳速龙（历战个体）",
@@ -23092,7 +23680,7 @@
         "",
         "",
         "",
-        "Talioth curtida"
+        "Talioth curtido"
       ]
     },
     {
@@ -23134,7 +23722,7 @@
         "",
         "",
         "",
-        "Talioth curtido"
+        "Talioth hiper-curtido"
       ]
     },
     {
@@ -23609,14 +24197,14 @@
         "バオノス（歴戦の個体）",
         "Tempered Baunos",
         "Baunos alpha",
-        "Baunos temprata",
+        "Baunos temprato",
         "Gehärtete Baunos",
-        "Baunos curtida",
-        "Закалённая Баунос",
-        "Zahartowana Baunos",
+        "Baunos curtido",
+        "Закалённый Баунос",
+        "Zahartowany Baunos",
         "",
         "",
-        "Baunos Aguerrida",
+        "Baunos Aguerrido",
         "바오노스(역전의 개체)",
         "音翅龍（歷戰個體）",
         "爆翼龙（历战个体）",
@@ -23638,7 +24226,7 @@
         "",
         "",
         "",
-        "Baunos curtida"
+        "Baunos curtido"
       ]
     },
     {
@@ -23680,7 +24268,7 @@
         "",
         "",
         "",
-        "Baunos curtido"
+        "Baunos hiper-curtido"
       ]
     },
     {
@@ -24155,14 +24743,14 @@
         "ガジオス（歴戦の個体）",
         "Tempered Gajios",
         "Gajios alpha",
-        "Gajios temprata",
+        "Gajios temprato",
         "Gehärtete Gajios",
-        "Gajios curtida",
-        "Закалённая Гаджиос",
-        "Zahartowana Gajios",
+        "Gajios curtido",
+        "Закалённый Гаджиос",
+        "Zahartowany Gajios",
         "",
         "",
-        "Gajios Aguerrida",
+        "Gajios Aguerrido",
         "가지오스(역전의 개체)",
         "鋸吻龍（歷戰個體）",
         "棘吻龙（历战个体）",
@@ -24184,7 +24772,7 @@
         "",
         "",
         "",
-        "Gajios curtida"
+        "Gajios curtido"
       ]
     },
     {
@@ -24226,7 +24814,7 @@
         "",
         "",
         "",
-        "Gajios curtido"
+        "Gajios hiper-curtido"
       ]
     },
     {
@@ -24701,14 +25289,14 @@
         "ピラギル（歴戦の個体）",
         "Tempered Piragill",
         "Piragill alpha",
-        "Piragill temprata",
+        "Piragill temprato",
         "Gehärtete Piragill",
-        "Piragill curtida",
-        "Закалённая Пирагилл",
-        "Zahartowana Piragill",
+        "Piragill curtido",
+        "Закалённый Пирагилл",
+        "Zahartowany Piragill",
         "",
         "",
-        "Piragill Aguerrida",
+        "Piragill Aguerrido",
         "필라길(역전의 개체)",
         "棘鰭龍（歷戰個體）",
         "锯带龙（历战个体）",
@@ -24730,7 +25318,7 @@
         "",
         "",
         "",
-        "Piragill curtida"
+        "Piragill curtido"
       ]
     },
     {
@@ -24772,7 +25360,7 @@
         "",
         "",
         "",
-        "Piragill curtido"
+        "Piragill hiper-curtido"
       ]
     },
     {
@@ -25247,14 +25835,14 @@
         "ハルプス（歴戦の個体）",
         "Tempered Harpios",
         "Harpios alpha",
-        "Harpios temprata",
+        "Harpios temprato",
         "Gehärtete Harpios",
-        "Harpios curtida",
-        "Закалённая Гарпиос",
-        "Zahartowana Harpios",
+        "Harpios curtido",
+        "Закалённый Гарпиос",
+        "Zahartowany Harpios",
         "",
         "",
-        "Harpios Aguerrida",
+        "Harpios Aguerrido",
         "하르푸스(역전의 개체)",
         "銛刺龍（歷戰個體）",
         "刺枪翼龙（历战个体）",
@@ -25276,7 +25864,7 @@
         "",
         "",
         "",
-        "Harpios curtida"
+        "Harpios curtido"
       ]
     },
     {
@@ -25318,7 +25906,7 @@
         "",
         "",
         "",
-        "Harpios curtido"
+        "Harpios hiper-curtido"
       ]
     },
     {
@@ -25793,14 +26381,14 @@
         "クラノダス（歴戦の個体）",
         "Tempered Kranodath",
         "Kranodath alpha",
-        "Kranodath temprata",
+        "Kranodath temprato",
         "Gehärtete Kranodath",
-        "Kranodath curtida",
-        "Закалённая Кранодат",
-        "Zahartowana Kranodath",
+        "Kranodath curtido",
+        "Закалённый Кранодат",
+        "Zahartowany Kranodath",
         "",
         "",
-        "Kranodath Aguerrida",
+        "Kranodath Aguerrido",
         "크라노다스(역전의 개체)",
         "盔猛龍（歷戰個體）",
         "盔速龙（历战个体）",
@@ -25822,7 +26410,7 @@
         "",
         "",
         "",
-        "Kranodath curtida"
+        "Kranodath curtido"
       ]
     },
     {
@@ -25864,7 +26452,7 @@
         "",
         "",
         "",
-        "Kranodath curtido"
+        "Kranodath hiper-curtido"
       ]
     },
     {
@@ -26339,14 +26927,14 @@
         "ネマラチカ（歴戦の個体）",
         "Tempered Comaqchi",
         "Comaqchi alpha",
-        "Comaqchi temprata",
+        "Comaqchi temprato",
         "Gehärtete Comaqchi",
-        "Comaqchi curtida",
-        "Закалённая Комакчи",
-        "Zahartowana Comaqchi",
+        "Comaqchi curtido",
+        "Закалённый Комакчи",
+        "Zahartowany Comaqchi",
         "",
         "",
-        "Comaqchi Aguerrida",
+        "Comaqchi Aguerrido",
         "네마라치카(역전의 개체)",
         "眠刺蟲（歷戰個體）",
         "血眠虫（历战个体）",
@@ -26368,7 +26956,7 @@
         "",
         "",
         "",
-        "Comaqchi curtida"
+        "Comaqchi curtido"
       ]
     },
     {
@@ -26410,7 +26998,7 @@
         "",
         "",
         "",
-        "Comaqchi curtido"
+        "Comaqchi hiper-curtido"
       ]
     },
     {
@@ -26885,14 +27473,14 @@
         "ゼレドロン（歴戦の個体）",
         "Tempered Gelidron",
         "Gelidron alpha",
-        "Gelidron temprata",
+        "Gelidron temprato",
         "Gehärtete Gelidron",
-        "Gelidron curtida",
-        "Закалённая Гелидрон",
-        "Zahartowana Gelidron",
+        "Gelidron curtido",
+        "Закалённый Гелидрон",
+        "Zahartowany Gelidron",
         "",
         "",
-        "Gelidron Aguerrida",
+        "Gelidron Aguerrido",
         "젤레도론(역전의 개체)",
         "膠鯢（歷戰個體）",
         "胶鲵（历战个体）",
@@ -26914,7 +27502,7 @@
         "",
         "",
         "",
-        "Gelidron curtida"
+        "Gelidron curtido"
       ]
     },
     {
@@ -26956,7 +27544,7 @@
         "",
         "",
         "",
-        "Gelidron curtido"
+        "Gelidron hiper-curtido"
       ]
     },
     {
@@ -27431,14 +28019,14 @@
         "ラフマー（歴戦の個体）",
         "Tempered Rafma",
         "Rafma alpha",
-        "Rafma temprata",
+        "Rafma temprato",
         "Gehärtete Rafma",
-        "Rafma curtida",
-        "Закалённая Рафма",
-        "Zahartowana Rafma",
+        "Rafma curtido",
+        "Закалённый Рафма",
+        "Zahartowany Rafma",
         "",
         "",
-        "Rafma Aguerrida",
+        "Rafma Aguerrido",
         "라프마(역전의 개체)",
         "電角獸（歷戰個體）",
         "电角兽（历战个体）",
@@ -27460,7 +28048,7 @@
         "",
         "",
         "",
-        "Rafma curtida"
+        "Rafma curtido"
       ]
     },
     {
@@ -27502,7 +28090,7 @@
         "",
         "",
         "",
-        "Rafma curtido"
+        "Rafma hiper-curtido"
       ]
     },
     {
@@ -27977,14 +28565,14 @@
         "ポルケピナ（歴戦の個体）",
         "Tempered Porkeplume",
         "Porkeplume alpha",
-        "Porkeplume temprata",
+        "Porkeplume temprato",
         "Gehärtete Porkeplume",
-        "Porkeplume curtida",
-        "Закалённая Поркеплюм",
-        "Zahartowana Porkeplume",
+        "Porkeplume curtido",
+        "Закалённый Поркеплюм",
+        "Zahartowany Porkeplume",
         "",
         "",
-        "Porkeplume Aguerrida",
+        "Porkeplume Aguerrido",
         "포케피나(역전의 개체)",
         "箭羽獸（歷戰個體）",
         "箭羽龙（历战个体）",
@@ -28006,7 +28594,7 @@
         "",
         "",
         "",
-        "Porkeplume curtida"
+        "Porkeplume curtido"
       ]
     },
     {
@@ -28048,7 +28636,7 @@
         "",
         "",
         "",
-        "Porkeplume curtido"
+        "Porkeplume hiper-curtido"
       ]
     },
     {
@@ -28523,14 +29111,14 @@
         "ネルスキュラベビー（歴戦の個体）",
         "Tempered Nerscylla Hatchling",
         "Nerscylla (bébé) alpha",
-        "Progenie di Nerscylla temprata",
+        "Progenie di Nerscylla temprato",
         "Gehärtete Nerscylla-Junges",
-        "Larva de Nerscylla curtida",
-        "Закалённая Детёныш нерскиллы",
-        "Zahartowana Pisklę Nerscylli",
+        "Larva de Nerscylla curtido",
+        "Закалённый Детёныш нерскиллы",
+        "Zahartowany Pisklę Nerscylli",
         "",
         "",
-        "Filhote de Nerscylla Aguerrida",
+        "Filhote de Nerscylla Aguerrido",
         "네르스큐라 베이비(역전의 개체)",
         "稚影蜘蛛（歷戰個體）",
         "稚影蜘蛛（历战个体）",
@@ -28552,7 +29140,7 @@
         "",
         "",
         "",
-        "Cría de Nerscylla curtida"
+        "Cría de Nerscylla curtido"
       ]
     },
     {
@@ -28594,7 +29182,7 @@
         "",
         "",
         "",
-        "Cría de Nerscylla curtido"
+        "Cría de Nerscylla hiper-curtido"
       ]
     },
     {
@@ -28733,14 +29321,14 @@
         "護竜セクレト（歴戦の個体）",
         "Tempered Guardian Seikret",
         "Seikret Gardien alpha",
-        "Seikret guardiano temprata",
+        "Seikret guardiano temprato",
         "Gehärtete Wächter-Saikrii",
-        "Seikret Guardián curtida",
-        "Закалённая Сейкрет-страж",
-        "Zahartowana Seikret Strażnik",
+        "Seikret Guardián curtido",
+        "Закалённый Сейкрет-страж",
+        "Zahartowany Seikret Strażnik",
         "",
         "",
-        "Seikret Guardião Aguerrida",
+        "Seikret Guardião Aguerrido",
         "수호룡 세크레트(역전의 개체)",
         "護鷺鷹龍（歷戰個體）",
         "护鹭鹰龙（历战个体）",
@@ -28762,7 +29350,7 @@
         "",
         "",
         "",
-        "Seikret Guardián curtida"
+        "Seikret Guardián curtido"
       ]
     },
     {
@@ -28804,7 +29392,7 @@
         "",
         "",
         "",
-        "Seikret Guardián curtido"
+        "Seikret Guardián hiper-curtido"
       ]
     },
     {
@@ -28980,6 +29568,552 @@
       "guid": "a6c43f62-047b-49c2-b877-f4b9a2ea849e",
       "crc?": 1928277482,
       "hash": 2176708442,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_JP_NAME_EM1165_00_0",
+      "guid": "3fd30993-2f53-44bc-ac30-34f51e6316e0",
+      "crc?": 3854324716,
+      "hash": 1389296698,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_NAME_EM1165_00_0",
+      "guid": "7343b0bc-b16b-418e-8c8c-e36d8178859a",
+      "crc?": 1703682104,
+      "hash": 73394906,
+      "attributes": [],
+      "content": [
+        "オメガ・ミクロス",
+        "Omega Micros",
+        "Oméga Micros",
+        "Omega Micros",
+        "Omega Micros",
+        "Omega Micros",
+        "Омега-Микрос",
+        "Omega Micros",
+        "",
+        "",
+        "Omega Micros",
+        "오메가 미크로스",
+        "微型歐米茄",
+        "微型欧米茄",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آلات أوميغا الصغيرة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Micros"
+      ]
+    },
+    {
+      "name": "EnemyText_EXP_EM1165_00_0",
+      "guid": "57b7ea93-5a5c-4ad6-a089-7bf8bf1c41c0",
+      "crc?": 494360576,
+      "hash": 2960915697,
+      "attributes": [],
+      "content": [
+        "オメガ・プラネテスにより生成された小型機体。\r\n次々と対象に迫り、自ら爆発して攻撃を行う。\r\n音に対して敏感に反応する事が報告されている。",
+        "Small machines made by Omega Planetes. They\r\nhome in on targets, then self-destruct. Reports\r\nsuggest that they are quite sensitive to sound.",
+        "Petites machines fabriquées par Oméga Planetikos.\r\nElles se dirigent vers les cibles puis s'autodétruisent.\r\nOn dit qu'elles sont particulièrement sensibles au son.",
+        "Piccole macchine create da Omega Planetes.\r\nSi gettano contro i bersagli e si autodistruggono.\r\nSecondo le segnalazioni sono sensibili ai suoni.",
+        "Kleine Maschinen, erschaffen von Omega\r\nPlanetes. Verfolgen Ziele und sprengen\r\nsich. Es heißt, sie reagieren auf Geräusche.",
+        "Pequeñas máquinas fabricadas por Omega Planetes.\r\nPersiguen al objetivo y se inmolan. Hay informes\r\nque indican que son muy sensibles al sonido.",
+        "Небольшие машины, создаваемые Омегой-Планетесом.\r\nСближаются с целью и самоуничтожаются. Согласно\r\nотчётам, они реагируют за звук.",
+        "Małe maszyny zbudowane przez Omegę Planetes.\r\nNamierzają cele, po czym dokonują samozniszczenia.\r\nRaporty donoszą, że są szczególnie wrażliwe na dźwięk.",
+        "",
+        "",
+        "Pequenas máquinas fabricadas pela Omega Planetes.\r\nSe aproximam dos alvos e se autodestroem. Relatos\r\nsugerem que são particularmente sensíveis ao som.",
+        "오메가 플라네테스가 생성한 소형 기체.\r\n대상에 잇따라 접근해 자폭하여 공격한다.\r\n소리에 민감하게 반응한다고 보고된 바 있다.",
+        "由遊星歐米茄製造的小型機體。會不斷逼近目標並自爆\r\n攻擊。根據報告所述，它們對聲音非常敏感。",
+        "游星欧米茄生成的小型机体。会陆续冲向目标，\r\n通过自爆进行攻击。有报告称它们对声音极为敏\r\n感。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آلات صغيرة من صنع (أوميغا بلانيتيس).\r\nتقترب من الأهداف ثم تنفجر ذاتيًا.\r\nتفيد التقارير بأنها شديدة الحساسية للصوت.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pequeñas máquinas fabricadas por Omega Planetes.\r\nSe aferran a sus objetivos y se autodestruyen.\r\nInformes sugieren que son sensibles al sonido."
+      ]
+    },
+    {
+      "name": "EnemyText_EXTRA_NAME_EM1165_00_0",
+      "guid": "a3c865eb-6cec-4e41-82d4-c7fae30b7002",
+      "crc?": 679979855,
+      "hash": 195518587,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_BOSS_EXP_EM1165_00_0",
+      "guid": "85edf340-280d-4ffb-b46d-4a08f44110ae",
+      "crc?": 835019888,
+      "hash": 4109851025,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_FRENZY_NAME_EM1165_00_0",
+      "guid": "14da5bf8-3909-46da-a0ac-3455509472cc",
+      "crc?": 755097256,
+      "hash": 688647979,
+      "attributes": [],
+      "content": [
+        "狂竜化オメガ・ミクロス",
+        "Frenzied Omega Micros",
+        "Oméga Micros en furie",
+        "Omega Micros frenetico",
+        "Rasender Omega Micros",
+        "Omega Micros colérico",
+        "Бешеный Омега-Микрос",
+        "Oszalały Omega Micros",
+        "",
+        "",
+        "Omega Micros Colérico",
+        "광룡화 오메가 미크로스",
+        "狂龍化微型歐米茄",
+        "狂龙化微型欧米茄",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آلات أوميغا الصغيرة مسعور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Micros colérico"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_NAME_EM1165_00_0",
+      "guid": "6ee2cd71-24a1-4e18-9498-5e9905c3c822",
+      "crc?": 4023787583,
+      "hash": 2257043862,
+      "attributes": [],
+      "content": [
+        "オメガ・ミクロス（歴戦の個体）",
+        "Tempered Omega Micros",
+        "Oméga Micros alpha",
+        "Omega Micros temprato",
+        "Gehärtete Omega Micros",
+        "Omega Micros curtido",
+        "Закалённый Омега-Микрос",
+        "Zahartowany Omega Micros",
+        "",
+        "",
+        "Omega Micros Aguerrido",
+        "오메가 미크로스(역전의 개체)",
+        "微型歐米茄（歷戰個體）",
+        "微型欧米茄（历战个体）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آلات أوميغا الصغيرة غاضب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Micros curtido"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_KING_NAME_EM1165_00_0",
+      "guid": "c1ae963d-bbf1-435a-8958-b38622fa5204",
+      "crc?": 3363888018,
+      "hash": 1261820346,
+      "attributes": [],
+      "content": [
+        "オメガ・ミクロス（歴戦王）",
+        "Arch-tempered Omega Micros",
+        "Oméga Micros alpha suprême",
+        "Omega Micros arcitemprato",
+        "Kampfgehärteter Omega Micros",
+        "Omega Micros hipercurtido",
+        "Архизакалённый Омега-Микрос",
+        "Arcyzahartowany Omega Micros",
+        "",
+        "",
+        "Omega Micros Arquiaguerrido",
+        "오메가 미크로스(역전왕)",
+        "微型歐米茄（歷戰王）",
+        "微型欧米茄（历战王）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المخضرم آلات أوميغا الصغيرة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omega Micros hiper-curtido"
+      ]
+    },
+    {
+      "name": "EnemyText_FEATURES_EM1165_00_0",
+      "guid": "ba3a3c05-086b-4fd1-a9b9-3532f80ea718",
+      "crc?": 2866096891,
+      "hash": 2523628796,
+      "attributes": [],
+      "content": [
+        "オメガ・プラネテスにより生成された小型機体。\r\n次々にハンターへと迫るように近づき、自らを\r\n爆発させる攻撃を行う場合もある。\r\n音に対して敏感に反応する特徴があるため、\r\n音爆弾の使用でその注意を引く事ができる。\r\nまた、稀に破壊後の個体から防御障壁が生成\r\nされる場合がある。その内部に身を隠せば\r\n特定の攻撃を無効化する事も可能となるため、\r\n生成された際には大いに活用すべきだろう。",
+        "Small machines manufactured by Omega\r\nPlanetes. They home in on hunters,\r\nthen self-destruct. Because they're\r\nsensitive to sound, a sonic bomb can be\r\nused to draw their attention. Additionally,\r\nthey occasionally create a shield when\r\ndestroyed, protecting against certain\r\nattacks, which could prove advantageous.",
+        "Fabriquées par Oméga Planetikos, ces petites\r\nmachines se dirigent vers les chasseurs puis\r\ns'autodétruisent. Comme elles sont sensibles\r\nau son, une bombe sonique peut attirer leur\r\nattention. De plus, elles créent parfois un\r\nbouclier lorsqu'elles sont détruites, ce qui\r\npeut être très utile pour se protéger de\r\ncertaines attaques.",
+        "Piccole macchine create da Omega Planetes.\r\nSi gettano contro i bersagli e si\r\nautodistruggono. Dal momento che sono\r\nsensibili ai suoni, è possibile usare dei\r\nbaccelli sonici per attirarne l'attenzione.\r\nInoltre, quando vengono distrutte, creano\r\ntalvolta uno scudo che protegge contro\r\ncerti attacchi, il che può risultare\r\nvantaggioso.",
+        "Kleine Maschinen, erschaffen von Omega\r\nPlanetes. Sie verfolgen Jäger und sprengen\r\nsich. Da sie auf Geräusche reagieren, kann\r\neine Schallbombe sie ablenken. Außerdem\r\nerschaffen sie nach ihrer Zerstörung manchmal\r\neinen Schild, der vor bestimmten Angriffen\r\nschützt. Er könnte im Kampf unter Umständen\r\nhelfen.",
+        "Pequeñas máquinas fabricadas por Omega Planetes.\r\nPersiguen a los cazadores y se inmolan. Son\r\nsensibles al sonido y se puede captar su atención\r\ncon bombas sónicas. Además, a veces crean\r\nun escudo al destruirse que protege de ciertos\r\nataques, lo que puede resultar útil.",
+        "Небольшие машины, создаваемые\r\nОмегой-Планетесом. Сближаются с целью\r\nи самоуничтожаются. Согласно отчётам, они\r\nреагируют за звук, поэтому их можно отвлечь\r\nзвуковой бомбой. Взрываясь, иногда создают\r\nщит, за которым можно укрыться от\r\nнекоторых атак.",
+        "Małe maszyny zbudowane przez Omegę Planetes.\r\nNamierzają łowców, po czym dokonują samozniszczenia.\r\nPonieważ są wrażliwe na dźwięk, do odwrócenia\r\nich uwagi można użyć bomby akustycznej. Dodatkowo\r\npo zniszczeniu czasami tworzą tarczę chroniącą\r\nprzed niektórymi atakami, co może przynieść korzyści.",
+        "",
+        "",
+        "Pequenas máquinas fabricadas pela Omega\r\nPlanetes. Se aproximam dos alvos e se\r\nautodestroem. Como são sensíveis ao som,\r\nbombas sônicas podem ser usadas para\r\natraí-las. Além disso, ocasionalmente criam\r\numa barreira quando destruídas, oferecendo\r\nproteção contra certos ataques,\r\no que pode ser vantajoso.",
+        "오메가 플라네테스가 생성한 소형 기체.\r\n헌터에게 잇따라 접근해\r\n자폭하여 공격하기도 한다.\r\n소리에 민감히 반응하는 특징이 있어\r\n음폭탄을 사용해 주의를 끌 수 있다.\r\n또한 파괴하면 드물게 개체에서\r\n방어 장벽이 생성되기도 한다.\r\n장벽 내부에 숨으면 특정한 공격을\r\n무효화할 수도 있으므로 방어 장벽이\r\n생성되면 여러모로 활용해 보자.",
+        "由遊星歐米茄製造的小型機體。它會不斷逼近獵\r\n人，有時會自爆攻擊。特徵是對聲音非常敏感，\r\n所以可以使用音爆彈來吸引其注意力。此外，遭\r\n到破壞的個體偶爾會產生防護屏障，只要躲在裡\r\n面，就能使特定的攻擊失效，因此看到防護罩時\r\n最好多加利用。",
+        "游星欧米茄生成的小型机体。会陆续冲向猎人，\r\n通过自爆进行攻击。其特点是对声音极为敏感，\r\n因此可以使用音爆弹吸引其注意。此外，被破坏\r\n的个体偶尔会生成防御障壁。躲在障壁内部，可\r\n以完全躲开特定攻击，因此出现时一定要多加利\r\n用。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آلات صغيرة من صنع (أوميغا بلانيتيس).\r\nتقترب من الصيادين ثم تنفجر ذاتيًا.\r\nنظرًا لحساسيتها للصوت،\r\nيمكن استخدام قنبلة صوتية لجذب انتباهها.\r\nبالإضافة إلى ذلك، فإنها تُنشئ أحيانًا درعًا عند تدميرها\r\nيوفر حماية من بعض الهجمات، مما قد يكون مفيدًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pequeñas máquinas fabricadas por\r\nOmega Planetes. Se aferran a los cazadores\r\ny se autodestruyen. Como son sensibles al\r\nsonido, se puede usar una bomba sónica para\r\natraer su atención. Además, a veces, crean\r\nun escudo cuando se destruyen, que los\r\nprotege contra ciertos ataques, algo que\r\npodría resultar útil."
+      ]
+    },
+    {
+      "name": "EnemyText_TIPS_EM1165_00_0",
+      "guid": "995be0ea-6046-4754-8ece-33218c74bbd3",
+      "crc?": 2373663788,
+      "hash": 2533119912,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_FIRST_CAPTURE_EM1165_00_0",
+      "guid": "c21fb077-e81f-4d0f-83b4-4f36e1ede551",
+      "crc?": 2344052100,
+      "hash": 2085012530,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_MEMO_EM1165_00_0",
+      "guid": "8011a8f8-a8de-4512-8eaf-fb3a99cc1385",
+      "crc?": 3554458877,
+      "hash": 3741749709,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_GRAMMAR_EM1165_00_0",
+      "guid": "e5987443-270b-4e96-9a9f-23bf512ec9c8",
+      "crc?": 1956762747,
+      "hash": 612709027,
       "attributes": [],
       "content": [
         "",
@@ -29615,14 +30749,14 @@
         "シビレガスガエル（歴戦の個体）",
         "Tempered Paratoad",
         "Paralycrapaud alpha",
-        "Pararospo temprata",
+        "Pararospo temprato",
         "Gehärtete Lähmkröte",
-        "Paralisapo curtida",
-        "Закалённая Парализующая жаба",
-        "Zahartowana Pararopucha",
+        "Paralisapo curtido",
+        "Закалённый Парализующая жаба",
+        "Zahartowany Pararopucha",
         "",
         "",
-        "Paralissapo Aguerrida",
+        "Paralissapo Aguerrido",
         "마비가스 두꺼비(역전의 개체)",
         "麻痺瓦斯蛙（歷戰個體）",
         "麻痹瓦斯蛙（历战个体）",
@@ -29644,7 +30778,7 @@
         "",
         "",
         "",
-        "Paralisapo curtida"
+        "Paralisapo curtido"
       ]
     },
     {
@@ -29686,7 +30820,7 @@
         "",
         "",
         "",
-        "Paralisapo curtido"
+        "Paralisapo hiper-curtido"
       ]
     },
     {
@@ -30161,14 +31295,14 @@
         "ニトロガスガエル（歴戦の個体）",
         "Tempered Nitrotoad",
         "Nitrocrapaud alpha",
-        "Nitrorospo temprata",
+        "Nitrorospo temprato",
         "Gehärtete Nitrokröte",
-        "Fogosapo curtida",
-        "Закалённая Нитрожаба",
-        "Zahartowana Nitroropucha",
+        "Fogosapo curtido",
+        "Закалённый Нитрожаба",
+        "Zahartowany Nitroropucha",
         "",
         "",
-        "Nitrossapo Aguerrida",
+        "Nitrossapo Aguerrido",
         "니트로가스 두꺼비(역전의 개체)",
         "爆炸瓦斯蛙（歷戰個體）",
         "爆炸瓦斯蛙（历战个体）",
@@ -30190,7 +31324,7 @@
         "",
         "",
         "",
-        "Fogosapo curtida"
+        "Fogosapo curtido"
       ]
     },
     {
@@ -30232,7 +31366,7 @@
         "",
         "",
         "",
-        "Fogosapo curtido"
+        "Fogosapo hiper-curtido"
       ]
     },
     {
@@ -30707,14 +31841,14 @@
         "ネムリガスガエル（歴戦の個体）",
         "Tempered Sleeptoad",
         "Somnicrapaud alpha",
-        "Ronforospo temprata",
+        "Ronforospo temprato",
         "Gehärtete Schlafkröte",
-        "Somnosapo curtida",
-        "Закалённая Сонная жаба",
-        "Zahartowana Snoropucha",
+        "Somnosapo curtido",
+        "Закалённый Сонная жаба",
+        "Zahartowany Snoropucha",
         "",
         "",
-        "Soníssapo Aguerrida",
+        "Soníssapo Aguerrido",
         "수면가스 두꺼비(역전의 개체)",
         "睡眠瓦斯蛙（歷戰個體）",
         "睡眠瓦斯蛙（历战个体）",
@@ -30736,7 +31870,7 @@
         "",
         "",
         "",
-        "Somnosapo curtida"
+        "Somnosapo curtido"
       ]
     },
     {
@@ -30778,7 +31912,7 @@
         "",
         "",
         "",
-        "Somnosapo curtido"
+        "Somnosapo hiper-curtido"
       ]
     },
     {
@@ -31087,7 +32221,7 @@
         "En cas de choc, les nitrocrapauds expulsent\r\nune brume de liquide instable qui explose\r\net fait vaciller même les grands monstres.",
         "Se colpiti, i nitrorospi spruzzano un\r\nliquido che esplodendo può stordire\r\nanche i mostri grandi.",
         "Wird eine Nitrokröte getroffen, versprüht sie\r\neine leicht brennbare Flüssigkeit, die mit starken\r\nExplosionen große Monster zum Taumeln bringt.",
-        "Al golpearlos, los fogosapos liberan un líquido\r\nvolátil que detona con la suficiente fuerza como\r\npara desconcertar a los monstruos más grandes.",
+        "Al golpearlos, los fogosapos liberan un líquido\r\nvolátil que detona con la suficiente fuerza como\r\npara desequilibrar a los monstruos más grandes.",
         "При малейшей угрозе нитрожабы разбрызгивают\r\nвзрывоопасную жидкость. Её взрыв может выбить\r\nиз равновесия даже крупного монстра.",
         "Trafione nitropuchy wyrzucają z siebie strumień\r\ncieczy, która wybucha z wystarczającą mocą,\r\nby wytrącić z równowagi nawet duże potwory.",
         "",
@@ -31253,14 +32387,14 @@
         "回復ミツムシ（歴戦の個体）",
         "Tempered Vigorwasp",
         "Vitaguêpe alpha",
-        "Vigorvespa temprata",
+        "Vigorvespa temprato",
         "Gehärtete Vitalitätswespe",
-        "Melífera vitae curtida",
-        "Закалённая Исцеляющая оса",
-        "Zahartowana Wigorosa",
+        "Melífera vitae curtido",
+        "Закалённый Исцеляющая оса",
+        "Zahartowany Wigorosa",
         "",
         "",
-        "Vigorespa Aguerrida",
+        "Vigorespa Aguerrido",
         "회복 꿀벌레(역전의 개체)",
         "回復蜜蟲（歷戰個體）",
         "回复蜜虫（历战个体）",
@@ -31282,7 +32416,7 @@
         "",
         "",
         "",
-        "Melífera vitae curtida"
+        "Melífera vitae curtido"
       ]
     },
     {
@@ -31324,7 +32458,7 @@
         "",
         "",
         "",
-        "Melífera vitae curtido"
+        "Melífera vitae hiper-curtido"
       ]
     },
     {
@@ -31799,14 +32933,14 @@
         "浄化ミツムシ（歴戦の個体）",
         "Tempered Purewasp",
         "Curaguêpe alpha",
-        "Puravespa temprata",
+        "Puravespa temprato",
         "Gehärtete Reinigungswespe",
-        "Melífera pura curtida",
-        "Закалённая Очищающая оса",
-        "Zahartowana Bolica spijka",
+        "Melífera pura curtido",
+        "Закалённый Очищающая оса",
+        "Zahartowany Bolica spijka",
         "",
         "",
-        "Vespurga Aguerrida",
+        "Vespurga Aguerrido",
         "정화 꿀벌레(역전의 개체)",
         "淨化蜜蟲（歷戰個體）",
         "净化蜜虫（历战个体）",
@@ -31828,7 +32962,7 @@
         "",
         "",
         "",
-        "Avispura curtida"
+        "Avispura curtido"
       ]
     },
     {
@@ -31870,7 +33004,7 @@
         "",
         "",
         "",
-        "Avispura curtido"
+        "Avispura hiper-curtido"
       ]
     },
     {
@@ -32345,14 +33479,14 @@
         "大回復ミツムシ（歴戦の個体）",
         "Tempered Giant Vigorwasp",
         "Grande vitaguêpe alpha",
-        "Vigorvespa gigante temprata",
+        "Vigorvespa gigante temprato",
         "Gehärtete Riesige Vitalitätswespe",
-        "Melífera vitae gigante curtida",
-        "Закалённая Гигантская исцеляющая оса",
-        "Zahartowana Ogromna wigorosa",
+        "Melífera vitae gigante curtido",
+        "Закалённый Гигантская исцеляющая оса",
+        "Zahartowany Ogromna wigorosa",
         "",
         "",
-        "Vigorespa Gigante Aguerrida",
+        "Vigorespa Gigante Aguerrido",
         "대회복 꿀벌레(역전의 개체)",
         "大回復蜜蟲（歷戰個體）",
         "大回复蜜虫（历战个体）",
@@ -32374,7 +33508,7 @@
         "",
         "",
         "",
-        "Melífera vitae gigante curtida"
+        "Melífera vitae gigante curtido"
       ]
     },
     {
@@ -32416,7 +33550,7 @@
         "",
         "",
         "",
-        "Melífera vitae gigante curtido"
+        "Melífera vitae gigante hiper-curtido"
       ]
     },
     {
@@ -32867,7 +34001,7 @@
         "",
         "",
         "",
-        "الذباب الوامض",
+        "ذباب الوامض",
         "",
         "",
         "",
@@ -32891,14 +34025,14 @@
         "閃光羽虫（歴戦の個体）",
         "Tempered Flashflies",
         "Flashinsectes alpha",
-        "Insetti abbaglio temprata",
+        "Insetti abbaglio temprato",
         "Gehärtete Blitzfliegen",
-        "Noctilucas curtida",
-        "Закалённая Светляки",
-        "Zahartowana Muchy błyskówki",
+        "Noctilucas curtido",
+        "Закалённый Светляки",
+        "Zahartowany Muchy błyskówki",
         "",
         "",
-        "Mosclarões Aguerrida",
+        "Mosclarões Aguerrido",
         "섬광 날개벌레(역전의 개체)",
         "閃光翅蟲（歷戰個體）",
         "闪光翅虫（历战个体）",
@@ -32909,7 +34043,7 @@
         "",
         "",
         "",
-        "الذباب الوامض غاضب",
+        "ذباب الوامض غاضب",
         "",
         "",
         "",
@@ -32920,7 +34054,7 @@
         "",
         "",
         "",
-        "Noctilucas curtida"
+        "Noctilucas curtido"
       ]
     },
     {
@@ -32951,7 +34085,7 @@
         "",
         "",
         "",
-        "المخضرم الذباب الوامض",
+        "المخضرم ذباب الوامض",
         "",
         "",
         "",
@@ -32962,7 +34096,7 @@
         "",
         "",
         "",
-        "Noctilucas curtido"
+        "Noctilucas hiper-curtido"
       ]
     },
     {
@@ -33119,7 +34253,7 @@
         "",
         "",
         "",
-        "الذباب الوامض مسعور",
+        "ذباب الوامض مسعور",
         "",
         "",
         "",
@@ -33437,14 +34571,14 @@
         "フンコロガシ（歴戦の個体）",
         "Tempered Dung Beetle",
         "Scarabouse alpha",
-        "Stercorario temprata",
+        "Stercorario temprato",
         "Gehärtete Mistkäfer",
-        "Escarabajo pelotero curtida",
-        "Закалённая Навозный жук",
-        "Zahartowana Gnojak",
+        "Escarabajo pelotero curtido",
+        "Закалённый Навозный жук",
+        "Zahartowany Gnojak",
         "",
         "",
-        "Besouro-esterco Aguerrida",
+        "Besouro-esterco Aguerrido",
         "쇠똥구리(역전의 개체)",
         "糞金龜（歷戰個體）",
         "粪金龟（历战个体）",
@@ -33466,7 +34600,7 @@
         "",
         "",
         "",
-        "Escarabajo pelotero curtida"
+        "Escarabajo pelotero curtido"
       ]
     },
     {
@@ -33508,7 +34642,7 @@
         "",
         "",
         "",
-        "Escarabajo pelotero curtido"
+        "Escarabajo pelotero hiper-curtido"
       ]
     },
     {
@@ -34277,14 +35411,14 @@
         "バクダンイワコロガシ（歴戦の個体）",
         "Tempered Bomb Beetle",
         "Scarabombe alpha",
-        "Scarabombo temprata",
+        "Scarabombo temprato",
         "Gehärtete Bombenkäfer",
-        "Escarabajo bombardero curtida",
-        "Закалённая Жук-бомба",
-        "Zahartowana Bombożuk",
+        "Escarabajo bombardero curtido",
+        "Закалённый Жук-бомба",
+        "Zahartowany Bombożuk",
         "",
         "",
-        "Besouro-bomba Aguerrida",
+        "Besouro-bomba Aguerrido",
         "폭탄 바위구리(역전의 개체)",
         "爆彈甲蟲（歷戰個體）",
         "爆弹甲虫（历战个体）",
@@ -34306,7 +35440,7 @@
         "",
         "",
         "",
-        "Escarabajo bombardero curtida"
+        "Escarabajo bombardero curtido"
       ]
     },
     {
@@ -34348,7 +35482,7 @@
         "",
         "",
         "",
-        "Escarabajo bombardero curtido"
+        "Escarabajo bombardero hiper-curtido"
       ]
     },
     {
@@ -34823,14 +35957,14 @@
         "ユキダマコガネ（歴戦の個体）",
         "Tempered Rime Beetle",
         "Scarabée des neiges alpha",
-        "Scaraghiaccio temprata",
+        "Scaraghiaccio temprato",
         "Gehärtete Reifkäfer",
-        "Escarabajo nival curtida",
-        "Закалённая Снегожук",
-        "Zahartowana Żuk szronowy",
+        "Escarabajo nival curtido",
+        "Закалённый Снегожук",
+        "Zahartowany Żuk szronowy",
         "",
         "",
-        "Besouro-geada Aguerrida",
+        "Besouro-geada Aguerrido",
         "눈뭉치풍뎅이(역전의 개체)",
         "雪球蟲（歷戰個體）",
         "雪球虫（历战个体）",
@@ -34852,7 +35986,7 @@
         "",
         "",
         "",
-        "Escaralado curtida"
+        "Escaralado curtido"
       ]
     },
     {
@@ -34894,7 +36028,7 @@
         "",
         "",
         "",
-        "Escaralado curtido"
+        "Escaralado hiper-curtido"
       ]
     },
     {
@@ -35075,14 +36209,14 @@
         "カイフクコロモムシ（歴戦の個体）",
         "Tempered Vigormantle Bug",
         "Vitanille alpha",
-        "Insetto vigormantello temprata",
+        "Insetto vigormantello temprato",
         "Gehärtete Vitalitätsmäntelchen",
-        "Díptero vitalicio curtida",
-        "Закалённая Жук-силоносец",
-        "Zahartowana Wigorowad",
+        "Díptero vitalicio curtido",
+        "Закалённый Жук-силоносец",
+        "Zahartowany Wigorowad",
         "",
         "",
-        "Inseto Mantovigor Aguerrida",
+        "Inseto Mantovigor Aguerrido",
         "회복 껍질벌레(역전의 개체)",
         "回復蓑衣蟲（歷戰個體）",
         "回复蓑衣虫（历战个体）",
@@ -35104,7 +36238,7 @@
         "",
         "",
         "",
-        "Bicho vigorocapa curtida"
+        "Bicho vigorocapa curtido"
       ]
     },
     {
@@ -35146,7 +36280,7 @@
         "",
         "",
         "",
-        "Bicho vigorocapa curtido"
+        "Bicho vigorocapa hiper-curtido"
       ]
     },
     {
@@ -35621,14 +36755,14 @@
         "ヒンヤリコロモムシ（歴戦の個体）",
         "Tempered Chillmantle Bug",
         "Glacianille alpha",
-        "Insetto gelomantello temprata",
+        "Insetto gelomantello temprato",
         "Gehärtete Frostmäntelchen",
-        "Díptero refrigerio curtida",
-        "Закалённая Жук-хладоносец",
-        "Zahartowana Szronka kapturnica",
+        "Díptero refrigerio curtido",
+        "Закалённый Жук-хладоносец",
+        "Zahartowany Szronka kapturnica",
         "",
         "",
-        "Inseto Mantogélido Aguerrida",
+        "Inseto Mantogélido Aguerrido",
         "서늘 껍질벌레(역전의 개체)",
         "冰冷蓑衣蟲（歷戰個體）",
         "冰冷蓑衣虫（历战个体）",
@@ -35650,7 +36784,7 @@
         "",
         "",
         "",
-        "Bicho escarchado curtida"
+        "Bicho escarchado curtido"
       ]
     },
     {
@@ -35692,7 +36826,7 @@
         "",
         "",
         "",
-        "Bicho escarchado curtido"
+        "Bicho escarchado hiper-curtido"
       ]
     },
     {
@@ -36167,14 +37301,14 @@
         "ホカホカコロモムシ（歴戦の個体）",
         "Tempered Heatmantle Bug",
         "Calonille alpha",
-        "Insetto scaldamantello temprata",
+        "Insetto scaldamantello temprato",
         "Gehärtete Hitzemäntelchen",
-        "Díptero calefacto curtida",
-        "Закалённая Жук-жароносец",
-        "Zahartowana Żaronka kapturnica",
+        "Díptero calefacto curtido",
+        "Закалённый Жук-жароносец",
+        "Zahartowany Żaronka kapturnica",
         "",
         "",
-        "Inseto Mantérmico Aguerrida",
+        "Inseto Mantérmico Aguerrido",
         "따끈 껍질벌레(역전의 개체)",
         "溫熱蓑衣蟲（歷戰個體）",
         "温暖蓑衣虫（历战个体）",
@@ -36196,7 +37330,7 @@
         "",
         "",
         "",
-        "Bicho flamígero curtida"
+        "Bicho flamígero curtido"
       ]
     },
     {
@@ -36238,7 +37372,7 @@
         "",
         "",
         "",
-        "Bicho flamígero curtido"
+        "Bicho flamígero hiper-curtido"
       ]
     },
     {
@@ -36713,14 +37847,14 @@
         "スタミナライチュウ（歴戦の個体）",
         "Tempered Wiggly Litchi",
         "Chenille-litchi alpha",
-        "Larva resistenza temprata",
+        "Larva resistenza temprato",
         "Gehärtete Ausdauer-Insektenlarven",
-        "Lichibichos curtida",
-        "Закалённая Волнистый личи",
-        "Zahartowana Wijoliczki",
+        "Lichibichos curtido",
+        "Закалённый Волнистый личи",
+        "Zahartowany Wijoliczki",
         "",
         "",
-        "Lichia Agitada Aguerrida",
+        "Lichia Agitada Aguerrido",
         "스태미나 유충(역전의 개체)",
         "耐力雷蟲（歷戰個體）",
         "耐力雷虫（历战个体）",
@@ -36742,7 +37876,7 @@
         "",
         "",
         "",
-        "Lichibichos curtida"
+        "Lichibichos curtido"
       ]
     },
     {
@@ -36784,7 +37918,7 @@
         "",
         "",
         "",
-        "Lichibichos curtido"
+        "Lichibichos hiper-curtido"
       ]
     },
     {
@@ -37259,14 +38393,14 @@
         "ヤミテラシバチ（歴戦の個体）",
         "Tempered Dark Hornet",
         "Frelon clair-obscur alpha",
-        "Calabrone oscuro temprata",
+        "Calabrone oscuro temprato",
         "Gehärtete Finsterhornisse",
-        "Avispón oscuro curtida",
-        "Закалённая Тёмный шершень",
-        "Zahartowana Ciemny szerszeń",
+        "Avispón oscuro curtido",
+        "Закалённый Тёмный шершень",
+        "Zahartowany Ciemny szerszeń",
         "",
         "",
-        "Vespão Umbroso Aguerrida",
+        "Vespão Umbroso Aguerrido",
         "어둠비추미 벌(역전의 개체)",
         "照黑蜂（歷戰個體）",
         "照暗蜂（历战个体）",
@@ -37288,7 +38422,7 @@
         "",
         "",
         "",
-        "Avispón oscuro curtida"
+        "Avispón oscuro curtido"
       ]
     },
     {
@@ -37330,7 +38464,7 @@
         "",
         "",
         "",
-        "Avispón oscuro curtido"
+        "Avispón oscuro hiper-curtido"
       ]
     },
     {
@@ -37781,7 +38915,7 @@
         "",
         "",
         "",
-        "الحشرات الصّاعقة الكبيرة",
+        "حشرات الصّاعقة الكبيرة",
         "",
         "",
         "",
@@ -37805,14 +38939,14 @@
         "大雷光虫（歴戦の個体）",
         "Tempered Great Thunderbugs",
         "Grands foudrinsectes alpha",
-        "Insetti tuono grandi temprata",
+        "Insetti tuono grandi temprato",
         "Gehärtete Große Donnerkäfer",
-        "Grandes electrobichos curtida",
-        "Закалённая Большие грозовые жуки",
-        "Zahartowana Gromuszki wielkie",
+        "Grandes electrobichos curtido",
+        "Закалённый Большие грозовые жуки",
+        "Zahartowany Gromuszki wielkie",
         "",
         "",
-        "Grande Insetrovão Aguerrida",
+        "Grande Insetrovão Aguerrido",
         "대뇌광충(역전의 개체)",
         "大雷光蟲（歷戰個體）",
         "大雷光虫（历战个体）",
@@ -37823,7 +38957,7 @@
         "",
         "",
         "",
-        "الحشرات الصّاعقة الكبيرة غاضب",
+        "حشرات الصّاعقة الكبيرة غاضب",
         "",
         "",
         "",
@@ -37834,7 +38968,7 @@
         "",
         "",
         "",
-        "Gran electrobicho curtida"
+        "Gran electrobicho curtido"
       ]
     },
     {
@@ -37865,7 +38999,7 @@
         "",
         "",
         "",
-        "المخضرم الحشرات الصّاعقة الكبيرة",
+        "المخضرم حشرات الصّاعقة الكبيرة",
         "",
         "",
         "",
@@ -37876,7 +39010,7 @@
         "",
         "",
         "",
-        "Gran electrobicho curtido"
+        "Gran electrobicho hiper-curtido"
       ]
     },
     {
@@ -38033,7 +39167,7 @@
         "",
         "",
         "",
-        "الحشرات الصّاعقة الكبيرة مسعور",
+        "حشرات الصّاعقة الكبيرة مسعور",
         "",
         "",
         "",
@@ -38094,6 +39228,1098 @@
       "guid": "001c2829-80f9-447b-94d9-db0826b7995d",
       "crc?": 1600103303,
       "hash": 3284839067,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_JP_NAME_EM5010_00_0",
+      "guid": "84291455-8ef7-4191-938b-7f908333b5c3",
+      "crc?": 2058600189,
+      "hash": 24227401,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_NAME_EM5010_00_0",
+      "guid": "4fe9ec87-a628-46f6-973f-dcd2f73d056f",
+      "crc?": 2841439697,
+      "hash": 3505120576,
+      "attributes": [],
+      "content": [
+        "サボテンダー",
+        "Cactuar",
+        "Pampa",
+        "Kyactus",
+        "Kaktor",
+        "Cactilio",
+        "Кактуар",
+        "Kaktuar",
+        "",
+        "",
+        "Cactuar",
+        "사보텐더",
+        "仙人掌",
+        "仙人刺",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الصبار",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cactilio"
+      ]
+    },
+    {
+      "name": "EnemyText_EXP_EM5010_00_0",
+      "guid": "b4cd83a1-fa92-450c-8490-f6ce60bb2ea2",
+      "crc?": 160019842,
+      "hash": 2492540261,
+      "attributes": [],
+      "content": [
+        "異世界「エオルゼア」から迷い込んだとされる\r\n不思議な生物。衝撃を加えると自身の周囲へ\r\n千本もの針を放ち、大きなダメージを与える。",
+        "Strange creatures that wandered here from a\r\nfaraway place called Eorzea. If struck, they\r\nfire a thousand needles, dealing major damage.",
+        "Étranges créatures venues d'un endroit appelé\r\nÉorzéa. Lorsqu'elles sont touchées, elles\r\nprojettent des aiguilles dangereuses.",
+        "Strane creature giunte qui da un luogo lontano\r\nchiamato Eorzea. Quando vengono colpite, scagliano\r\nmigliaia di aghi che infliggono danni gravi.",
+        "Seltsame Kreaturen von einem entfernten\r\nOrt namens Eorzea. Wenn sie getroffen\r\nwerden, verschießen sie tausend Nadeln.",
+        "Criaturas extrañas de un lejano lugar\r\nllamado Eorzea. Al recibir un golpe, lanzan\r\nmiles de espinas que infligen mucho daño.",
+        "Странные существа, прибывшие из далёкой\r\nЭорзеи. При ударе выпускают во все стороны\r\nиглы, наносящие серьёзный урон.",
+        "Dziwne stworzenia, które przybyły z dalekiego\r\nmiejsca zwanego Eorzea. Uderzone, wystrzeliwują \r\ntysiąc igieł, zadając duże obrażenia.",
+        "",
+        "",
+        "Criaturas estranhas oriundas de um lugar\r\ndistante chamado Eorzea. Ao serem atingidas,\r\ndisparam mil agulhas, causando dano enorme.",
+        "이세계 '에오르제아'에서 흘러 들어온\r\n신비한 생물. 충격을 가하면 본인 주위에\r\n천 개의 바늘을 쏘아 큰 대미지를 준다.",
+        "從異世界「艾奧傑亞」誤闖此地的神秘生物。只要\r\n對其施加衝擊，牠就會朝四周釋放千根針造成極大\r\n傷害。",
+        "从异世界“艾欧泽亚”误入此地的奇妙生物。对其\r\n施加冲击会向周围射出千针刺，造成大量伤害。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مخلوقات غريبة هائمة\r\nجاءت إلى هنا من مكان بعيد يُدعى (إيورزيا).\r\nعند ضربها، تطلق ألف إبرة وتلحق ضررًا جسيمًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Extrañas criaturas que vienen de un lugar lejano\r\nllamado Eorzea. Cuando las golpeas, disparan\r\nmiles de agujas que infligen mucho daño."
+      ]
+    },
+    {
+      "name": "EnemyText_EXTRA_NAME_EM5010_00_0",
+      "guid": "5b91ce6e-e353-4060-ad5f-854d3ee9d3c4",
+      "crc?": 3569727387,
+      "hash": 3054342792,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_BOSS_EXP_EM5010_00_0",
+      "guid": "8515c631-bb21-43dd-8e9c-d5186a9cb004",
+      "crc?": 722056583,
+      "hash": 908060933,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_FRENZY_NAME_EM5010_00_0",
+      "guid": "bf5a091f-7828-4c08-ad64-7787ce35b259",
+      "crc?": 3035038071,
+      "hash": 1216487040,
+      "attributes": [],
+      "content": [
+        "狂竜化サボテンダー",
+        "Frenzied Cactuar",
+        "Pampa en furie",
+        "Kyactus frenetico",
+        "Rasender Kaktor",
+        "Cactilio colérico",
+        "Бешеный Кактуар",
+        "Oszalały Kaktuar",
+        "",
+        "",
+        "Cactuar Colérico",
+        "광룡화 사보텐더",
+        "狂龍化仙人掌",
+        "狂龙化仙人刺",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الصبار مسعور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cactilio colérico"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_NAME_EM5010_00_0",
+      "guid": "7cbc2725-84ac-4e16-b5af-ccc9dc4fb2e7",
+      "crc?": 4293620484,
+      "hash": 2300251802,
+      "attributes": [],
+      "content": [
+        "サボテンダー（歴戦の個体）",
+        "Tempered Cactuar",
+        "Pampa alpha",
+        "Kyactus temprato",
+        "Gehärtete Kaktor",
+        "Cactilio curtido",
+        "Закалённый Кактуар",
+        "Zahartowany Kaktuar",
+        "",
+        "",
+        "Cactuar Aguerrido",
+        "사보텐더(역전의 개체)",
+        "仙人掌（歷戰個體）",
+        "仙人刺（历战个体）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الصبار غاضب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cactilio curtido"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_KING_NAME_EM5010_00_0",
+      "guid": "9d7537c8-5de9-4c26-9e9e-c9d254f1e790",
+      "crc?": 2322306143,
+      "hash": 630142172,
+      "attributes": [],
+      "content": [
+        "サボテンダー（歴戦王）",
+        "Arch-tempered Cactuar",
+        "Pampa alpha suprême",
+        "Kyactus arcitemprato",
+        "Kampfgehärteter Kaktor",
+        "Cactilio hipercurtido",
+        "Архизакалённый Кактуар",
+        "Arcyzahartowany Kaktuar",
+        "",
+        "",
+        "Cactuar Arquiaguerrido",
+        "사보텐더(역전왕)",
+        "仙人掌（歷戰王）",
+        "仙人刺（历战王）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المخضرم الصبار",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cactilio hiper-curtido"
+      ]
+    },
+    {
+      "name": "EnemyText_FEATURES_EM5010_00_0",
+      "guid": "7841833e-89fa-4935-849c-206b4f4bd353",
+      "crc?": 4092123345,
+      "hash": 2283356128,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_TIPS_EM5010_00_0",
+      "guid": "fd2aca93-608b-4558-a5f0-4a9525209149",
+      "crc?": 904318890,
+      "hash": 1015550197,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_FIRST_CAPTURE_EM5010_00_0",
+      "guid": "8cfc80a7-066e-4434-9115-3f1c458cfed9",
+      "crc?": 3999882568,
+      "hash": 4192410891,
+      "attributes": [],
+      "content": [
+        "異世界エオルゼアから迷い込んだと\r\nされる不思議な生物。衝撃によって\r\n周囲に千本もの針を放つ。",
+        "Strange creatures that wandered here from a\r\nfaraway place called Eorzea. If struck, they\r\nshoot a thousand needles in all directions.",
+        "Étranges créatures venues d'un endroit appelé\r\nÉorzéa. Lorsqu'elles sont touchées, elles\r\nprojettent des aiguilles partout.",
+        "Strane creature giunte qui da un luogo lontano\r\nchiamato Eorzea. Quando colpite, scagliano\r\nmigliaia di aghi in ogni direzione.",
+        "Seltsame Kreaturen von einem entfernten\r\nOrt namens Eorzea. Wenn sie getroffen\r\nwerden, fliegen tausend Nadeln überall hin.",
+        "Criaturas extrañas de un lejano lugar\r\nllamado Eorzea. Al recibir un golpe, disparan\r\nmiles de espinas en todas direcciones.",
+        "Странные существа, прибывшие сюда из далёкой\r\nЭорзеи. Когда их бьют, выпускают во все\r\nстороны иглы, наносящие серьёзный урон.",
+        "Dziwne stworzenia, które przywędrowały tutaj\r\nz odległego miejsca zwanego Eorzea. Po uderzeniu\r\nwystrzeliwują tysiąc igieł we wszystkie strony.",
+        "",
+        "",
+        "Criaturas estranhas oriundas de um lugar\r\ndistante chamado Eorzea. Ao serem atingidas,\r\ndisparam mil agulhas para todos os lados.",
+        "이세계 '에오르제아'에서 흘러 들어온\r\n신비한 생물. 충격을 가하면 주위에\r\n천 개의 바늘을 쏜다.",
+        "從異世界「艾奧傑亞」誤闖此地的神秘生物，\r\n受到衝擊就會朝四周釋放千根針。",
+        "从异世界“艾欧泽亚”误入此地的奇妙生物。\r\n受到冲击时会向周围放出千针刺。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مخلوقات غريبة هائمة\r\nجاءت إلى هنا من مكان بعيد يُدعى (إيورزيا).\r\nعند ضربها، تطلق ألف إبرة في جميع الاتجاهات.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Extrañas criaturas que vienen de un lugar\r\nlejano llamado Eorzea. Cuando las golpeas,\r\ndisparan miles de agujas por todos lados."
+      ]
+    },
+    {
+      "name": "EnemyText_MEMO_EM5010_00_0",
+      "guid": "73a11292-268a-4baa-8a8c-debd729e90d3",
+      "crc?": 1614994465,
+      "hash": 1173820904,
+      "attributes": [],
+      "content": [
+        "異世界「エオルゼア」から迷い込んだとされる\r\n不思議な生物。植物のような見た目をしている。\r\n外敵を察知すると、その体から周囲へと向けて\r\n無数の針を放ち攻撃する。その威力は非常に高く\r\nモンスターやハンターにとって脅威となり得る。\r\n死亡時には死体を残さず消失する事が確認されて\r\nおり、その特徴はオメガ・プラネテスが生成した\r\n他の生物とも合致する。ゆえに東地域で出没する\r\nサボテンダーはそれらと同様、生成によって\r\n現れた個体とも考えられる。",
+        "Strange, plant-like creatures that have wandered\r\nhere from a faraway place called Eorzea. Upon\r\ndetecting a threat, they expel needles in all\r\ndirections—an extremely powerful attack that\r\ncan pose a threat to both monsters and hunters.\r\nLike other creatures manufactured by Omega\r\nPlanetes, their bodies vanish when slain.\r\nSo it's theorized that they, too, were\r\nmanufactured.",
+        "D'étranges créatures semblables à des plantes\r\nvenues d'un endroit lointain appelé Éorzéa.\r\nLorsqu'elles détectent une menace, elles\r\nprojettent des aiguilles dans toutes les\r\ndirections, infligeant ainsi d'importants dégâts\r\naux monstres comme aux chasseurs. Leur corps\r\ndisparaît lorsqu'elles sont tuées, comme les\r\nautres créatures créées par Oméga Planetikos.\r\nOn pense donc qu'elles ont également été\r\nfabriquées.",
+        "Strane creature simili a piante giunte qui\r\nda un luogo lontano chiamato Eorzea.\r\nQuando rilevano una minaccia, scagliano\r\naghi in ogni direzione, un attacco\r\nestremamente potente che rappresenta una\r\nminaccia sia per i mostri sia per i\r\ncacciatori. Si crede siano artificiali,\r\npoiché i loro corpi, come quelli delle altre\r\ncreature progettate da Omega Planetes,\r\nsvaniscono quando vengono abbattuti.",
+        "Seltsame, pflanzenartige Kreaturen, die von\r\neinem weit entfernten Ort namens Eorzea\r\nstammen. Bei Gefahr schleudern sie Nadeln in\r\nalle Richtungen – ein mächtiger Angriff, der für\r\nMonster und Jäger gleichermaßen gefährlich\r\nist. Wie andere von Omega Planetes erschaf-\r\nfene Wesen verschwinden sie, nachdem sie\r\nerlegt wurden, daher ist es wahrscheinlich,\r\ndass es sich um künstlich produzierte Wesen\r\nhandelt.",
+        "Criaturas extrañas con aspecto de plantas\r\nprocedentes de un lugar lejano llamado\r\nEorzea. Al detectar el peligro, lanzan\r\nespinas en todas direcciones, lo que puede\r\nllegar a suponer toda una amenaza para\r\nmonstruos y cazadores. Al igual que otras\r\ncriaturas creadas por Omega Planetes, sus\r\ncuerpos desaparecen al morir, por lo que\r\nse cree que puedan ser de origen artificial.",
+        "Странные, похожие на растения существа,\r\nприбывшие сюда из далёкой Эорзеи. Почуяв\r\nугрозу, они выпускают во все стороны иглы,\r\nкоторые очень опасны и для монстров, и для\r\nохотников. Тела этих существ, как и останки\r\nсозданий, произведённых Омегой-Планетесом,\r\nисчезают после их гибели, так что можно\r\nпредположить, что они также изготовлены\r\nискусственно.",
+        "Dziwne roślinopodobne stworzenia, które\r\nprzywędrowały tutaj z odległego miejsca zwanego\r\nEorzea. Po wykryciu zagrożenia wystrzeliwują igły\r\nwe wszystkie strony – to niezwykle potężny atak,\r\nktóry może zagrozić tak potworom, jak i łowcom.\r\nPo zgładzeniu ich ciała znikają, podobnie jak\r\nw przypadku innych stworzeń wytworzonych przez\r\nOmegę Planetes. Istnieje więc teoria, według\r\nktórej one również zostały wytworzone.",
+        "",
+        "",
+        "Criaturas estranhas, parecidas com plantas,\r\nque vieram para cá de um lugar distante\r\nchamado Eorzea. Ao detectar uma ameaça,\r\ndisparam agulhas para todos os lados,\r\num ataque muito poderoso que pode ser\r\nperigoso tanto para monstros quanto para\r\ncaçadores. Assim como as criaturas fabricadas\r\npor Omega Planetes, seus corpos desaparecem\r\nquando morrem. Por isso, acredita-se que\r\nelas também foram fabricadas.",
+        "이세계 '에오르제아'에서 흘러 들어온\r\n신비한 생물. 식물처럼 생겼다.\r\n외부 적을 감지하면 몸에서 무수한 바늘을\r\n쏘아 주변을 공격한다. 위력이 매우 높아\r\n몬스터나 헌터에게 위협적이다.\r\n사망하면 사체 없이 소멸하는 것으로\r\n확인됐다. 그 특징은 오메가 플라네테스가\r\n생성한 다른 생물과도 일치한다. 따라서\r\n동쪽 지역에 출몰하는 사보텐더도\r\n생성에 의해 출현한 개체로 볼 수 있다.",
+        "從異世界「艾奧傑亞」誤闖此地的神秘生物，外表\r\n看起來像植物一樣。一旦發現外敵，身體就會朝四\r\n周釋放無數的細針來攻擊。攻擊的威力非常高，甚\r\n至能對魔物或獵人構成威脅。有報告稱其死亡時會\r\n直接消失，不會留下屍體，而此特點也與遊星歐米\r\n茄製造的其他生物一致，因此也有人認為出沒於東\r\n部地區的仙人掌與那些生物相同，都是由遊星歐米\r\n茄製造的個體。",
+        "从异世界“艾欧泽亚”误入此地的奇妙生物。外\r\n形酷似植物，发现敌人时会向四周发射无数针刺\r\n进行攻击，威力极高，对怪物和猎人都构成威胁。\r\n已确认其在死亡后不会留下尸体，而是直接消\r\n失，该特征与游星欧米茄制造的其他生物一致。\r\n因而推测东部地区出现的仙人刺也与那些生物相\r\n同，属于被制造出的个体。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مخلوقات غريبة هائمة تشبه النباتات\r\nجاءت إلى هنا من مكان بعيد يُدعى (إيورزيا).\r\nعند استشعارها لتهديد،\r\nتُطلق الإبر في جميع الاتجاهات في هجوم قوي للغاية\r\nيمكن أن يشكل خطرًا على الوحوش والصيادين على حد سواء.\r\nوكغيرها من المخلوقات التي صنعها (أوميغا بلانيتيس)،\r\nتختفي أجسادها عند ذبحها،\r\nمما يدعم فرضية أنها مُصنعة أيضًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Extrañas criaturas con aspecto de planta\r\nque vienen de un lugar lejano llamado\r\nEorzea. Cuando detectan una amenaza, lanzan\r\nespinas en todas las direcciones, un ataque\r\nmuy poderoso que puede suponer una amenaza\r\npara monstruos y cazadores.\r\nAl igual que otras criaturas fabricadas por\r\nOmega Planetes, sus cuerpos desaparecen\r\ncuando mueren. La teoría es que también\r\nfueron fabricados."
+      ]
+    },
+    {
+      "name": "EnemyText_GRAMMAR_EM5010_00_0",
+      "guid": "ab3a6450-29dc-41a9-89fb-63aa914dc261",
+      "crc?": 761440984,
+      "hash": 1397746205,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_JP_NAME_EM5011_00_0",
+      "guid": "6ecdcd8f-275f-4daf-972b-3cf836f2a65f",
+      "crc?": 152383476,
+      "hash": 2615050722,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_NAME_EM5011_00_0",
+      "guid": "471fed0c-4304-476e-b012-cd1e61290c49",
+      "crc?": 1064782046,
+      "hash": 1837792966,
+      "attributes": [],
+      "content": [
+        "モルボル・シードリング",
+        "Morbol Seedling",
+        "Pousse de morbol",
+        "Piantina di molboro",
+        "Morbol-Keimling",
+        "Cría de molbol",
+        "Саженец морбола",
+        "Sadzonka morbola",
+        "",
+        "",
+        "Muda de Morbol",
+        "몰볼 묘목",
+        "毛爾波爾幼苗",
+        "魔界花幼苗",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نبتة موربول",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cría de morbol"
+      ]
+    },
+    {
+      "name": "EnemyText_EXP_EM5011_00_0",
+      "guid": "63f1c568-2151-4944-9d65-320ad640fd86",
+      "crc?": 3212887149,
+      "hash": 1373203862,
+      "attributes": [],
+      "content": [
+        "異世界「エオルゼア」から迷い込んだとされる\r\n不思議な生物。衝撃によって「くさい息」を放ち\r\nモンスターを毒、麻痺、こやし状態にする。",
+        "Strange creatures that wandered here from a\r\nfaraway place called Eorzea. If struck, they\r\nuse Bad Breath to inflict many status ailments.",
+        "Étranges créatures venues d'un endroit appelé\r\nÉorzéa. Si elles sont touchées, elles utilisent\r\nMauvaise haleine pour infliger des afflictions.",
+        "Strana creatura giunta qui da un luogo lontano\r\nchiamato Eorzea. Quando viene colpita, usa Alito\r\nfetido per infliggere alterazioni di stato.",
+        "Seltsame Kreaturen von einem entfernten\r\nOrt namens Eorzea. Wenn sie getroffen\r\nwerden, löst ihr Atem Statusanomalien aus.",
+        "Criaturas extrañas procedentes de un lejano lugar\r\nllamado Eorzea. Al recibir un golpe, usan su\r\naliento fétido para infligir estados alterados.",
+        "Странные существа, прибывшие из далёкой\r\nЭорзеи. Если их ударить, поражают зловонным\r\nдыханием и накладывают различные недуги.",
+        "Dziwne stworzenia, które przybyły z odległego\r\nmiejsca zwanego Eorzea. Uderzone, używają złego\r\noddechu, nakładając różne szkodliwe efekty.",
+        "",
+        "",
+        "Criatura estranha oriunda de um lugar distante\r\nchamado Eorzea. Ao ser atingida, usa seu Mau\r\nHálito para infligir diversos efeitos negativos.",
+        "이세계 에오르제아에서 흘러 들어온 신비한\r\n생물. 충격을 주면 '냄새나는 입김'을 뿜어\r\n몬스터를 독, 마비, 거름 상태로 만든다.",
+        "從異世界「艾奧傑亞」誤闖此地的神秘生物，受到\r\n衝擊就會釋放臭氣，使魔物陷入毒、麻痺及異臭狀\r\n態。",
+        "从异世界“艾欧泽亚”误入此地的奇妙生物。\r\n受冲击时会释放臭气，使怪物陷入中毒、麻痹\r\n和异臭状态。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مخلوق غريب هائم جاء إلى هنا من مكان بعيد\r\nيُدعى (إيورزيا). عند ضربه، يستخدم أنفاسه الكريهة\r\nلإحداث العديد من اعتلالات الحالة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Extrañas criaturas que vienen de un lugar lejano\r\nllamado Eorzea. Cuando las golpeas, usan sus mal\r\naliento para infligir varios estados alterados."
+      ]
+    },
+    {
+      "name": "EnemyText_EXTRA_NAME_EM5011_00_0",
+      "guid": "4fd348cb-9d2f-47a8-b81c-b4e073f29278",
+      "crc?": 245705988,
+      "hash": 3829432294,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_BOSS_EXP_EM5011_00_0",
+      "guid": "35bffd7e-0ea8-4ac5-a6b6-e359b0794d11",
+      "crc?": 1698713385,
+      "hash": 3229829394,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_FRENZY_NAME_EM5011_00_0",
+      "guid": "86cf22ab-6ea9-4ca7-bd03-2685e995e698",
+      "crc?": 2454086263,
+      "hash": 3829241838,
+      "attributes": [],
+      "content": [
+        "狂竜化モルボル・シードリング",
+        "Frenzied Morbol Seedling",
+        "Pousse de morbol en furie",
+        "Piantina di molboro frenetico",
+        "Rasender Morbol-Keimling",
+        "Cría de molbol colérico",
+        "Бешеный Саженец морбола",
+        "Oszalały Sadzonka morbola",
+        "",
+        "",
+        "Muda de Morbol Colérico",
+        "광룡화 몰볼 묘목",
+        "狂龍化毛爾波爾幼苗",
+        "狂龙化魔界花幼苗",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نبتة موربول مسعور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cría de morbol colérico"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_NAME_EM5011_00_0",
+      "guid": "62007862-cd60-4203-9da4-7530acc9a061",
+      "crc?": 3131944831,
+      "hash": 304511606,
+      "attributes": [],
+      "content": [
+        "モルボル・シードリング（歴戦の個体）",
+        "Tempered Morbol Seedling",
+        "Pousse de morbol alpha",
+        "Piantina di molboro temprato",
+        "Gehärtete Morbol-Keimling",
+        "Cría de molbol curtido",
+        "Закалённый Саженец морбола",
+        "Zahartowany Sadzonka morbola",
+        "",
+        "",
+        "Muda de Morbol Aguerrido",
+        "몰볼 묘목(역전의 개체)",
+        "毛爾波爾幼苗（歷戰個體）",
+        "魔界花幼苗（历战个体）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نبتة موربول غاضب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cría de morbol curtido"
+      ]
+    },
+    {
+      "name": "EnemyText_LEGENDARY_KING_NAME_EM5011_00_0",
+      "guid": "d9475b43-3920-4235-86fb-5df3f01a2195",
+      "crc?": 3122560603,
+      "hash": 2627254109,
+      "attributes": [],
+      "content": [
+        "モルボル・シードリング（歴戦王）",
+        "Arch-tempered Morbol Seedling",
+        "Pousse de morbol alpha suprême",
+        "Piantina di molboro arcitemprato",
+        "Kampfgehärteter Morbol-Keimling",
+        "Cría de molbol hipercurtido",
+        "Архизакалённый Саженец морбола",
+        "Arcyzahartowany Sadzonka morbola",
+        "",
+        "",
+        "Muda de Morbol Arquiaguerrido",
+        "몰볼 묘목(역전왕)",
+        "毛爾波爾幼苗（歷戰王）",
+        "魔界花幼苗（历战王）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المخضرم نبتة موربول",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cría de morbol hiper-curtido"
+      ]
+    },
+    {
+      "name": "EnemyText_FEATURES_EM5011_00_0",
+      "guid": "d8d53604-34e5-443e-a358-e400fad46e84",
+      "crc?": 1657099796,
+      "hash": 1573244884,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_TIPS_EM5011_00_0",
+      "guid": "e4053d57-a6fa-44e1-9a84-ec5652ea5950",
+      "crc?": 34014780,
+      "hash": 2729359406,
+      "attributes": [],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EnemyText_FIRST_CAPTURE_EM5011_00_0",
+      "guid": "a1da6444-ff3e-4c14-b197-1b4a0f004fde",
+      "crc?": 4167204601,
+      "hash": 2592235666,
+      "attributes": [],
+      "content": [
+        "異世界エオルゼアから迷い込んだと\r\nされる不思議な生物。衝撃によって\r\n前方に「くさい息」を放つ。",
+        "Strange creatures that wandered here from a\r\nfaraway place called Eorzea. If struck, they\r\nexhale Bad Breath directly in front of them.",
+        "Étranges créatures venues d'un endroit appelé\r\nÉorzéa. Si elles sont touchées, elles soufflent\r\nleur Mauvaise haleine devant elles.",
+        "Strana creatura giunta qui da un luogo\r\nlontano chiamato Eorzea. Quando viene\r\ncolpita, emana Alito fetido di fronte a sé.",
+        "Seltsame Kreaturen von einem entfernten\r\nOrt namens Eorzea. Wenn sie getroffen\r\nwerden, stoßen sie üblen Mundgeruch aus.",
+        "Criaturas extrañas procedentes de un lejano lugar\r\nllamado Eorzea. Al recibir un golpe, expelen\r\nun aliento fétido hacia delante.",
+        "Странные существа, прибывшие из далёкой\r\nЭорзеи. При ударе выдыхают, поражая\r\nзловонным дыханием область перед собой.",
+        "Dziwne stworzenia, które przybyły z odległego\r\nmiejsca zwanego Eorzea. Uderzone, zioną złym\r\noddechem bezpośrednio przed siebie.",
+        "",
+        "",
+        "Criatura estranha oriunda de um lugar distante\r\nchamado Eorzea. Ao ser atingida, sopra seu\r\nMau Hálito diretamente a sua frente.",
+        "이세계 에오르제아에서 흘러 들어온\r\n신비한 생물. 충격을 주면 전방에\r\n'냄새나는 입김'을 뿜는다.",
+        "從異世界「艾奧傑亞」誤闖此地的神秘生物，\r\n受到衝擊就會朝前方釋放臭氣。",
+        "从异世界“艾欧泽亚”误入此地的奇妙生物。\r\n受冲击时会向前方释放臭气。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مخلوق غريب هائم جاء إلى هنا من مكان بعيد\r\nيُدعى (إيورزيا). عند ضربه، يطلق أنفاسًا كريهة\r\nأمام مهاجميه مباشرةً.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Extrañas criaturas que vienen de un lugar\r\nlejano llamado Eorzea. Cuando las golpeas,\r\nexhalan su mal aliento justo hacia adelante."
+      ]
+    },
+    {
+      "name": "EnemyText_MEMO_EM5011_00_0",
+      "guid": "4614ff30-eca5-4396-bad1-ad2247d3a527",
+      "crc?": 975267758,
+      "hash": 1111355416,
+      "attributes": [],
+      "content": [
+        "異世界「エオルゼア」から迷い込んだとされる\r\n不思議な生物。植物のような見た目をしている。\r\n外敵に対し、悪臭を伴う息を吐くことで追い払う\r\n好戦的な生物。その息に触れたハンターは毒、\r\n麻痺状態となり、体には悪臭がつく。\r\n死亡時には死体を残さず消失する事が確認されて\r\nおり、その特徴はオメガ・プラネテスが生成した\r\n他の生物とも合致する。ゆえに東地域に出没する\r\nモルボル・シードリングはそれらと同様、生成に\r\nよって現れた個体とも考えられる。",
+        "Strange, plant-like creatures that have wandered\r\nhere from a faraway place called Eorzea. They're\r\nhighly aggressive and drive off assailants with\r\ntheir terrible breath. Coming in contact with\r\nthis breath inflicts poison, paralysis, and\r\nstench. Like other creatures manufactured by\r\nOmega Planetes, their bodies vanish when slain.\r\nSo it's theorized that they, too, were\r\nmanufactured.",
+        "D'étranges créatures semblables à des\r\nplantes venues d'un endroit lointain appelé\r\nÉorzéa. Très agressives, elles repoussent les\r\nassaillants avec leur haleine, qui inflige\r\nles afflictions poison, paralysie et puanteur.\r\nLeur corps disparaît lorsqu'elles sont tuées,\r\ncomme les autres créatures créées par\r\nOméga Planetikos. On pense donc qu'elles\r\nont également été fabriquées.",
+        "Strane creature simili a piante giunte qui\r\nda un luogo lontano chiamato Eorzea.\r\nSono molto aggressive e scacciano chi le\r\nassale con il loro alito terribile. Entrarci\r\nin contatto infligge veleno, paralisi e\r\nfetore. Si crede siano artificiali,\r\npoiché i loro corpi, come quelli delle altre\r\ncreature progettate da Omega Planetes,\r\nsvaniscono quando vengono abbattute.",
+        "Seltsame, pflanzenartige Kreaturen, die von\r\neinem weit entfernten Ort namens Eorzea\r\nstammen. Sie sind extrem aggressiv und\r\nvertreiben Angreifer mit Mundgeruch, der Gift,\r\nLähmung und Gestank auslöst. Wie andere\r\nvon Omega Planetes erschaffene Wesen\r\nverschwinden sie, nachdem sie erlegt wurden,\r\ndaher ist es wahrscheinlich, dass es sich um\r\nkünstlich produzierte Wesen handelt.",
+        "Criaturas extrañas con aspecto de plantas\r\nprocedentes de un lejano lugar llamado\r\nEorzea. Son muy agresivas y ahuyentan\r\nal enemigo con su asqueroso aliento,\r\ncapaz de infligir veneno, parálisis y hedor\r\nal contacto. Al igual que otras criaturas\r\ncreadas por Omega Planetes, sus cuerpos\r\ndesaparecen al morir, por lo que se cree\r\nque puedan ser de origen artificial.",
+        "Странные, похожие на растения существа,\r\nприбывшие сюда из далёкой Эорзеи. Крайне\r\nагрессивны и отгоняют обидчиков смрадным\r\nдыханием. Попав в исторгнутое им облако,\r\nможно получить отравление, паралич\r\nи оказаться под воздействием зловония. Тела\r\nэтих существ, как и останки созданий,\r\nпроизведённых Омегой-Планетесом, исчезают\r\nпосле их гибели, так что можно предположить,\r\nчто они также изготовлены искусственно.",
+        "Dziwne roślinopodobne stworzenia, które\r\nprzywędrowały tutaj z odległego miejsca zwanego\r\nEorzea. Są bardzo agresywne i odstraszają wrogów\r\nokropnym oddechem. Zetknięcie się z nim nakłada\r\ntruciznę, paraliż i smród. Po zgładzeniu ich ciała\r\nznikają, podobnie jak w przypadku innych stworzeń\r\nwytworzonych przez Omegę Planetes. Istnieje więc\r\nteoria, według której one również zostały\r\nwytworzone.",
+        "",
+        "",
+        "Criaturas estranhas, parecidas com plantas,\r\noriundas de um lugar distante chamado Eorzea.\r\nSão muito agressivas e afastam ameaças\r\ncom seu hálito terrível. Entrar em contato\r\ncom esse hálito inflige veneno, paralisia\r\ne fedor. Assim como as criaturas fabricadas\r\npor Omega Planetes, seus corpos desaparecem\r\nquando morrem. Por isso, acredita-se que\r\nelas também foram fabricadas.",
+        "이세계 에오르제아에서 흘러 들어온\r\n신비한 생물. 식물처럼 생겼다. 고약한\r\n입김을 뿜어 외부 적을 내쫓는 호전적인\r\n생물이다. 입김에 닿은 헌터는 독,\r\n마비 상태가 되며 몸에 악취가 밴다.\r\n사망하면 사체 없이 소멸하는 것으로\r\n확인됐다. 그 특징은 오메가 플라네테스가\r\n생성한 다른 생물과도 일치한다. 따라서\r\n동쪽 지역에 출몰하는 몰볼 묘목도\r\n생성에 의해 출현한 개체로 볼 수 있다.",
+        "從異世界「艾奧傑亞」誤闖此地的神秘生物，外表\r\n看起來像植物一樣。它會吐出帶有惡臭的氣息來驅\r\n趕外敵，是非常好戰的生物。接觸到該氣息的獵人\r\n會陷入毒狀態及麻痺狀態，且身體會沾上惡臭。有\r\n報告稱其死亡時會直接消失，不會留下屍體，而此\r\n特點也與遊星歐米茄製造的其他生物一致，因此也\r\n有人認為出沒於東部地區的毛爾波爾幼苗與那些生\r\n物相同，都是由遊星歐米茄製造的個體。",
+        "从异世界“艾欧泽亚”误入此地的奇妙生物。外\r\n形酷似植物，会喷吐带有恶臭的气息驱赶敌人，\r\n是极为好战的生物。触碰臭气的猎人会陷入中毒、\r\n麻痹状态，身体会沾染上恶臭。已确认其在死亡\r\n后不会留下尸体，而是直接消失，该特征与游星\r\n欧米茄制造的其他生物一致。因而推测东部地区\r\n出现的魔界花幼苗也与那些生物相同，属于被制\r\n造出的个体。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مخلوقات غريبة هائمة تشبه النباتات جاءت إلى هنا\r\nمن مكان بعيد يُدعى (إيورزيا).\r\nتُعرف بعدوانيتها الشديدة وصد المهاجمين\r\nبأنفاسها الكريهة. يسبب التعرض لهذه الأنفاس\r\nالإصابة بالسم والشلل والرائحة الكريهة.\r\nوكغيرها من المخلوقات التي صنعها (أوميغا بلانيتيس)،\r\nتختفي أجسادها عند ذبحها،\r\nمما يدعم فرضية أنها مُصنعة أيضًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Extrañas criaturas con aspecto de planta\r\nque vienen de un lugar lejano llamado\r\nEorzea. Son muy agresivas y ahuyentan a los\r\nasaltantes con su terrible aliento. Si\r\nentras en contacto con su aliento, puedes\r\nsufrir efectos de veneno, parálisis y hedor.\r\nAl igual que otras criaturas fabricadas por\r\nOmega Planetes, sus cuerpos desaparecen\r\ncuando mueren. La teoría es que también\r\nfueron fabricados."
+      ]
+    },
+    {
+      "name": "EnemyText_GRAMMAR_EM5011_00_0",
+      "guid": "b42bab6c-1e9c-44c8-a51d-556a05bbcb73",
+      "crc?": 823377352,
+      "hash": 1883471720,
       "attributes": [],
       "content": [
         "",
@@ -38351,14 +40577,14 @@
         "楔虫（歴戦の個体）",
         "Tempered Wedge Beetle",
         "Scaragrappin alpha",
-        "Cuneottero temprata",
+        "Cuneottero temprato",
         "Gehärtete Keilkäfer",
-        "Escarabajo cuña curtida",
-        "Закалённая Клиновидный жук",
-        "Zahartowana Żuk klinowy",
+        "Escarabajo cuña curtido",
+        "Закалённый Клиновидный жук",
+        "Zahartowany Żuk klinowy",
         "",
         "",
-        "Besouro-cunha Aguerrida",
+        "Besouro-cunha Aguerrido",
         "쐐기벌레(역전의 개체)",
         "楔蟲（歷戰個體）",
         "楔虫（历战个体）",
@@ -38380,7 +40606,7 @@
         "",
         "",
         "",
-        "Escarabajo cuña curtida"
+        "Escarabajo cuña curtido"
       ]
     },
     {
@@ -38422,7 +40648,7 @@
         "",
         "",
         "",
-        "Escarabajo cuña curtido"
+        "Escarabajo cuña hiper-curtido"
       ]
     },
     {
@@ -38873,7 +41099,7 @@
         "",
         "",
         "",
-        "الحشرة الصّاعقة",
+        "حشرة الصّاعقة",
         "",
         "",
         "",
@@ -38897,14 +41123,14 @@
         "雷光虫（歴戦の個体）",
         "Tempered Thunderbug",
         "Foudrinsectes alpha",
-        "Insetti tuono temprata",
+        "Insetti tuono temprato",
         "Gehärtete Donnerkäfer",
-        "Electrobicho curtida",
-        "Закалённая Грозовой жук",
-        "Zahartowana Gromuszek",
+        "Electrobicho curtido",
+        "Закалённый Грозовой жук",
+        "Zahartowany Gromuszek",
         "",
         "",
-        "Insetrovão Aguerrida",
+        "Insetrovão Aguerrido",
         "뇌광충(역전의 개체)",
         "雷光蟲（歷戰個體）",
         "雷光虫（历战个体）",
@@ -38915,7 +41141,7 @@
         "",
         "",
         "",
-        "الحشرة الصّاعقة غاضب",
+        "حشرة الصّاعقة غاضب",
         "",
         "",
         "",
@@ -38926,7 +41152,7 @@
         "",
         "",
         "",
-        "Electrobicho curtida"
+        "Electrobicho curtido"
       ]
     },
     {
@@ -38957,7 +41183,7 @@
         "",
         "",
         "",
-        "المخضرم الحشرة الصّاعقة",
+        "المخضرم حشرة الصّاعقة",
         "",
         "",
         "",
@@ -38968,7 +41194,7 @@
         "",
         "",
         "",
-        "Electrobicho curtido"
+        "Electrobicho hiper-curtido"
       ]
     },
     {
@@ -39125,7 +41351,7 @@
         "",
         "",
         "",
-        "الحشرة الصّاعقة مسعور",
+        "حشرة الصّاعقة مسعور",
         "",
         "",
         "",
@@ -39419,7 +41645,7 @@
         "",
         "",
         "",
-        "الحشرة المضيئة",
+        "حشرة الوميض",
         "",
         "",
         "",
@@ -39443,14 +41669,14 @@
         "光蟲（歴戦の個体）",
         "Tempered Flashbug",
         "Scaralux alpha",
-        "Insetto lampo temprata",
+        "Insetto lampo temprato",
         "Gehärtete Blitzkäfer",
-        "Luminsecto curtida",
-        "Закалённая Светожук",
-        "Zahartowana Błyskowad",
+        "Luminsecto curtido",
+        "Закалённый Светожук",
+        "Zahartowany Błyskowad",
         "",
         "",
-        "Lampejinseto Aguerrida",
+        "Lampejinseto Aguerrido",
         "광충(역전의 개체)",
         "光蟲（歷戰個體）",
         "光虫（历战个体）",
@@ -39461,7 +41687,7 @@
         "",
         "",
         "",
-        "الحشرة المضيئة غاضب",
+        "حشرة الوميض غاضب",
         "",
         "",
         "",
@@ -39472,7 +41698,7 @@
         "",
         "",
         "",
-        "Luminsecto curtida"
+        "Luminsecto curtido"
       ]
     },
     {
@@ -39503,7 +41729,7 @@
         "",
         "",
         "",
-        "المخضرم الحشرة المضيئة",
+        "المخضرم حشرة الوميض",
         "",
         "",
         "",
@@ -39514,7 +41740,7 @@
         "",
         "",
         "",
-        "Luminsecto curtido"
+        "Luminsecto hiper-curtido"
       ]
     },
     {
@@ -39671,7 +41897,7 @@
         "",
         "",
         "",
-        "الحشرة المضيئة مسعور",
+        "حشرة الوميض مسعور",
         "",
         "",
         "",
@@ -39989,14 +42215,14 @@
         "不死虫（歴戦の個体）",
         "Tempered Godbug",
         "Insecte immortel alpha",
-        "Insetto divino temprata",
+        "Insetto divino temprato",
         "Gehärtete Götterkäfer",
-        "Bicho divino curtida",
-        "Закалённая Божественный жук",
-        "Zahartowana Boski owad",
+        "Bicho divino curtido",
+        "Закалённый Божественный жук",
+        "Zahartowany Boski owad",
         "",
         "",
-        "Inseto-deus Aguerrida",
+        "Inseto-deus Aguerrido",
         "불사충(역전의 개체)",
         "不死蟲（歷戰個體）",
         "不死虫（历战个体）",
@@ -40018,7 +42244,7 @@
         "",
         "",
         "",
-        "Bicho divino curtida"
+        "Bicho divino curtido"
       ]
     },
     {
@@ -40060,7 +42286,7 @@
         "",
         "",
         "",
-        "Bicho divino curtido"
+        "Bicho divino hiper-curtido"
       ]
     },
     {
@@ -40535,14 +42761,14 @@
         "にが虫（歴戦の個体）",
         "Tempered Bitterbug",
         "Amerinsecte alpha",
-        "Insetto amaro temprata",
+        "Insetto amaro temprato",
         "Gehärtete Bitterkäfer",
-        "Bicho amargo curtida",
-        "Закалённая Горький жук",
-        "Zahartowana Goryczek",
+        "Bicho amargo curtido",
+        "Закалённый Горький жук",
+        "Zahartowany Goryczek",
         "",
         "",
-        "Amarguinseto Aguerrida",
+        "Amarguinseto Aguerrido",
         "씁쓸충(역전의 개체)",
         "苦蟲（歷戰個體）",
         "苦虫（历战个体）",
@@ -40564,7 +42790,7 @@
         "",
         "",
         "",
-        "Bicho amargo curtida"
+        "Bicho amargo curtido"
       ]
     },
     {
@@ -40606,7 +42832,7 @@
         "",
         "",
         "",
-        "Bicho amargo curtido"
+        "Bicho amargo hiper-curtido"
       ]
     },
     {
@@ -41081,14 +43307,14 @@
         "コノハコビアリ（歴戦の個体）",
         "Tempered Leaflugger Ant",
         "Fourmifolia alpha",
-        "Formica portafoglie temprata",
+        "Formica portafoglie temprato",
         "Gehärtete Blattschlepperameise",
-        "Hormiga portahojas curtida",
-        "Закалённая Муравей-листоносец",
-        "Zahartowana Mrówka lugier",
+        "Hormiga portahojas curtido",
+        "Закалённый Муравей-листоносец",
+        "Zahartowany Mrówka lugier",
         "",
         "",
-        "Formiga Dobrafolha Aguerrida",
+        "Formiga Dobrafolha Aguerrido",
         "나뭇잎 운반개미(역전의 개체)",
         "森林搬運蟻（歷戰個體）",
         "搬叶蚁（历战个体）",
@@ -41110,7 +43336,7 @@
         "",
         "",
         "",
-        "Hormiga cargahojas curtida"
+        "Hormiga cargahojas curtido"
       ]
     },
     {
@@ -41152,7 +43378,7 @@
         "",
         "",
         "",
-        "Hormiga cargahojas curtido"
+        "Hormiga cargahojas hiper-curtido"
       ]
     },
     {
@@ -41627,14 +43853,14 @@
         "カザキリカケリ（歴戦の個体）",
         "Tempered Windrustler",
         "Filovent alpha",
-        "Rubavento temprata",
+        "Rubavento temprato",
         "Gehärtete Windraschler",
-        "Robavientos curtida",
-        "Закалённая Ветреник",
-        "Zahartowana Pędziwiatr",
+        "Robavientos curtido",
+        "Закалённый Ветреник",
+        "Zahartowany Pędziwiatr",
         "",
         "",
-        "Eolicanto Aguerrida",
+        "Eolicanto Aguerrido",
         "바람칼달리미(역전의 개체)",
         "風切龍（歷戰個體）",
         "风切龙（历战个体）",
@@ -41656,7 +43882,7 @@
         "",
         "",
         "",
-        "Robavientos curtida"
+        "Robavientos curtido"
       ]
     },
     {
@@ -41698,7 +43924,7 @@
         "",
         "",
         "",
-        "Robavientos curtido"
+        "Robavientos hiper-curtido"
       ]
     },
     {
@@ -42173,14 +44399,14 @@
         "クロカゼカケリ（歴戦の個体）",
         "Tempered Black Windrustler",
         "Filovent noir alpha",
-        "Rubavento nero temprata",
+        "Rubavento nero temprato",
         "Gehärtete Schwarzer Windraschler",
-        "Robavientos negro curtida",
-        "Закалённая Чёрный ветреник",
-        "Zahartowana Pędziwiatr czarny",
+        "Robavientos negro curtido",
+        "Закалённый Чёрный ветреник",
+        "Zahartowany Pędziwiatr czarny",
         "",
         "",
-        "Eolicanto Preto Aguerrida",
+        "Eolicanto Preto Aguerrido",
         "흑풍달리미(역전의 개체)",
         "黑風切龍（歷戰個體）",
         "黑风切龙（历战个体）",
@@ -42202,7 +44428,7 @@
         "",
         "",
         "",
-        "Robavientos negro curtida"
+        "Robavientos negro curtido"
       ]
     },
     {
@@ -42244,7 +44470,7 @@
         "",
         "",
         "",
-        "Robavientos negro curtido"
+        "Robavientos negro hiper-curtido"
       ]
     },
     {
@@ -42549,11 +44775,11 @@
       "attributes": [],
       "content": [
         "",
-        "Herding monsters that mostly inhabit the savannah.\r\nThey use their distinctive arrow-shaped crests to communicate\r\nand warn other members of their herd of danger.",
         "",
         "",
         "",
-        "Monstruos que viven principalmente en la sabana.\r\nUsan sus crestas en forma de flecha para advertir\r\na otros miembros de su manada del peligro.",
+        "",
+        "",
         "",
         "",
         "",
@@ -42719,14 +44945,14 @@
         "スナチリュウツツキ（歴戦の個体）",
         "Tempered Nothpecker",
         "Cérapivert alpha",
-        "Grattanoth temprata",
+        "Grattanoth temprato",
         "Gehärtete Panzerpicker",
-        "Picaescamas curtida",
-        "Закалённая Цератовка",
-        "Zahartowana Notdziob",
+        "Picaescamas curtido",
+        "Закалённый Цератовка",
+        "Zahartowany Notdziob",
         "",
         "",
-        "Bica-escamas Aguerrida",
+        "Bica-escamas Aguerrido",
         "모래용등쪼기새(역전의 개체)",
         "沙地龍椋鳥（歷戰個體）",
         "沙地龙椋鸟（历战个体）",
@@ -42748,7 +44974,7 @@
         "",
         "",
         "",
-        "Picanoth curtida"
+        "Picanoth curtido"
       ]
     },
     {
@@ -42790,7 +45016,7 @@
         "",
         "",
         "",
-        "Picanoth curtido"
+        "Picanoth hiper-curtido"
       ]
     },
     {
@@ -43265,14 +45491,14 @@
         "ウスベニホタルエビ（歴戦の個体）",
         "Tempered Pink Landlight Shrimp",
         "Crevette terralux rose alpha",
-        "Gambero terrucciola rosa temprata",
+        "Gambero terrucciola rosa temprato",
         "Gehärtete Rosa Landlicht-Garnele",
-        "Gamba terraluz rosa curtida",
-        "Закалённая Роз. сухопутный светорачок",
-        "Zahartowana Różowa krewetka ziemioświetlna",
+        "Gamba terraluz rosa curtido",
+        "Закалённый Роз. сухопутный светорачок",
+        "Zahartowany Różowa krewetka ziemioświetlna",
         "",
         "",
-        "Camarão Terraluz Rosa Aguerrida",
+        "Camarão Terraluz Rosa Aguerrido",
         "분홍반딧불 새우(역전의 개체)",
         "淡紅螢蝦（歷戰個體）",
         "淡红萤虾（历战个体）",
@@ -43294,7 +45520,7 @@
         "",
         "",
         "",
-        "Camarón terraluz rosado curtida"
+        "Camarón terraluz rosado curtido"
       ]
     },
     {
@@ -43336,7 +45562,7 @@
         "",
         "",
         "",
-        "Camarón terraluz rosado curtido"
+        "Camarón terraluz rosado hiper-curtido"
       ]
     },
     {
@@ -43811,14 +46037,14 @@
         "オカホタルエビ（歴戦の個体）",
         "Tempered Landlight Shrimp",
         "Crevette terralux alpha",
-        "Gambero terrucciola temprata",
+        "Gambero terrucciola temprato",
         "Gehärtete Landlicht-Garnele",
-        "Gamba terraluz curtida",
-        "Закалённая Сухопутный светорачок",
-        "Zahartowana Krewetka ziemioświetlna",
+        "Gamba terraluz curtido",
+        "Закалённый Сухопутный светорачок",
+        "Zahartowany Krewetka ziemioświetlna",
         "",
         "",
-        "Camarão Terraluz Aguerrida",
+        "Camarão Terraluz Aguerrido",
         "언덕반딧불 새우(역전의 개체)",
         "陸螢蝦（歷戰個體）",
         "陆萤虾（历战个体）",
@@ -43840,7 +46066,7 @@
         "",
         "",
         "",
-        "Camarón terraluz curtida"
+        "Camarón terraluz curtido"
       ]
     },
     {
@@ -43882,7 +46108,7 @@
         "",
         "",
         "",
-        "Camarón terraluz curtido"
+        "Camarón terraluz hiper-curtido"
       ]
     },
     {
@@ -44357,14 +46583,14 @@
         "ビセイウタイズク（歴戦の個体）",
         "Tempered Hymstrigian",
         "Hymstrigien alpha",
-        "Strigiorana canterina temprata",
+        "Strigiorana canterina temprato",
         "Gehärtete Operettenkauz",
-        "Imstrigiano curtida",
-        "Закалённая Химстриган",
-        "Zahartowana Hymstryg",
+        "Imstrigiano curtido",
+        "Закалённый Химстриган",
+        "Zahartowany Hymstryg",
         "",
         "",
-        "Hinostrígio Aguerrida",
+        "Hinostrígio Aguerrido",
         "예쁜노래 부엉이(역전의 개체)",
         "美聲歌鴞（歷戰個體）",
         "美声歌鸮（历战个体）",
@@ -44386,7 +46612,7 @@
         "",
         "",
         "",
-        "Himstrigiano curtida"
+        "Himstrigiano curtido"
       ]
     },
     {
@@ -44428,7 +46654,7 @@
         "",
         "",
         "",
-        "Himstrigiano curtido"
+        "Himstrigiano hiper-curtido"
       ]
     },
     {
@@ -44733,11 +46959,11 @@
       "attributes": [],
       "content": [
         "",
-        "A decomposer that breaks down the Fulgurite\r\nin its body consumed in order to eat the attached\r\nmicrobes. The Fulgurite makes its carapace shine.",
         "",
         "",
         "",
-        "Descompone la fulgurita de su cuerpo para\r\ncomerse los microbios adheridos. Esta hace\r\nque su caparazón brille.",
+        "",
+        "",
         "",
         "",
         "",
@@ -44903,14 +47129,14 @@
         "アワウタイズク（歴戦の個体）",
         "Tempered Amstrigian",
         "Amstrigien alpha",
-        "Strigiorana temprata",
+        "Strigiorana temprato",
         "Gehärtete Amphikauz",
-        "Amstrigiano curtida",
-        "Закалённая Амстриган",
-        "Zahartowana Amstryg",
+        "Amstrigiano curtido",
+        "Закалённый Амстриган",
+        "Zahartowany Amstryg",
         "",
         "",
-        "Anstrígio Aguerrida",
+        "Anstrígio Aguerrido",
         "거품노래 부엉이(역전의 개체)",
         "泡沫歌鴞（歷戰個體）",
         "泡歌鸮（历战个体）",
@@ -44932,7 +47158,7 @@
         "",
         "",
         "",
-        "Amstrigiano curtida"
+        "Amstrigiano curtido"
       ]
     },
     {
@@ -44974,7 +47200,7 @@
         "",
         "",
         "",
-        "Amstrigiano curtido"
+        "Amstrigiano hiper-curtido"
       ]
     },
     {
@@ -45279,11 +47505,11 @@
       "attributes": [],
       "content": [
         "",
-        "A migratory bird that flocks to the savannah during\r\nthe bounty season to raise its young. It makes its nest\r\nlargely from the bubbles it produces internally.",
         "",
         "",
         "",
-        "Ave migratoria que se desplaza a la sabana\r\npara criar a sus polluelos. Construye su nido\r\ncon las burbujas que produce internamente.",
+        "",
+        "",
         "",
         "",
         "",
@@ -45449,14 +47675,14 @@
         "ツメコミエリトカゲ（歴戦の個体）",
         "Tempered Rufflizard",
         "Gonflézard alpha",
-        "Giorgiertola temprata",
+        "Giorgiertola temprato",
         "Gehärtete Schwellkragenechse",
-        "Lagartizo curtida",
-        "Закалённая Варанка",
-        "Zahartowana Kryzojaszczur",
+        "Lagartizo curtido",
+        "Закалённый Варанка",
+        "Zahartowany Kryzojaszczur",
         "",
         "",
-        "Sacolagarto Aguerrida",
+        "Sacolagarto Aguerrido",
         "보따리 도마뱀(역전의 개체)",
         "重襟蜥蜴（歷戰個體）",
         "蓄领蜥（历战个体）",
@@ -45478,7 +47704,7 @@
         "",
         "",
         "",
-        "Lagartizo curtida"
+        "Lagartizo curtido"
       ]
     },
     {
@@ -45520,7 +47746,7 @@
         "",
         "",
         "",
-        "Lagartizo curtido"
+        "Lagartizo hiper-curtido"
       ]
     },
     {
@@ -46079,14 +48305,14 @@
         "リンエンエリトカゲ（歴戦の個体）",
         "Tempered Azure Rufflizard",
         "Gonflézard azur alpha",
-        "Giorgiertola azzurra temprata",
+        "Giorgiertola azzurra temprato",
         "Gehärtete Blaukragenechse",
-        "Lagartizo cerúleo curtida",
-        "Закалённая Лазурная варанка",
-        "Zahartowana Kryzojaszczur lazurowy",
+        "Lagartizo cerúleo curtido",
+        "Закалённый Лазурная варанка",
+        "Zahartowany Kryzojaszczur lazurowy",
         "",
         "",
-        "Sacolagarto Azul Aguerrida",
+        "Sacolagarto Azul Aguerrido",
         "도깨비불 도마뱀(역전의 개체)",
         "燐炎傘蜥（歷戰個體）",
         "燐炎领蜥（历战个体）",
@@ -46108,7 +48334,7 @@
         "",
         "",
         "",
-        "Lagartizo silvano curtida"
+        "Lagartizo silvano curtido"
       ]
     },
     {
@@ -46150,7 +48376,7 @@
         "",
         "",
         "",
-        "Lagartizo silvano curtido"
+        "Lagartizo silvano hiper-curtido"
       ]
     },
     {
@@ -46541,14 +48767,14 @@
         "ホムラエリトカゲ（歴戦の個体）",
         "Tempered Ember Rufflizard",
         "Gonflézard incandescent alpha",
-        "Giorgiertola ignea temprata",
+        "Giorgiertola ignea temprato",
         "Gehärtete Glühkragenechse",
-        "Lagartizo ámbar curtida",
-        "Закалённая Янтарная варанка",
-        "Zahartowana Kryzojaszczur węglikowy",
+        "Lagartizo ámbar curtido",
+        "Закалённый Янтарная варанка",
+        "Zahartowany Kryzojaszczur węglikowy",
         "",
         "",
-        "Sacolagarto Brasa Aguerrida",
+        "Sacolagarto Brasa Aguerrido",
         "불꽃 도마뱀(역전의 개체)",
         "火焰傘蜥（歷戰個體）",
         "火焰领蜥（历战个体）",
@@ -46570,7 +48796,7 @@
         "",
         "",
         "",
-        "Lagartizo ígneo curtida"
+        "Lagartizo ígneo curtido"
       ]
     },
     {
@@ -46612,7 +48838,7 @@
         "",
         "",
         "",
-        "Lagartizo ígneo curtido"
+        "Lagartizo ígneo hiper-curtido"
       ]
     },
     {
@@ -46917,11 +49143,11 @@
       "attributes": [],
       "content": [
         "",
-        "A lizard that stores nutrients in a handkerchief-like\r\nsac. During the bounty season, it becomes predatorily\r\nactive and its body takes on a red color.",
         "",
         "",
         "",
-        "Un lagarto que almacena nutrientes en un saco\r\nparecido a un pañuelo. Como depredador, su\r\ncuerpo adquiere un color rojo.",
+        "",
+        "",
         "",
         "",
         "",
@@ -47087,14 +49313,14 @@
         "ノベムシ（歴戦の個体）",
         "Tempered Pallbug",
         "Charoptère alpha",
-        "Insetto spazzino temprata",
+        "Insetto spazzino temprato",
         "Gehärtete Besentierchen",
-        "Purgóptero curtida",
-        "Закалённая Траурная мокрица",
-        "Zahartowana Kiryczek",
+        "Purgóptero curtido",
+        "Закалённый Траурная мокрица",
+        "Zahartowany Kiryczek",
         "",
         "",
-        "Inseto Catador Aguerrida",
+        "Inseto Catador Aguerrido",
         "장송벌레(역전의 개체)",
         "清道夫蟲（歷戰個體）",
         "清腐虫（历战个体）",
@@ -47116,7 +49342,7 @@
         "",
         "",
         "",
-        "Purgoinsecto curtida"
+        "Purgoinsecto curtido"
       ]
     },
     {
@@ -47158,7 +49384,7 @@
         "",
         "",
         "",
-        "Purgoinsecto curtido"
+        "Purgoinsecto hiper-curtido"
       ]
     },
     {
@@ -47463,11 +49689,11 @@
       "attributes": [],
       "content": [
         "",
-        "A decomposer that eats dead monster carcasses.\r\nIt holds food with its hair-covered ambulatory legs.",
         "",
         "",
         "",
-        "Se alimenta de cadáveres de monstruos. Sujeta\r\nla comida con sus patas caminadoras cubiertas\r\nde pelo.",
+        "",
+        "",
         "",
         "",
         "",
@@ -47633,14 +49859,14 @@
         "アシアトノコシ（歴戦の個体）",
         "Tempered Tracktail Lizard",
         "Lézard markoda alpha",
-        "Lucertola tracciacoda temprata",
+        "Lucertola tracciacoda temprato",
         "Gehärtete Spurenschwanzechse",
-        "Lagarto colahuella curtida",
-        "Закалённая Хвостоследка",
-        "Zahartowana Jaszczurka śladowa",
+        "Lagarto colahuella curtido",
+        "Закалённый Хвостоследка",
+        "Zahartowany Jaszczurka śladowa",
         "",
         "",
-        "Lagarto Caudarrastro Aguerrida",
+        "Lagarto Caudarrastro Aguerrido",
         "발자국남기미(역전의 개체)",
         "足跡蜥蜴（歷戰個體）",
         "足迹蜥蜴（历战个体）",
@@ -47662,7 +49888,7 @@
         "",
         "",
         "",
-        "Lagarto colarastro curtida"
+        "Lagarto colarastro curtido"
       ]
     },
     {
@@ -47704,7 +49930,7 @@
         "",
         "",
         "",
-        "Lagarto colarastro curtido"
+        "Lagarto colarastro hiper-curtido"
       ]
     },
     {
@@ -48009,11 +50235,11 @@
       "attributes": [],
       "content": [
         "",
-        "An animal distinctive for the monogamous pairing\r\nit forms with another individual of its species. It can\r\nuse its large tail to stand itself up and warn others.",
         "",
         "",
         "",
-        "Animal que se distingue por formar pareja monógama\r\ncon otro individuo de su especie. Puede usar su gran\r\ncola para ponerse de pie y advertir a los demás.",
+        "",
+        "",
         "",
         "",
         "",
@@ -48179,14 +50405,14 @@
         "皇帝バッタ（歴戦の個体）",
         "Tempered Emperor Hopper",
         "Criquet empereur alpha",
-        "Cavalletta imperiale temprata",
+        "Cavalletta imperiale temprato",
         "Gehärtete Kaiser-Hüpfer",
-        "Grillo emperador curtida",
-        "Закалённая Императорский прыгун",
-        "Zahartowana Skoczek cesarski",
+        "Grillo emperador curtido",
+        "Закалённый Императорский прыгун",
+        "Zahartowany Skoczek cesarski",
         "",
         "",
-        "Grilo Imperador Aguerrida",
+        "Grilo Imperador Aguerrido",
         "황제 메뚜기(역전의 개체)",
         "皇帝蚱蜢（歷戰個體）",
         "皇帝蚱蜢（历战个体）",
@@ -48208,7 +50434,7 @@
         "",
         "",
         "",
-        "Grillo emperador curtida"
+        "Grillo emperador curtido"
       ]
     },
     {
@@ -48250,7 +50476,7 @@
         "",
         "",
         "",
-        "Grillo emperador curtido"
+        "Grillo emperador hiper-curtido"
       ]
     },
     {
@@ -48725,14 +50951,14 @@
         "暴君バッタ（歴戦の個体）",
         "Tempered Tyrant Hopper",
         "Criquet tyran alpha",
-        "Cavalletta tiranno temprata",
+        "Cavalletta tiranno temprato",
         "Gehärtete Tyrannen-Hüpfer",
-        "Grillo corifeo curtida",
-        "Закалённая Прыгун-тиран",
-        "Zahartowana Skoczek tyrani",
+        "Grillo corifeo curtido",
+        "Закалённый Прыгун-тиран",
+        "Zahartowany Skoczek tyrani",
         "",
         "",
-        "Grilo Tirano Aguerrida",
+        "Grilo Tirano Aguerrido",
         "폭군 메뚜기(역전의 개체)",
         "暴君蚱蜢（歷戰個體）",
         "暴君蚱蜢（历战个体）",
@@ -48754,7 +50980,7 @@
         "",
         "",
         "",
-        "Grillo corífeo curtida"
+        "Grillo corífeo curtido"
       ]
     },
     {
@@ -48796,7 +51022,7 @@
         "",
         "",
         "",
-        "Grillo corífeo curtido"
+        "Grillo corífeo hiper-curtido"
       ]
     },
     {
@@ -49101,11 +51327,11 @@
       "attributes": [],
       "content": [
         "",
-        "A grasshopper as big as its moniker\r\nwould suggest. Its swift, frenetic\r\njumps make it hard to capture.",
         "",
         "",
         "",
-        "Un saltamontes tan grande como su nombre\r\nindica. Sus ágiles y frenéticos saltos lo hacen\r\ndifícil de capturar.",
+        "",
+        "",
         "",
         "",
         "",
@@ -49271,14 +51497,14 @@
         "ドスヘラクレス（歴戦の個体）",
         "Tempered Hercudrome",
         "Hercudrome alpha",
-        "Insetto ercole temprata",
+        "Insetto ercole temprato",
         "Gehärtete Herkudrom",
-        "Hercudrome curtida",
-        "Закалённая Геркудром",
-        "Zahartowana Herkudrom",
+        "Hercudrome curtido",
+        "Закалённый Геркудром",
+        "Zahartowany Herkudrom",
         "",
         "",
-        "Hercúdrome Aguerrida",
+        "Hercúdrome Aguerrido",
         "도스헤라클레스(역전의 개체)",
         "大獨角仙（歷戰個體）",
         "大独角仙（历战个体）",
@@ -49300,7 +51526,7 @@
         "",
         "",
         "",
-        "Hercudrome curtida"
+        "Hercudrome curtido"
       ]
     },
     {
@@ -49342,7 +51568,7 @@
         "",
         "",
         "",
-        "Hercudrome curtido"
+        "Hercudrome hiper-curtido"
       ]
     },
     {
@@ -49817,14 +52043,14 @@
         "ゴールデンヘラクレス（歴戦の個体）",
         "Tempered Gold Hercudrome",
         "Hercudrome d'or alpha",
-        "Insetto ercole dorato temprata",
+        "Insetto ercole dorato temprato",
         "Gehärtete Gold-Herkudrom",
-        "Hercudrome dorado curtida",
-        "Закалённая Золотой геркудром",
-        "Zahartowana Herkudrom złocisty",
+        "Hercudrome dorado curtido",
+        "Закалённый Золотой геркудром",
+        "Zahartowany Herkudrom złocisty",
         "",
         "",
-        "Hercúdrome Dourado Aguerrida",
+        "Hercúdrome Dourado Aguerrido",
         "골든 헤라클레스(역전의 개체)",
         "金色獨角仙（歷戰個體）",
         "金色独角仙（历战个体）",
@@ -49846,7 +52072,7 @@
         "",
         "",
         "",
-        "Hercudrome dorado curtida"
+        "Hercudrome dorado curtido"
       ]
     },
     {
@@ -49888,7 +52114,7 @@
         "",
         "",
         "",
-        "Hercudrome dorado curtido"
+        "Hercudrome dorado hiper-curtido"
       ]
     },
     {
@@ -50363,14 +52589,14 @@
         "虹色ドスヘラクレス（歴戦の個体）",
         "Tempered Prism Hercudrome",
         "Hercudrome prismatique alpha",
-        "Insetto ercole arcobaleno temprata",
+        "Insetto ercole arcobaleno temprato",
         "Gehärtete Prisma-Herkudrom",
-        "Hercudrome prisma curtida",
-        "Закалённая Призматический геркудром",
-        "Zahartowana Herkudrom pryzmatyczny",
+        "Hercudrome prisma curtido",
+        "Закалённый Призматический геркудром",
+        "Zahartowany Herkudrom pryzmatyczny",
         "",
         "",
-        "Hercúdrome Multicor Aguerrida",
+        "Hercúdrome Multicor Aguerrido",
         "무지개색 도스헤라클레스(역전의 개체)",
         "虹色大獨角仙（歷戰個體）",
         "虹色大独角仙（历战个体）",
@@ -50392,7 +52618,7 @@
         "",
         "",
         "",
-        "Hercudrome prisma curtida"
+        "Hercudrome prisma curtido"
       ]
     },
     {
@@ -50434,7 +52660,7 @@
         "",
         "",
         "",
-        "Hercudrome prisma curtido"
+        "Hercudrome prisma hiper-curtido"
       ]
     },
     {
@@ -50909,14 +53135,14 @@
         "プレミアジュエルコガネ（歴戦の個体）",
         "Tempered Regal Jewel Scarab",
         "Scarajoyau royal alpha",
-        "Scaragioiello reale temprata",
+        "Scaragioiello reale temprato",
         "Gehärtete Fürstenskarabäus",
-        "Escaragemo real curtida",
-        "Закалённая Королевский самоцветный жук",
-        "Zahartowana Król. Skarabeusz Klejnotowy",
+        "Escaragemo real curtido",
+        "Закалённый Королевский самоцветный жук",
+        "Zahartowany Król. Skarabeusz Klejnotowy",
         "",
         "",
-        "Escarajoia Real Aguerrida",
+        "Escarajoia Real Aguerrido",
         "고급보석 풍뎅이(역전의 개체)",
         "瑰寶金龜（歷戰個體）",
         "瑰宝金龟子（历战个体）",
@@ -50938,7 +53164,7 @@
         "",
         "",
         "",
-        "Escaragema regia curtida"
+        "Escaragema regia curtido"
       ]
     },
     {
@@ -50980,7 +53206,7 @@
         "",
         "",
         "",
-        "Escaragema regia curtido"
+        "Escaragema regia hiper-curtido"
       ]
     },
     {
@@ -51455,14 +53681,14 @@
         "ジュエルコガネ（歴戦の個体）",
         "Tempered Jewel Scarab",
         "Scarajoyau alpha",
-        "Scaragioiello temprata",
+        "Scaragioiello temprato",
         "Gehärtete Juwelenskarabäus",
-        "Escaragemo curtida",
-        "Закалённая Самоцветный жук",
-        "Zahartowana Skarabeusz Klejnotowy",
+        "Escaragemo curtido",
+        "Закалённый Самоцветный жук",
+        "Zahartowany Skarabeusz Klejnotowy",
         "",
         "",
-        "Escarajoia Aguerrida",
+        "Escarajoia Aguerrido",
         "보석 풍뎅이(역전의 개체)",
         "寶石金龜（歷戰個體）",
         "宝石金龟子（历战个体）",
@@ -51484,7 +53710,7 @@
         "",
         "",
         "",
-        "Escaragema curtida"
+        "Escaragema curtido"
       ]
     },
     {
@@ -51526,7 +53752,7 @@
         "",
         "",
         "",
-        "Escaragema curtido"
+        "Escaragema hiper-curtido"
       ]
     },
     {
@@ -52001,14 +54227,14 @@
         "カスミジョロウ（歴戦の個体）",
         "Tempered Vaporonid",
         "Vaporonide alpha",
-        "Vaporagno temprata",
+        "Vaporagno temprato",
         "Gehärtete Vaporonid",
-        "Vaporónide curtida",
-        "Закалённая Паронид",
-        "Zahartowana Vaporonid",
+        "Vaporónide curtido",
+        "Закалённый Паронид",
+        "Zahartowany Vaporonid",
         "",
         "",
-        "Vaporanha Aguerrida",
+        "Vaporanha Aguerrido",
         "안개 무당거미(역전의 개체)",
         "霞霧女郎（歷戰個體）",
         "霞雾蜘蛛（历战个体）",
@@ -52030,7 +54256,7 @@
         "",
         "",
         "",
-        "Vaporónide curtida"
+        "Vaporónide curtido"
       ]
     },
     {
@@ -52072,7 +54298,7 @@
         "",
         "",
         "",
-        "Vaporónide curtido"
+        "Vaporónide hiper-curtido"
       ]
     },
     {
@@ -52547,14 +54773,14 @@
         "キザシヤンマ（歴戦の個体）",
         "Tempered Omenfly",
         "Libellule divinatoire alpha",
-        "Libellula premonitrice temprata",
+        "Libellula premonitrice temprato",
         "Gehärtete Omenfliege",
-        "Caballito de cuarzo curtida",
-        "Закалённая Предвестник",
-        "Zahartowana Mucha omenówka",
+        "Caballito de cuarzo curtido",
+        "Закалённый Предвестник",
+        "Zahartowany Mucha omenówka",
         "",
         "",
-        "Moscagouro Aguerrida",
+        "Moscagouro Aguerrido",
         "징조 왕잠자리(역전의 개체)",
         "預兆蜻蜓（歷戰個體）",
         "预兆蜻蜓（历战个体）",
@@ -52576,7 +54802,7 @@
         "",
         "",
         "",
-        "Caballito de cuarzo curtida"
+        "Caballito de cuarzo curtido"
       ]
     },
     {
@@ -52618,7 +54844,7 @@
         "",
         "",
         "",
-        "Caballito de cuarzo curtido"
+        "Caballito de cuarzo hiper-curtido"
       ]
     },
     {
@@ -53177,14 +55403,14 @@
         "ジロジロ（歴戦の個体）",
         "Tempered Gawkie",
         "Zieuteur alpha",
-        "Curiosoni temprata",
+        "Curiosoni temprato",
         "Gehärtete Gaffer",
-        "Gawkie curtida",
-        "Закалённая Зевака",
-        "Zahartowana Gapik",
+        "Gawkie curtido",
+        "Закалённый Зевака",
+        "Zahartowany Gapik",
         "",
         "",
-        "Encarão Aguerrida",
+        "Encarão Aguerrido",
         "빠니빠니(역전의 개체)",
         "凝視鼠（歷戰個體）",
         "凝目鼠（历战个体）",
@@ -53206,7 +55432,7 @@
         "",
         "",
         "",
-        "Gawkie curtida"
+        "Gawkie curtido"
       ]
     },
     {
@@ -53248,7 +55474,7 @@
         "",
         "",
         "",
-        "Gawkie curtido"
+        "Gawkie hiper-curtido"
       ]
     },
     {
@@ -53639,14 +55865,14 @@
         "ハナショウジョウ（歴戦の個体）",
         "Tempered Mimiphyta",
         "Mimiflore alpha",
-        "Mimofita temprata",
+        "Mimofita temprato",
         "Gehärtete Tarnäffchen",
-        "Mimifita curtida",
-        "Закалённая Фитомимик",
-        "Zahartowana Kwiatówka",
+        "Mimifita curtido",
+        "Закалённый Фитомимик",
+        "Zahartowany Kwiatówka",
         "",
         "",
-        "Mimeófita Aguerrida",
+        "Mimeófita Aguerrido",
         "꽃성성이(역전의 개체)",
         "花猩猩（歷戰個體）",
         "花妖猩（历战个体）",
@@ -53668,7 +55894,7 @@
         "",
         "",
         "",
-        "Mimiphyta curtida"
+        "Mimiphyta curtido"
       ]
     },
     {
@@ -53710,7 +55936,7 @@
         "",
         "",
         "",
-        "Mimiphyta curtido"
+        "Mimiphyta hiper-curtido"
       ]
     },
     {
@@ -54185,14 +56411,14 @@
         "ヒミズキノボリウオ（歴戦の個体）",
         "Tempered Scarlet Joyperch",
         "Perche rampante alpha",
-        "Pesce rampicante temprata",
+        "Pesce rampicante temprato",
         "Gehärtete Karmin-Wonnebarsch",
-        "Góbido escarlata curtida",
-        "Закалённая Рыба-древолаз",
-        "Zahartowana Wspinacz szkarłatny",
+        "Góbido escarlata curtido",
+        "Закалённый Рыба-древолаз",
+        "Zahartowany Wspinacz szkarłatny",
         "",
         "",
-        "Caçote Escarlate Aguerrida",
+        "Caçote Escarlate Aguerrido",
         "등화수목어(역전의 개체)",
         "緋水攀鱸（歷戰個體）",
         "绯水攀鲈（历战个体）",
@@ -54214,7 +56440,7 @@
         "",
         "",
         "",
-        "Perca escarlata curtida"
+        "Perca escarlata curtido"
       ]
     },
     {
@@ -54256,7 +56482,7 @@
         "",
         "",
         "",
-        "Perca escarlata curtido"
+        "Perca escarlata hiper-curtido"
       ]
     },
     {
@@ -54731,14 +56957,14 @@
         "マタタキウオ（歴戦の個体）",
         "Tempered Blink Angler",
         "Poisson cillant alpha",
-        "Ranalampante pescatrice temprata",
+        "Ranalampante pescatrice temprato",
         "Gehärtete Blinzelangler",
-        "Rape centelleante curtida",
-        "Закалённая Удильщик-мигун",
-        "Zahartowana Wędkarz migoczący",
+        "Rape centelleante curtido",
+        "Закалённый Удильщик-мигун",
+        "Zahartowany Wędkarz migoczący",
         "",
         "",
-        "Pesca-pisca Aguerrida",
+        "Pesca-pisca Aguerrido",
         "깜박어(역전의 개체)",
         "眨眼魚（歷戰個體）",
         "闪灯鱼（历战个体）",
@@ -54760,7 +56986,7 @@
         "",
         "",
         "",
-        "Rape centelleante curtida"
+        "Rape centelleante curtido"
       ]
     },
     {
@@ -54802,7 +57028,7 @@
         "",
         "",
         "",
-        "Rape centelleante curtido"
+        "Rape centelleante hiper-curtido"
       ]
     },
     {
@@ -55277,14 +57503,14 @@
         "モリサカズキガニ（歴戦の個体）",
         "Tempered Florashell Crab",
         "Floracrabe alpha",
-        "Granchio floraguscio temprata",
+        "Granchio floraguscio temprato",
         "Gehärtete Pflanzschalenkrabbe",
-        "Centollo boscoso curtida",
-        "Закалённая Пышнопанцирный краб",
-        "Zahartowana Krab kwiatopancerek",
+        "Centollo boscoso curtido",
+        "Закалённый Пышнопанцирный краб",
+        "Zahartowany Krab kwiatopancerek",
         "",
         "",
-        "Caranguejo Cascaflor Aguerrida",
+        "Caranguejo Cascaflor Aguerrido",
         "숲 술잔게(역전의 개체)",
         "森杯蟹（歷戰個體）",
         "森盏蟹（历战个体）",
@@ -55306,7 +57532,7 @@
         "",
         "",
         "",
-        "Cangrejo caparaflor curtida"
+        "Cangrejo caparaflor curtido"
       ]
     },
     {
@@ -55348,7 +57574,7 @@
         "",
         "",
         "",
-        "Cangrejo caparaflor curtido"
+        "Cangrejo caparaflor hiper-curtido"
       ]
     },
     {
@@ -55907,14 +58133,14 @@
         "コットウサカズキガニ（歴戦の個体）",
         "Tempered Curioshell Crab",
         "Curiocrabe alpha",
-        "Granchio raroguscio temprata",
+        "Granchio raroguscio temprato",
         "Gehärtete Prunkschalenkrabbe",
-        "Centollo curioso curtida",
-        "Закалённая Редкопанцирный краб",
-        "Zahartowana Krab ciekawopancerek",
+        "Centollo curioso curtido",
+        "Закалённый Редкопанцирный краб",
+        "Zahartowany Krab ciekawopancerek",
         "",
         "",
-        "Caranguejo Cascurio Aguerrida",
+        "Caranguejo Cascurio Aguerrido",
         "골동 술잔게(역전의 개체)",
         "古杯蟹（歷戰個體）",
         "古盏蟹（历战个体）",
@@ -55936,7 +58162,7 @@
         "",
         "",
         "",
-        "Cangrejo caparacurio curtida"
+        "Cangrejo caparacurio curtido"
       ]
     },
     {
@@ -55978,7 +58204,7 @@
         "",
         "",
         "",
-        "Cangrejo caparacurio curtido"
+        "Cangrejo caparacurio hiper-curtido"
       ]
     },
     {
@@ -56369,14 +58595,14 @@
         "ヌマサカズキガニ（歴戦の個体）",
         "Tempered Crudeshell Crab",
         "Pétrocrabe alpha",
-        "Granchio olioguscio temprata",
+        "Granchio olioguscio temprato",
         "Gehärtete Ölschalenkrabbe",
-        "Centollo fangoso curtida",
-        "Закалённая Грубопанцирный краб",
-        "Zahartowana Krab ropopancerek",
+        "Centollo fangoso curtido",
+        "Закалённый Грубопанцирный краб",
+        "Zahartowany Krab ropopancerek",
         "",
         "",
-        "Caranguejo Cascóleo Aguerrida",
+        "Caranguejo Cascóleo Aguerrido",
         "늪 술잔게(역전의 개체)",
         "沼杯蟹（歷戰個體）",
         "沼盏蟹（历战个体）",
@@ -56398,7 +58624,7 @@
         "",
         "",
         "",
-        "Cangrejo oleoso curtida"
+        "Cangrejo oleoso curtido"
       ]
     },
     {
@@ -56440,7 +58666,7 @@
         "",
         "",
         "",
-        "Cangrejo oleoso curtido"
+        "Cangrejo oleoso hiper-curtido"
       ]
     },
     {
@@ -56915,14 +59141,14 @@
         "クラマシゲッコー（歴戦の個体）",
         "Tempered Smokeshroud Gekko",
         "Fumigecko alpha",
-        "Gekko sfuggente temprata",
+        "Gekko sfuggente temprato",
         "Gehärtete Rauchschleiergekko",
-        "Gekko nebuloso curtida",
-        "Закалённая Дымный геккон",
-        "Zahartowana Gekon dymnoszaty",
+        "Gekko nebuloso curtido",
+        "Закалённый Дымный геккон",
+        "Zahartowany Gekon dymnoszaty",
         "",
         "",
-        "Gekko Fumacento Aguerrida",
+        "Gekko Fumacento Aguerrido",
         "은둔 도마뱀붙이(역전의 개체)",
         "隱遁壁虎（歷戰個體）",
         "隐遁壁虎（历战个体）",
@@ -56944,7 +59170,7 @@
         "",
         "",
         "",
-        "Geco humeante curtida"
+        "Geco humeante curtido"
       ]
     },
     {
@@ -56986,7 +59212,7 @@
         "",
         "",
         "",
-        "Geco humeante curtido"
+        "Geco humeante hiper-curtido"
       ]
     },
     {
@@ -57461,14 +59687,14 @@
         "クラヤミゲッコー（歴戦の個体）",
         "Tempered Gloom Gekko",
         "Gecko nocturne alpha",
-        "Gekko tenebroso temprata",
+        "Gekko tenebroso temprato",
         "Gehärtete Abendrotgekko",
-        "Gekko crepuscular curtida",
-        "Закалённая Мрачный геккон",
-        "Zahartowana Gekon mroczny",
+        "Gekko crepuscular curtido",
+        "Закалённый Мрачный геккон",
+        "Zahartowany Gekon mroczny",
         "",
         "",
-        "Gekko Trevoso Aguerrida",
+        "Gekko Trevoso Aguerrido",
         "어둠 도마뱀붙이(역전의 개체)",
         "黑暗蜥蜴（歷戰個體）",
         "黑暗壁虎（历战个体）",
@@ -57490,7 +59716,7 @@
         "",
         "",
         "",
-        "Geco crepuscular curtida"
+        "Geco crepuscular curtido"
       ]
     },
     {
@@ -57532,7 +59758,7 @@
         "",
         "",
         "",
-        "Geco crepuscular curtido"
+        "Geco crepuscular hiper-curtido"
       ]
     },
     {
@@ -58091,14 +60317,14 @@
         "ケンランプテルス（歴戦の個体）",
         "Tempered Dazzlewing",
         "Splendaile alpha",
-        "Alalucente temprata",
+        "Alalucente temprato",
         "Gehärtete Schillerflügler",
-        "Fulgalado curtida",
-        "Закалённая Блескокрыл",
-        "Zahartowana Błyskoskrzydły",
+        "Fulgalado curtido",
+        "Закалённый Блескокрыл",
+        "Zahartowany Błyskoskrzydły",
         "",
         "",
-        "Fascinasa Aguerrida",
+        "Fascinasa Aguerrido",
         "현란 프테루스(역전의 개체)",
         "絢爛翼鳥（歷戰個體）",
         "绚烂翼鸟（历战个体）",
@@ -58120,7 +60346,7 @@
         "",
         "",
         "",
-        "Encandialado curtida"
+        "Encandialado curtido"
       ]
     },
     {
@@ -58162,7 +60388,7 @@
         "",
         "",
         "",
-        "Encandialado curtido"
+        "Encandialado hiper-curtido"
       ]
     },
     {
@@ -58637,14 +60863,14 @@
         "スナノリュウセイ（歴戦の個体）",
         "Tempered Sandstar",
         "Étoile des sables alpha",
-        "Cometa delle dune temprata",
+        "Cometa delle dune temprato",
         "Gehärtete Sandwusel",
-        "Arena fugaz curtida",
-        "Закалённая Звезда-песчанка",
-        "Zahartowana Piasgwiazda",
+        "Arena fugaz curtido",
+        "Закалённый Звезда-песчанка",
+        "Zahartowany Piasgwiazda",
         "",
         "",
-        "Estrelareia Aguerrida",
+        "Estrelareia Aguerrido",
         "사막별똥별(역전의 개체)",
         "沙之流星（歷戰個體）",
         "沙野流星（历战个体）",
@@ -58666,7 +60892,7 @@
         "",
         "",
         "",
-        "Meteoro arenoso curtida"
+        "Meteoro arenoso curtido"
       ]
     },
     {
@@ -58708,7 +60934,7 @@
         "",
         "",
         "",
-        "Meteoro arenoso curtido"
+        "Meteoro arenoso hiper-curtido"
       ]
     },
     {
@@ -59183,14 +61409,14 @@
         "ウロコウモリ（歴戦の個体）",
         "Tempered Scalebat",
         "Chauve-souris à écailles alpha",
-        "Scagliastrello temprata",
+        "Scagliastrello temprato",
         "Gehärtete Grottenfledermaus",
-        "Murcielagarto curtida",
-        "Закалённая Чешуйчатая летучая мышь",
-        "Zahartowana Nietoperz łuskowy",
+        "Murcielagarto curtido",
+        "Закалённый Чешуйчатая летучая мышь",
+        "Zahartowany Nietoperz łuskowy",
         "",
         "",
-        "Morcescama Aguerrida",
+        "Morcescama Aguerrido",
         "비늘 박쥐(역전의 개체)",
         "鱗片蝙蝠（歷戰個體）",
         "鳞片蝙蝠（历战个体）",
@@ -59212,7 +61438,7 @@
         "",
         "",
         "",
-        "Murcielagarto curtida"
+        "Murcielagarto curtido"
       ]
     },
     {
@@ -59254,7 +61480,7 @@
         "",
         "",
         "",
-        "Murcielagarto curtido"
+        "Murcielagarto hiper-curtido"
       ]
     },
     {
@@ -59729,14 +61955,14 @@
         "ハナミアゲ（歴戦の個体）",
         "Tempered Sparklerjelly",
         "Flaméduse alpha",
-        "Medusa filante temprata",
+        "Medusa filante temprato",
         "Gehärtete Feuerwerksqualle",
-        "Bengaladusa curtida",
-        "Закалённая Желёстка",
-        "Zahartowana Błyszczkoplazm",
+        "Bengaladusa curtido",
+        "Закалённый Желёстка",
+        "Zahartowany Błyszczkoplazm",
         "",
         "",
-        "Gelabrilha Aguerrida",
+        "Gelabrilha Aguerrido",
         "불꽃올리미(역전의 개체)",
         "煙火水母（歷戰個體）",
         "望花水母（历战个体）",
@@ -59758,7 +61984,7 @@
         "",
         "",
         "",
-        "Bengaladusa curtida"
+        "Bengaladusa curtido"
       ]
     },
     {
@@ -59800,7 +62026,7 @@
         "",
         "",
         "",
-        "Bengaladusa curtido"
+        "Bengaladusa hiper-curtido"
       ]
     },
     {
@@ -60275,14 +62501,14 @@
         "タイリンハナミアゲ（歴戦の個体）",
         "Tempered Peony Sparklerjelly",
         "Grande flaméduse alpha",
-        "Medusa filante floreale temprata",
+        "Medusa filante floreale temprato",
         "Gehärtete Bunte Feuerwerksqualle",
-        "Bengaladusa flor curtida",
-        "Закалённая Розовая желёстка",
-        "Zahartowana Błyszczkoplazm piwoniowy",
+        "Bengaladusa flor curtido",
+        "Закалённый Розовая желёстка",
+        "Zahartowany Błyszczkoplazm piwoniowy",
         "",
         "",
-        "Peônia Gelabrilha Aguerrida",
+        "Peônia Gelabrilha Aguerrido",
         "큰불꽃올리미(역전의 개체)",
         "大輪煙火水母（歷戰個體）",
         "大望花水母（历战个体）",
@@ -60304,7 +62530,7 @@
         "",
         "",
         "",
-        "Bengaladusa flor curtida"
+        "Bengaladusa flor curtido"
       ]
     },
     {
@@ -60346,7 +62572,7 @@
         "",
         "",
         "",
-        "Bengaladusa flor curtido"
+        "Bengaladusa flor hiper-curtido"
       ]
     },
     {
@@ -60821,14 +63047,14 @@
         "ヌ・ヤヤ（歴戦の個体）",
         "Tempered Nu Yaya",
         "Nu Yaya alpha",
-        "Nu Yaya temprata",
+        "Nu Yaya temprato",
         "Gehärtete Nu Yaya",
-        "Nu Yaya curtida",
-        "Закалённая Ну йайа",
-        "Zahartowana Nu Yaya",
+        "Nu Yaya curtido",
+        "Закалённый Ну йайа",
+        "Zahartowany Nu Yaya",
         "",
         "",
-        "Nu Yaya Aguerrida",
+        "Nu Yaya Aguerrido",
         "누 야야(역전의 개체)",
         "努亞亞（歷戰個體）",
         "稚狱蛸（历战个体）",
@@ -60850,7 +63076,7 @@
         "",
         "",
         "",
-        "Nu Yaya curtida"
+        "Nu Yaya curtido"
       ]
     },
     {
@@ -60892,7 +63118,7 @@
         "",
         "",
         "",
-        "Nu Yaya curtido"
+        "Nu Yaya hiper-curtido"
       ]
     },
     {
@@ -61367,14 +63593,14 @@
         "シウシウ（歴戦の個体）",
         "Tempered Xu Yo",
         "Xu Yo alpha",
-        "Xu Yo temprata",
+        "Xu Yo temprato",
         "Gehärtete Xu Yo",
-        "Xu Yo curtida",
-        "Закалённая Сю юй",
-        "Zahartowana Xu Yo",
+        "Xu Yo curtido",
+        "Закалённый Сю юй",
+        "Zahartowany Xu Yo",
         "",
         "",
-        "Xu Yo Aguerrida",
+        "Xu Yo Aguerrido",
         "시우시우(역전의 개체)",
         "虛幼（歷戰個體）",
         "虚幼（历战个体）",
@@ -61396,7 +63622,7 @@
         "",
         "",
         "",
-        "Xu Yo curtida"
+        "Xu Yo curtido"
       ]
     },
     {
@@ -61438,7 +63664,7 @@
         "",
         "",
         "",
-        "Xu Yo curtido"
+        "Xu Yo hiper-curtido"
       ]
     },
     {
@@ -61913,14 +64139,14 @@
         "ソラナリア（歴戦の個体）",
         "Tempered Solanaria",
         "Solanaria alpha",
-        "Solanaria temprata",
+        "Solanaria temprato",
         "Gehärtete Solanaria",
-        "Solanaria curtida",
-        "Закалённая Соланария",
-        "Zahartowana Solanaria",
+        "Solanaria curtido",
+        "Закалённый Соланария",
+        "Zahartowany Solanaria",
         "",
         "",
-        "Solanaria Aguerrida",
+        "Solanaria Aguerrido",
         "소라나리아(역전의 개체)",
         "空渦蟲（歷戰個體）",
         "空涡虫（历战个体）",
@@ -61942,7 +64168,7 @@
         "",
         "",
         "",
-        "Solanaria curtida"
+        "Solanaria curtido"
       ]
     },
     {
@@ -61984,7 +64210,7 @@
         "",
         "",
         "",
-        "Solanaria curtido"
+        "Solanaria hiper-curtido"
       ]
     },
     {
@@ -62459,14 +64685,14 @@
         "キョムトン（歴戦の個体）",
         "Tempered Pillopod",
         "Plalimace alpha",
-        "Cuscipode temprata",
+        "Cuscipode temprato",
         "Gehärtete Kilowattschnecke",
-        "Cojinópodo curtida",
-        "Закалённая Шаробрюх",
-        "Zahartowana Poduszkopłetwy",
+        "Cojinópodo curtido",
+        "Закалённый Шаробрюх",
+        "Zahartowany Poduszkopłetwy",
         "",
         "",
-        "Almofápode Aguerrida",
+        "Almofápode Aguerrido",
         "쿄무톤(역전의 개체)",
         "虛無通（歷戰個體）",
         "虚无动（历战个体）",
@@ -62488,7 +64714,7 @@
         "",
         "",
         "",
-        "Almobicho curtida"
+        "Almobicho curtido"
       ]
     },
     {
@@ -62530,7 +64756,7 @@
         "",
         "",
         "",
-        "Almobicho curtido"
+        "Almobicho hiper-curtido"
       ]
     },
     {
@@ -63005,14 +65231,14 @@
         "ギョムドン（歴戦の個体）",
         "Tempered Gillopod",
         "Glalimace alpha",
-        "Gillopode temprata",
+        "Gillopode temprato",
         "Gehärtete Megawattschnecke",
-        "Tojinópodo curtida",
-        "Закалённая Пухлобрюх",
-        "Zahartowana Skrzelopłetwy",
+        "Tojinópodo curtido",
+        "Закалённый Пухлобрюх",
+        "Zahartowany Skrzelopłetwy",
         "",
         "",
-        "Elmofápode Aguerrida",
+        "Elmofápode Aguerrido",
         "교무돈(역전의 개체)",
         "虛無咚（歷戰個體）",
         "大虚无动（历战个体）",
@@ -63034,7 +65260,7 @@
         "",
         "",
         "",
-        "Calmobicho curtida"
+        "Calmobicho curtido"
       ]
     },
     {
@@ -63076,7 +65302,7 @@
         "",
         "",
         "",
-        "Calmobicho curtido"
+        "Calmobicho hiper-curtido"
       ]
     },
     {
@@ -63551,14 +65777,14 @@
         "ハナヒラムシ（歴戦の個体）",
         "Tempered Petalfly",
         "Pétaluciole alpha",
-        "Insetto petalo temprata",
+        "Insetto petalo temprato",
         "Gehärtete Blütenfliege",
-        "Bichipétalo curtida",
-        "Закалённая Цветочная муха",
-        "Zahartowana Płatolot",
+        "Bichipétalo curtido",
+        "Закалённый Цветочная муха",
+        "Zahartowany Płatolot",
         "",
         "",
-        "Lipétala Aguerrida",
+        "Lipétala Aguerrido",
         "꽃잎벌레(역전의 개체)",
         "花開蟲（歷戰個體）",
         "花瓣虫（历战个体）",
@@ -63580,7 +65806,7 @@
         "",
         "",
         "",
-        "Bichipétalo curtida"
+        "Bichipétalo curtido"
       ]
     },
     {
@@ -63622,7 +65848,7 @@
         "",
         "",
         "",
-        "Bichipétalo curtido"
+        "Bichipétalo hiper-curtido"
       ]
     },
     {
@@ -63947,7 +66173,7 @@
         "",
         "",
         "",
-        "كراك ناعم",
+        "كريك ناعم",
         "",
         "",
         "",
@@ -64115,7 +66341,7 @@
         "",
         "",
         "",
-        "كراك ناعم مسعور",
+        "كريك ناعم مسعور",
         "",
         "",
         "",
@@ -64139,14 +66365,14 @@
         "フワフワクイナ（歴戦の個体）",
         "Tempered Downy Crake",
         "Marouette douce alpha",
-        "Rallus mollis temprata",
+        "Rallus mollis temprato",
         "Gehärtete Flauschhuhn",
-        "Carrao algodón curtida",
-        "Закалённая Пуховый коростель",
-        "Zahartowana Derkacz puchaty",
+        "Carrao algodón curtido",
+        "Закалённый Пуховый коростель",
+        "Zahartowany Derkacz puchaty",
         "",
         "",
-        "Saracura Plumosa Aguerrida",
+        "Saracura Plumosa Aguerrido",
         "폭신폭신 뜸부기(역전의 개체)",
         "柔毛秧雞（歷戰個體）",
         "柔毛秧鸡（历战个体）",
@@ -64157,7 +66383,7 @@
         "",
         "",
         "",
-        "كراك ناعم غاضب",
+        "كريك ناعم غاضب",
         "",
         "",
         "",
@@ -64168,7 +66394,7 @@
         "",
         "",
         "",
-        "Carrao algodón curtida"
+        "Carrao algodón curtido"
       ]
     },
     {
@@ -64199,7 +66425,7 @@
         "",
         "",
         "",
-        "المخضرم كراك ناعم",
+        "المخضرم كريك ناعم",
         "",
         "",
         "",
@@ -64210,7 +66436,7 @@
         "",
         "",
         "",
-        "Carrao algodón curtido"
+        "Carrao algodón hiper-curtido"
       ]
     },
     {
@@ -64559,14 +66785,14 @@
         "オメカシプテルス（歴戦の個体）",
         "Tempered Dapperwing",
         "Bellaile alpha",
-        "Alaelegante temprata",
+        "Alaelegante temprato",
         "Gehärtete Zierflügler",
-        "Dignialado curtida",
-        "Закалённая Пёстрокрыл",
-        "Zahartowana Galantoskrzydły",
+        "Dignialado curtido",
+        "Закалённый Пёстрокрыл",
+        "Zahartowany Galantoskrzydły",
         "",
         "",
-        "Charmasa Aguerrida",
+        "Charmasa Aguerrido",
         "멋쟁이 프테루스(역전의 개체)",
         "端麗翼鳥（歷戰個體）",
         "端丽翼鸟（历战个体）",
@@ -64588,7 +66814,7 @@
         "",
         "",
         "",
-        "Dignialado curtida"
+        "Dignialado curtido"
       ]
     },
     {
@@ -64630,7 +66856,7 @@
         "",
         "",
         "",
-        "Dignialado curtido"
+        "Dignialado hiper-curtido"
       ]
     },
     {
@@ -65147,14 +67373,14 @@
         "ホシクズイクチス（歴戦の個体）",
         "Tempered Starduster",
         "Stellardine alpha",
-        "Polverestella temprata",
+        "Polverestella temprato",
         "Gehärtete Sternenstäuber",
-        "Plumestelar curtida",
-        "Закалённая Звездянка",
-        "Zahartowana Gwiezdnik",
+        "Plumestelar curtido",
+        "Закалённый Звездянка",
+        "Zahartowany Gwiezdnik",
         "",
         "",
-        "Estreleiro Aguerrida",
+        "Estreleiro Aguerrido",
         "별무리 물고기(역전의 개체)",
         "星屑魚（歷戰個體）",
         "星屑鱼（历战个体）",
@@ -65176,7 +67402,7 @@
         "",
         "",
         "",
-        "Plumestelar curtida"
+        "Plumestelar curtido"
       ]
     },
     {
@@ -65218,7 +67444,7 @@
         "",
         "",
         "",
-        "Plumestelar curtido"
+        "Plumestelar hiper-curtido"
       ]
     },
     {
@@ -65651,14 +67877,14 @@
         "ホシクズイクチス（歴戦の個体）",
         "Tempered Starduster",
         "Stellardine alpha",
-        "Polverestella temprata",
+        "Polverestella temprato",
         "Gehärtete Sternenstäuber",
-        "Plumestelar curtida",
-        "Закалённая Звездянка",
-        "Zahartowana Gwiezdnik",
+        "Plumestelar curtido",
+        "Закалённый Звездянка",
+        "Zahartowany Gwiezdnik",
         "",
         "",
-        "Estreleiro Aguerrida",
+        "Estreleiro Aguerrido",
         "별무리 물고기(역전의 개체)",
         "星屑魚（歷戰個體）",
         "星屑鱼（历战个体）",
@@ -65680,7 +67906,7 @@
         "",
         "",
         "",
-        "Plumestelar curtida"
+        "Plumestelar curtido"
       ]
     },
     {
@@ -65722,7 +67948,7 @@
         "",
         "",
         "",
-        "Plumestelar curtido"
+        "Plumestelar hiper-curtido"
       ]
     },
     {
@@ -66197,14 +68423,14 @@
         "カンランアミア（歴戦の個体）",
         "Tempered Virid Bowfin",
         "Amie émeraude alpha",
-        "Amia verde temprata",
+        "Amia verde temprato",
         "Gehärtete Grüner Schlammfisch",
-        "Amia esmeralda curtida",
-        "Закалённая Изумрудный лукопёр",
-        "Zahartowana Amia szmaragdowa",
+        "Amia esmeralda curtido",
+        "Закалённый Изумрудный лукопёр",
+        "Zahartowany Amia szmaragdowa",
         "",
         "",
-        "Amia Virídea Aguerrida",
+        "Amia Virídea Aguerrido",
         "감람 아미아(역전의 개체)",
         "橄欖弓鰭魚（歷戰個體）",
         "橄榄弓鳍鱼（历战个体）",
@@ -66226,7 +68452,7 @@
         "",
         "",
         "",
-        "Amia espléndida curtida"
+        "Amia espléndida curtido"
       ]
     },
     {
@@ -66268,7 +68494,7 @@
         "",
         "",
         "",
-        "Amia espléndida curtido"
+        "Amia espléndida hiper-curtido"
       ]
     },
     {
@@ -66573,11 +68799,11 @@
       "attributes": [],
       "content": [
         "",
-        "A fish whose physiology remains almost\r\nunchanged from its ancient ancestors.\r\nIts spiny fins help ward off predators.",
         "",
         "",
         "",
-        "Un pez que mantiene la fisionomía de sus\r\nancestros. Sus aletas con espinas mantienen\r\na atacantes a raya.",
+        "",
+        "",
         "",
         "",
         "",
@@ -66730,7 +68956,7 @@
         "",
         "",
         "",
-        "Moscuatrillos"
+        "Cuatrimoscas"
       ]
     },
     {
@@ -66743,14 +68969,14 @@
         "ヨツバカゲロウ（歴戦の個体）",
         "Tempered Quatreflies",
         "Trèflémères alpha",
-        "Quadrifarfalle temprata",
+        "Quadrifarfalle temprato",
         "Gehärtete Tristramfliegen",
-        "Moscuatrillos curtida",
-        "Закалённая Четверницы",
-        "Zahartowana Czterojętki",
+        "Moscuatrillos curtido",
+        "Закалённый Четверницы",
+        "Zahartowany Czterojętki",
         "",
         "",
-        "Trevoletas Aguerrida",
+        "Trevoletas Aguerrido",
         "사엽 하루살이(역전의 개체)",
         "四葉蜉蝣（歷戰個體）",
         "四叶蜉蝣（历战个体）",
@@ -66772,7 +68998,7 @@
         "",
         "",
         "",
-        "Moscuatrillos curtida"
+        "Cuatrimoscas curtido"
       ]
     },
     {
@@ -66814,7 +69040,7 @@
         "",
         "",
         "",
-        "Moscuatrillos curtido"
+        "Cuatrimoscas hiper-curtido"
       ]
     },
     {
@@ -67055,7 +69281,7 @@
         "",
         "",
         "",
-        "الفراشات اللانهائية مسعور",
+        "فراشات اللانهائية مسعور",
         "",
         "",
         "",
@@ -67265,7 +69491,7 @@
         "",
         "",
         "",
-        "الفراشات اللانهائية",
+        "فراشات اللانهائية",
         "",
         "",
         "",
@@ -67289,14 +69515,14 @@
         "センバチョウ（歴戦の個体）",
         "Tempered Myriads",
         "Myriades alpha",
-        "Miriadi temprata",
+        "Miriadi temprato",
         "Gehärtete Myriaden",
-        "Miríadas curtida",
-        "Закалённая Несметки",
-        "Zahartowana Miriady",
+        "Miríadas curtido",
+        "Закалённый Несметки",
+        "Zahartowany Miriady",
         "",
         "",
-        "Miríades Aguerrida",
+        "Miríades Aguerrido",
         "천군 나비(역전의 개체)",
         "千羽蝶（歷戰個體）",
         "千羽蝶（历战个体）",
@@ -67307,7 +69533,7 @@
         "",
         "",
         "",
-        "الفراشات اللانهائية غاضب",
+        "فراشات اللانهائية غاضب",
         "",
         "",
         "",
@@ -67318,7 +69544,7 @@
         "",
         "",
         "",
-        "Miríadas curtida"
+        "Miríadas curtido"
       ]
     },
     {
@@ -67349,7 +69575,7 @@
         "",
         "",
         "",
-        "المخضرم الفراشات اللانهائية",
+        "المخضرم فراشات اللانهائية",
         "",
         "",
         "",
@@ -67360,7 +69586,7 @@
         "",
         "",
         "",
-        "Miríadas curtido"
+        "Miríadas hiper-curtido"
       ]
     },
     {
@@ -67601,7 +69827,7 @@
         "",
         "",
         "",
-        "الفراشات اللانهائية مسعور",
+        "فراشات اللانهائية مسعور",
         "",
         "",
         "",
@@ -67811,7 +70037,7 @@
         "",
         "",
         "",
-        "الفراشات اللانهائية",
+        "فراشات اللانهائية",
         "",
         "",
         "",
@@ -67835,14 +70061,14 @@
         "センバチョウ（歴戦の個体）",
         "Tempered Myriads",
         "Myriades alpha",
-        "Miriadi temprata",
+        "Miriadi temprato",
         "Gehärtete Myriaden",
-        "Miríadas curtida",
-        "Закалённая Несметки",
-        "Zahartowana Miriady",
+        "Miríadas curtido",
+        "Закалённый Несметки",
+        "Zahartowany Miriady",
         "",
         "",
-        "Miríades Aguerrida",
+        "Miríades Aguerrido",
         "천군 나비(역전의 개체)",
         "千羽蝶（歷戰個體）",
         "千羽蝶（历战个体）",
@@ -67853,7 +70079,7 @@
         "",
         "",
         "",
-        "الفراشات اللانهائية غاضب",
+        "فراشات اللانهائية غاضب",
         "",
         "",
         "",
@@ -67864,7 +70090,7 @@
         "",
         "",
         "",
-        "Miríadas curtida"
+        "Miríadas curtido"
       ]
     },
     {
@@ -67895,7 +70121,7 @@
         "",
         "",
         "",
-        "المخضرم الفراشات اللانهائية",
+        "المخضرم فراشات اللانهائية",
         "",
         "",
         "",
@@ -67906,7 +70132,7 @@
         "",
         "",
         "",
-        "Miríadas curtido"
+        "Miríadas hiper-curtido"
       ]
     },
     {
@@ -68074,7 +70300,7 @@
         "",
         "",
         "",
-        "Moscuatrillos colérico"
+        "Cuatrimoscas colérico"
       ]
     },
     {
@@ -68381,14 +70607,14 @@
         "キレアジ（歴戦の個体）",
         "Tempered Whetfish",
         "Poissaiguiseur alpha",
-        "Sgombro-coltello temprata",
+        "Sgombro-coltello temprato",
         "Gehärtete Wetzfisch",
-        "Caballa cuchillo curtida",
-        "Закалённая Точильная рыба",
-        "Zahartowana Ostrzalnik",
+        "Caballa cuchillo curtido",
+        "Закалённый Точильная рыба",
+        "Zahartowany Ostrzalnik",
         "",
         "",
-        "Peixe-amola Aguerrida",
+        "Peixe-amola Aguerrido",
         "예리어(역전의 개체)",
         "堅硬竹筴魚（歷戰個體）",
         "坚硬竹荚鱼（历战个体）",
@@ -68410,7 +70636,7 @@
         "",
         "",
         "",
-        "Caballa cuchillo curtida"
+        "Caballa cuchillo curtido"
       ]
     },
     {
@@ -68452,7 +70678,7 @@
         "",
         "",
         "",
-        "Caballa cuchillo curtido"
+        "Caballa cuchillo hiper-curtido"
       ]
     },
     {
@@ -68757,11 +70983,11 @@
       "attributes": [],
       "content": [
         "",
-        "A fish with a dorsal fin\r\nhard enough to be used\r\nto sharpen weapons.",
         "",
         "",
         "",
-        "Pez cuya aleta dorsal es lo bastante dura\r\ncomo para afilar armas.",
+        "",
+        "",
         "",
         "",
         "",
@@ -68927,14 +71153,14 @@
         "サシミウオ（歴戦の個体）",
         "Tempered Sushifish",
         "Sushipoisson alpha",
-        "Pesce-sushi temprata",
+        "Pesce-sushi temprato",
         "Gehärtete Sushifisch",
-        "Pez sushi curtida",
-        "Закалённая Рыба-суши",
-        "Zahartowana Ryba sushi",
+        "Pez sushi curtido",
+        "Закалённый Рыба-суши",
+        "Zahartowany Ryba sushi",
         "",
         "",
-        "Peixushi Aguerrida",
+        "Peixushi Aguerrido",
         "회어(역전의 개체)",
         "刺身魚（歷戰個體）",
         "刺身鱼（历战个体）",
@@ -68956,7 +71182,7 @@
         "",
         "",
         "",
-        "Pez sushi curtida"
+        "Pez sushi curtido"
       ]
     },
     {
@@ -68998,7 +71224,7 @@
         "",
         "",
         "",
-        "Pez sushi curtido"
+        "Pez sushi hiper-curtido"
       ]
     },
     {
@@ -69473,14 +71699,14 @@
         "大食いマグロ（歴戦の個体）",
         "Tempered Gastronome Tuna",
         "Thon glouton alpha",
-        "Tonno ghiottone temprata",
+        "Tonno ghiottone temprato",
         "Gehärtete Gourmet-Thun",
-        "Atún glotón curtida",
-        "Закалённая Ненасытный тунец",
-        "Zahartowana Tuńczyk gastronom",
+        "Atún glotón curtido",
+        "Закалённый Ненасытный тунец",
+        "Zahartowany Tuńczyk gastronom",
         "",
         "",
-        "Atum Gastrônomo Aguerrida",
+        "Atum Gastrônomo Aguerrido",
         "먹보다랑어(역전의 개체)",
         "貪吃鮪魚（歷戰個體）",
         "贪吃金枪鱼（历战个体）",
@@ -69502,7 +71728,7 @@
         "",
         "",
         "",
-        "Atún glotón curtida"
+        "Atún glotón curtido"
       ]
     },
     {
@@ -69544,7 +71770,7 @@
         "",
         "",
         "",
-        "Atún glotón curtido"
+        "Atún glotón hiper-curtido"
       ]
     },
     {
@@ -70019,14 +72245,14 @@
         "ガライーバ（歴戦の個体）",
         "Tempered Gajau",
         "Gajau alpha",
-        "Gajau temprata",
+        "Gajau temprato",
         "Gehärtete Gajau",
-        "Gajau curtida",
-        "Закалённая Гаджау",
-        "Zahartowana Gajau",
+        "Gajau curtido",
+        "Закалённый Гаджау",
+        "Zahartowany Gajau",
         "",
         "",
-        "Gajau Aguerrida",
+        "Gajau Aguerrido",
         "가쟈우(역전의 개체)",
         "咬魚（歷戰個體）",
         "咬鱼（历战个体）",
@@ -70048,7 +72274,7 @@
         "",
         "",
         "",
-        "Gajau curtida"
+        "Gajau curtido"
       ]
     },
     {
@@ -70090,7 +72316,7 @@
         "",
         "",
         "",
-        "Gajau curtido"
+        "Gajau hiper-curtido"
       ]
     },
     {
@@ -70565,14 +72791,14 @@
         "小金魚（歴戦の個体）",
         "Tempered Goldenfry",
         "Poisson rouge alpha",
-        "Pesciolino dorato temprata",
+        "Pesciolino dorato temprato",
         "Gehärtete Goldenschwimmer",
-        "Pececito dorado curtida",
-        "Закалённая Позолоченная рыбка",
-        "Zahartowana Złotopłotka",
+        "Pececito dorado curtido",
+        "Закалённый Позолоченная рыбка",
+        "Zahartowany Złotopłotka",
         "",
         "",
-        "Peixote-dourado Aguerrida",
+        "Peixote-dourado Aguerrido",
         "미니금붕어(역전의 개체)",
         "小金魚（歷戰個體）",
         "小金鱼（历战个体）",
@@ -70594,7 +72820,7 @@
         "",
         "",
         "",
-        "Pececito dorado curtida"
+        "Pececito dorado curtido"
       ]
     },
     {
@@ -70636,7 +72862,7 @@
         "",
         "",
         "",
-        "Pececito dorado curtido"
+        "Pececito dorado hiper-curtido"
       ]
     },
     {
@@ -71111,14 +73337,14 @@
         "黄金魚（歴戦の個体）",
         "Tempered Goldenfish",
         "Poisson d'or alpha",
-        "Pesce dorato temprata",
+        "Pesce dorato temprato",
         "Gehärtete Goldenfisch",
-        "Pez dorado curtida",
-        "Закалённая Золотая рыбка",
-        "Zahartowana Złota rybka",
+        "Pez dorado curtido",
+        "Закалённый Золотая рыбка",
+        "Zahartowany Złota rybka",
         "",
         "",
-        "Peixe-dourado Aguerrida",
+        "Peixe-dourado Aguerrido",
         "황금어(역전의 개체)",
         "黃金魚（歷戰個體）",
         "黄金鱼（历战个体）",
@@ -71140,7 +73366,7 @@
         "",
         "",
         "",
-        "Pez dorado curtida"
+        "Pez dorado curtido"
       ]
     },
     {
@@ -71182,7 +73408,7 @@
         "",
         "",
         "",
-        "Pez dorado curtido"
+        "Pez dorado hiper-curtido"
       ]
     },
     {
@@ -71657,14 +73883,14 @@
         "白金魚（歴戦の個体）",
         "Tempered Platinumfish",
         "Poisson platine alpha",
-        "Pesce platinato temprata",
+        "Pesce platinato temprato",
         "Gehärtete Platinfisch",
-        "Pez de platino curtida",
-        "Закалённая Платиновая рыбка",
-        "Zahartowana Platynowa rybka",
+        "Pez de platino curtido",
+        "Закалённый Платиновая рыбка",
+        "Zahartowany Platynowa rybka",
         "",
         "",
-        "Peixe-platinado Aguerrida",
+        "Peixe-platinado Aguerrido",
         "백금어(역전의 개체)",
         "白金魚（歷戰個體）",
         "白金鱼（历战个体）",
@@ -71686,7 +73912,7 @@
         "",
         "",
         "",
-        "Pez de platino curtida"
+        "Pez de platino curtido"
       ]
     },
     {
@@ -71728,7 +73954,7 @@
         "",
         "",
         "",
-        "Pez de platino curtido"
+        "Pez de platino hiper-curtido"
       ]
     },
     {
@@ -72203,14 +74429,14 @@
         "ハレツアロワナ（歴戦の個体）",
         "Tempered Burst Arowana",
         "Arowana explosif alpha",
-        "Arowana scoppio temprata",
+        "Arowana scoppio temprato",
         "Gehärtete Berst-Arowana",
-        "Arrowana reventona curtida",
-        "Закалённая Взрывная аравана",
-        "Zahartowana Wybucharowana",
+        "Arrowana reventona curtido",
+        "Закалённый Взрывная аравана",
+        "Zahartowany Wybucharowana",
         "",
         "",
-        "Aruanã Explosivo Aguerrida",
+        "Aruanã Explosivo Aguerrido",
         "파열아로와나(역전의 개체)",
         "破裂龍魚（歷戰個體）",
         "破裂龙鱼（历战个体）",
@@ -72232,7 +74458,7 @@
         "",
         "",
         "",
-        "Arowana reventona curtida"
+        "Arowana reventona curtido"
       ]
     },
     {
@@ -72274,7 +74500,7 @@
         "",
         "",
         "",
-        "Arowana reventona curtido"
+        "Arowana reventona hiper-curtido"
       ]
     },
     {
@@ -72749,14 +74975,14 @@
         "バクレツアロワナ（歴戦の個体）",
         "Tempered Bomb Arowana",
         "Arowana bombe alpha",
-        "Arowana bomba temprata",
+        "Arowana bomba temprato",
         "Gehärtete Bomben-Arowana",
-        "Arrowana bomba curtida",
-        "Закалённая Аравана-бомба",
-        "Zahartowana Bombarowana",
+        "Arrowana bomba curtido",
+        "Закалённый Аравана-бомба",
+        "Zahartowany Bombarowana",
         "",
         "",
-        "Aruanã-bomba Aguerrida",
+        "Aruanã-bomba Aguerrido",
         "폭렬아로와나(역전의 개체)",
         "爆裂龍魚（歷戰個體）",
         "爆裂龙鱼（历战个体）",
@@ -72778,7 +75004,7 @@
         "",
         "",
         "",
-        "Arowana bomba curtida"
+        "Arowana bomba curtido"
       ]
     },
     {
@@ -72820,7 +75046,7 @@
         "",
         "",
         "",
-        "Arowana bomba curtido"
+        "Arowana bomba hiper-curtido"
       ]
     },
     {
@@ -73295,14 +75521,14 @@
         "バクヤクデメキン（歴戦の個体）",
         "Tempered Gunpowderfish",
         "Poisson-poudre alpha",
-        "Pesce pirico temprata",
+        "Pesce pirico temprato",
         "Gehärtete Schießpulverfisch",
-        "Pez pólvora curtida",
-        "Закалённая Пороховая рыба",
-        "Zahartowana Ryba prochowa",
+        "Pez pólvora curtido",
+        "Закалённый Пороховая рыба",
+        "Zahartowany Ryba prochowa",
         "",
         "",
-        "Peixe-pólvora Aguerrida",
+        "Peixe-pólvora Aguerrido",
         "폭약금붕어(역전의 개체)",
         "火藥金魚（歷戰個體）",
         "火药金鱼（历战个体）",
@@ -73324,7 +75550,7 @@
         "",
         "",
         "",
-        "Pez pólvora curtida"
+        "Pez pólvora curtido"
       ]
     },
     {
@@ -73366,7 +75592,7 @@
         "",
         "",
         "",
-        "Pez pólvora curtido"
+        "Pez pólvora hiper-curtido"
       ]
     },
     {
@@ -73841,14 +76067,14 @@
         "ダイオウカジキ（歴戦の個体）",
         "Tempered Speartuna",
         "Makaire royal alpha",
-        "Marlin temprata",
+        "Marlin temprato",
         "Gehärtete Speerthun",
-        "Pez arpón curtida",
-        "Закалённая Тунец-меч",
-        "Zahartowana Dziduńczyk",
+        "Pez arpón curtido",
+        "Закалённый Тунец-меч",
+        "Zahartowany Dziduńczyk",
         "",
         "",
-        "Lançatum Aguerrida",
+        "Lançatum Aguerrido",
         "대왕청새치(역전의 개체)",
         "大王旗魚（歷戰個體）",
         "大王旗鱼（历战个体）",
@@ -73870,7 +76096,7 @@
         "",
         "",
         "",
-        "Pez arpón curtida"
+        "Pez arpón curtido"
       ]
     },
     {
@@ -73912,7 +76138,7 @@
         "",
         "",
         "",
-        "Pez arpón curtido"
+        "Pez arpón hiper-curtido"
       ]
     },
     {
@@ -74387,14 +76613,14 @@
         "カセキカンス（歴戦の個体）",
         "Tempered Petricanths",
         "Petricanthrope alpha",
-        "Petricante temprata",
+        "Petricante temprato",
         "Gehärtete Petricanth",
-        "Petricanto curtida",
-        "Закалённая Петрикант",
-        "Zahartowana Petrykant",
+        "Petricanto curtido",
+        "Закалённый Петрикант",
+        "Zahartowany Petrykant",
         "",
         "",
-        "Petricanto Aguerrida",
+        "Petricanto Aguerrido",
         "화석칸스(역전의 개체)",
         "化石湯釜（歷戰個體）",
         "化石腔棘鱼（历战个体）",
@@ -74416,7 +76642,7 @@
         "",
         "",
         "",
-        "Petricanto curtida"
+        "Petricanto curtido"
       ]
     },
     {
@@ -74458,7 +76684,7 @@
         "",
         "",
         "",
-        "Petricanto curtido"
+        "Petricanto hiper-curtido"
       ]
     },
     {
@@ -75017,14 +77243,14 @@
         "ニュウドウイカ（歴戦の個体）",
         "Tempered Goliath Squid",
         "Calmar titan alpha",
-        "Calamaro gigante temprata",
+        "Calamaro gigante temprato",
         "Gehärtete Goliath-Tintenfisch",
-        "Calamar goliat curtida",
-        "Закалённая Кальмар-голиаф",
-        "Zahartowana Kałamarnica goliat",
+        "Calamar goliat curtido",
+        "Закалённый Кальмар-голиаф",
+        "Zahartowany Kałamarnica goliat",
         "",
         "",
-        "Lula Colosso Aguerrida",
+        "Lula Colosso Aguerrido",
         "입도 오징어(역전의 개체)",
         "入道烏賊（歷戰個體）",
         "入道乌贼（历战个体）",
@@ -75046,7 +77272,7 @@
         "",
         "",
         "",
-        "Calamar goliat curtida"
+        "Calamar goliat curtido"
       ]
     },
     {
@@ -75088,7 +77314,7 @@
         "",
         "",
         "",
-        "Calamar goliat curtido"
+        "Calamar goliat hiper-curtido"
       ]
     },
     {
@@ -75479,14 +77705,14 @@
         "グラスパレクス（歴戦の個体）",
         "Tempered Glass Parexus",
         "Parexus de verre alpha",
-        "Parexus vitreo temprata",
+        "Parexus vitreo temprato",
         "Gehärtete Glas-Parexus",
-        "Parexus de cristal curtida",
-        "Закалённая Стеклянный парексус",
-        "Zahartowana Szklany parexus",
+        "Parexus de cristal curtido",
+        "Закалённый Стеклянный парексус",
+        "Zahartowany Szklany parexus",
         "",
         "",
-        "Parexus Vítreo Aguerrida",
+        "Parexus Vítreo Aguerrido",
         "글래스파렉스(역전의 개체)",
         "玻璃異形魚（歷戰個體）",
         "玻璃异形鱼（历战个体）",
@@ -75508,7 +77734,7 @@
         "",
         "",
         "",
-        "Parexus de cristal curtida"
+        "Parexus de cristal curtido"
       ]
     },
     {
@@ -75550,7 +77776,7 @@
         "",
         "",
         "",
-        "Parexus de cristal curtido"
+        "Parexus de cristal hiper-curtido"
       ]
     },
     {
@@ -76109,14 +78335,14 @@
         "エスカナイト（歴戦の個体）",
         "Tempered Escunite",
         "Escunite alpha",
-        "Escanito temprata",
+        "Escanito temprato",
         "Gehärtete Wapponit",
-        "Escanita curtida",
-        "Закалённая Эсканит",
-        "Zahartowana Eskanit",
+        "Escanita curtido",
+        "Закалённый Эсканит",
+        "Zahartowany Eskanit",
         "",
         "",
-        "Escunita Aguerrida",
+        "Escunita Aguerrido",
         "에스카나이트(역전의 개체)",
         "盾牌石螺（歷戰個體）",
         "盾章菊螺（历战个体）",
@@ -76138,7 +78364,7 @@
         "",
         "",
         "",
-        "Escanita curtida"
+        "Escanita curtido"
       ]
     },
     {
@@ -76180,7 +78406,7 @@
         "",
         "",
         "",
-        "Escanita curtido"
+        "Escanita hiper-curtido"
       ]
     },
     {
@@ -76655,14 +78881,14 @@
         "グランドエスカナイト（歴戦の個体）",
         "Tempered Grand Escunite",
         "Grande escunite alpha",
-        "Grande escanito temprata",
+        "Grande escanito temprato",
         "Gehärtete Großer Wapponit",
-        "Gran escanita curtida",
-        "Закалённая Большой эсканит",
-        "Zahartowana Eskanit wielki",
+        "Gran escanita curtido",
+        "Закалённый Большой эсканит",
+        "Zahartowany Eskanit wielki",
         "",
         "",
-        "Grande Escunita Aguerrida",
+        "Grande Escunita Aguerrido",
         "그랜드 에스카나이트(역전의 개체)",
         "瑰麗盾牌石螺（歷戰個體）",
         "瑰丽盾章菊螺（历战个体）",
@@ -76684,7 +78910,7 @@
         "",
         "",
         "",
-        "Gran escanita curtida"
+        "Gran escanita curtido"
       ]
     },
     {
@@ -76726,7 +78952,7 @@
         "",
         "",
         "",
-        "Gran escanita curtido"
+        "Gran escanita hiper-curtido"
       ]
     },
     {
@@ -77117,14 +79343,14 @@
         "ドストレバリーパーチ（歴戦の個体）",
         "Tempered Great Trevally",
         "Grande perche alpha",
-        "Carango balordo temprata",
+        "Carango balordo temprato",
         "Gehärtete Großmakrele",
-        "Jurel matón curtida",
-        "Закалённая Большой каранкс",
-        "Zahartowana Karanks wielki",
+        "Jurel matón curtido",
+        "Закалённый Большой каранкс",
+        "Zahartowany Karanks wielki",
         "",
         "",
-        "Xaréu Gigante Aguerrida",
+        "Xaréu Gigante Aguerrido",
         "도스트레발리퍼치(역전의 개체)",
         "大鰺鱸（歷戰個體）",
         "大珍鲈（历战个体）",
@@ -77146,7 +79372,7 @@
         "",
         "",
         "",
-        "Jurel luchador curtida"
+        "Jurel luchador curtido"
       ]
     },
     {
@@ -77188,7 +79414,7 @@
         "",
         "",
         "",
-        "Jurel luchador curtido"
+        "Jurel luchador hiper-curtido"
       ]
     },
     {
@@ -77663,14 +79889,14 @@
         "コモチアミア（歴戦の個体）",
         "Tempered Gravid Bowfin",
         "Amie gravide alpha",
-        "Amia gravida temprata",
+        "Amia gravida temprato",
         "Gehärtete Trächtiger Schlammfisch",
-        "Amia preñada curtida",
-        "Закалённая Икряной лукопёр",
-        "Zahartowana Amia brzemienna",
+        "Amia preñada curtido",
+        "Закалённый Икряной лукопёр",
+        "Zahartowany Amia brzemienna",
         "",
         "",
-        "Amia Grávida Aguerrida",
+        "Amia Grávida Aguerrido",
         "알배기 아미아(역전의 개체)",
         "帶卵弓鰭魚（歷戰個體）",
         "带卵弓鳍鱼（历战个体）",
@@ -77692,7 +79918,7 @@
         "",
         "",
         "",
-        "Amia preñada curtida"
+        "Amia preñada curtido"
       ]
     },
     {
@@ -77734,7 +79960,7 @@
         "",
         "",
         "",
-        "Amia preñada curtido"
+        "Amia preñada hiper-curtido"
       ]
     },
     {
@@ -78209,14 +80435,14 @@
         "ブラインドパーチ（歴戦の個体）",
         "Tempered Blind Perch",
         "Perche aveugle alpha",
-        "Persico cieco temprata",
+        "Persico cieco temprato",
         "Gehärtete Blindbarsch",
-        "Perca ciega curtida",
-        "Закалённая Слепой окунь",
-        "Zahartowana Okoń ślepy",
+        "Perca ciega curtido",
+        "Закалённый Слепой окунь",
+        "Zahartowany Okoń ślepy",
         "",
         "",
-        "Perca Cega Aguerrida",
+        "Perca Cega Aguerrido",
         "블라인드 퍼치(역전의 개체)",
         "盲鱸（歷戰個體）",
         "盲鲈（历战个体）",
@@ -78238,7 +80464,7 @@
         "",
         "",
         "",
-        "Percha ciega curtida"
+        "Percha ciega curtido"
       ]
     },
     {
@@ -78280,7 +80506,7 @@
         "",
         "",
         "",
-        "Percha ciega curtido"
+        "Percha ciega hiper-curtido"
       ]
     },
     {
@@ -78501,11 +80727,11 @@
       "attributes": [],
       "content": [
         "",
-        "Sushifish are a popular hunter staple.\r\nTheir nutrient-rich scales can also be\r\nused to restore health.",
         "",
         "",
         "",
-        "El pez sushi es un alimento muy popular entre\r\ncazadores. Sus escamas ricas en nutrientes\r\ntambién se pueden usar para recuperar la salud.",
+        "",
+        "",
         "",
         "",
         "",
