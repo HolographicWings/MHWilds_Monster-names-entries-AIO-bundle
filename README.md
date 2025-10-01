@@ -52,12 +52,12 @@ The translations are prefix/suffix based from the Rey Dau strings, so please wri
 
 ### Method 2: Pak File (does NOT require REFramework - also gross method)
 *Note: REFramework is still required for the quest loaders so....*
-- Drop the "**re_chunk_000.pak.sub_000.pak.patch_00x.pak**" from the zip to the game's directory (where "**MonsterHunterWilds.exe**" is located).
+- Drop the "**re_chunk_000.pak.sub_000.pak.patch_01x.pak**" from the zip to the game's directory (where "**MonsterHunterWilds.exe**" is located).
 - Rename the file by replacing the "**x**" at it's end with the next available number:
 ﻿  For example, if the last existing file is
-﻿  "**re_chunk_000.pak.sub_000.pak.__patch_006.pak__**",
+﻿  "**re_chunk_000.pak.sub_000.pak.__patch_011.pak__**",
 ﻿  rename the mod file to:
-﻿  "**re_chunk_000.pak.sub_000.pak.__patch_007.pak__**"
+﻿  "**re_chunk_000.pak.sub_000.pak.__patch_012.pak__**"
 ﻿  *Note: Make sure it does not overwrite any other mod.*
 ﻿  **__!!! WARNING !!! If the game is updated, a new "patch_00x.pak" might be created, overwriting the mod, it's why this method is not adviced, you risk to loose the ﻿﻿﻿track.__**
 
@@ -72,8 +72,8 @@ The translations are prefix/suffix based from the Rey Dau strings, so please wri
 ﻿  Or directly the "**natives**" folder *if that's the only mod you installed*.
 
 ### Method 2: Pak File
-- Remove the file "**re_chunk_000.pak.sub_000.pak.patch_00x.pak**" you installed and *renamed* in the installation guide.
-﻿﻿  **__!!! WARNING !!! If the game is updated, a "patch_00x.pak" from a mod might be overwritten by the update's one, if you remove this file instead of the mod's one, you will break the game, a file ﻿﻿﻿integrity check will be needed.__**
+- Remove the file "**re_chunk_000.pak.sub_000.pak.patch_01x.pak**" you installed and *renamed* in the installation guide.
+﻿﻿  **__!!! WARNING !!! If the game is updated, a "patch_01x.pak" from a mod might be overwritten by the update's one, if you remove this file instead of the mod's one, you will break the game, a file ﻿﻿﻿integrity check will be needed.__**
 
 ---  
 
