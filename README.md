@@ -4,7 +4,7 @@
 Adds **__name entries__** for **Tempered**, **Arch-Tempered**, and **Frenzied** variants to all **large monsters**, **small monsters**, **endemic life**, and **fishes** **__in Monster Hunter Wilds' localization file__**.
 **__Useful for modded quests, avoid the blank mission objectives (like "Hunt the")__**.
 
-### BEWARE: This mod is made for the TU2, it's not recommended to install it with any previous or future update before it gets updated for it.
+### BEWARE: This mod is made for the TU3, it's not recommended to install it with any previous or future update before it gets updated for it.
 
 ---  
 
